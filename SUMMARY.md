@@ -7,7 +7,7 @@
   * [stage-2](training/stage-2.md)
   * [stage-3](training/stage-3.md)
 * [develop](develop.md)
-  * [wordpress](develop/wordpress.md)
   * [website](develop/website.md)
   * [web service](develop/web-service.md)
+  * [wordpress](develop/wordpress.md)
 
