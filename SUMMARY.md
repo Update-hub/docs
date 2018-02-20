@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+  * [installation](installation.md)
 * [training](training.md)
   * [stage-1](training/stage-1.md)
   * [stage-2](training/stage-2.md)
