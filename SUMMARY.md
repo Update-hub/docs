@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [training](training.md)
   * [stage-1](training/stage-1.md)
-  * stage-2
+  * [stage-2](training/stage-2.md)
   * stage-3
 * [develop](develop.md)
   * [wordpress](develop/wordpress.md)
