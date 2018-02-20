@@ -53,7 +53,6 @@ BEMをはじめとするCSS設計ルールに則ってCSS設計を行います�
   font-size: 12px;
 }
 
-
 /* Bad */
 
 .button {
@@ -65,8 +64,6 @@ BEMをはじめとするCSS設計ルールに則ってCSS設計を行います�
 .btn-1-child {
   font-size: 12px;
 }
-
-
 ```
 
 ## 検品
