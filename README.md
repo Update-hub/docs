@@ -1,3 +1,15 @@
-# My Awesome Book
+# ようこそUpdateへ
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Updateは \*\*概ね3ヶ月\*\* で \*\*即戦力のフロントエンドエンジニア\*\* になるためのカリキュラムを作成しています。（毎日コンスタントにコミットする前提）
+
+## トレーニングの流れ
+
+1. 基礎トレーニング
+2. 開発トレーニング
+3. チーム開発
+4. 卒業制作
+5. レジュメ作成
+6. 就職活動
+
+
+
