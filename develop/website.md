@@ -40,10 +40,10 @@ PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いず
 
 作成したサイトはクライアントチェックや公開前に必ず検品を行います。表示、動作上の不具合はもちろんコードの不備も徹底的に洗い出し、最高の品質に仕上げます。
 
+### ツールチェック
 
-検品項目|概要|合格基準
+ツール|概要|合格基準
 ---|---|---
-ブラウザチェック|さまざまなブラウザでの表示、動作チェック|表示崩れや動作バグがないこと
 [HTML Validator](https://validator.w3.org/)|HTML品質チェック|エラーがない状態にする(外部ソースは除く)
 [構造化データテストツール](https://search.google.com/structured-data/testing-tool)|SEO対策|エラーがない状態
 [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja)|パフォーマンス改善|PC, SPともにグリーンスコア
@@ -53,9 +53,20 @@ PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いず
 [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)|PWAの場合|エラーがないこと
 [Test My Site](https://testmysite.withgoogle.com/intl/ja-jp)|表示速度と同業比較|要改善でないこと
 
-### OSバージョン、ブラウザバージョンについて
+### ブラウザチェック
 
-最近のOSは自動的に最新OS,ブラウザがアップデートされるため、特に定めがない場合最新OS,ブラウザでの検品で良いです。古いブラウザについてはバージョンアップを促すメッセージを表示させるのが理想です。サポート対象外のブラウザを使用することはセキュリティの観点から推奨されないため、適宜クライアントを説得しましょう。幅広い年齢層の不特定多数のユーザーの利用が見込まれるサイト、サービスにおいては下記ページを参考に適宜古いOS、ブラウザ対応を行いましょう。
+要件定義に基づき、各種ブラウザで表示や動作上の不具合がないか目視で確認しましょう。要件定義がない場合、モダンブラウザ（各端末の最新ブラウザ）で確認を行いましょう。
+
+- Chrome
+- Safari
+- Microsoft Edge(旧IE)
+- Firefox
+- Safari(iOS)
+- Chrome(Android)
+
+ブラウザの開発者ツールでスマートフォン、タブレットの表示をシュミレートすることができますが、特にタップ操作を伴うUIがある場合などは必ず実機で表示して確認を行いましょう。
+
+#### 参考
 
 - [ブラウザ別シェア](https://lab.syncer.jp/Statistic/Browser/2017/10/)
 - [iOSシェア](https://developer.apple.com/support/app-store/)
