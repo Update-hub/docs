@@ -20,5 +20,7 @@ slackをインストールしたらUpdateのワークスペースにログイン
 
 ## サービス登録
 
+まだアカウントがない場合、それぞれ作成してください。
+
 - [GitHub](https://github.com/)
 - [Gmail](https://www.google.com/gmail/)
