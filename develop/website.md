@@ -40,3 +40,29 @@ PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いず
 
 作成したサイトはクライアントチェックや公開前に必ず検品を行います。表示、動作上の不具合はもちろんコードの不備も徹底的に洗い出し、最高の品質に仕上げます。
 
+
+検品項目|概要|合格基準
+---|---|---
+ブラウザチェック|さまざまなブラウザでの表示、動作チェック|表示崩れや動作バグがないこと
+[HTML Validator](https://validator.w3.org/)|HTML品質チェック|エラーがない状態にする(外部ソースは除く)
+[構造化データテストツール](https://search.google.com/structured-data/testing-tool)|SEO対策|エラーがない状態
+[Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja)|パフォーマンス改善|PC, SPともにグリーンスコア
+[モバイルフレンドリー](https://search.google.com/search-console/mobile-friendly?hl=ja)|スマホ対応|エラーがない状態
+[シェアデバッカー](https://developers.facebook.com/tools/debug/)|SNSシェア時にサムネイルなど表示するタグ|エラーがない状態
+[AMPテスト](https://search.google.com/test/amp)|AMPの場合|エラーがないこと
+[Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk)|PWAの場合|エラーがないこと
+[Test My Site](https://testmysite.withgoogle.com/intl/ja-jp)|表示速度と同業比較|要改善でないこと
+
+### OSバージョン、ブラウザバージョンについて
+
+最近のOSは自動的に最新OS,ブラウザがアップデートされるため、特に定めがない場合最新OS,ブラウザでの検品で良いです。古いブラウザについてはバージョンアップを促すメッセージを表示させるのが理想です。サポート対象外のブラウザを使用することはセキュリティの観点から推奨されないため、適宜クライアントを説得しましょう。幅広い年齢層の不特定多数のユーザーの利用が見込まれるサイト、サービスにおいては下記ページを参考に適宜古いOS、ブラウザ対応を行いましょう。
+
+- [ブラウザ別シェア](https://lab.syncer.jp/Statistic/Browser/2017/10/)
+- [iOSシェア](https://developer.apple.com/support/app-store/)
+- [Androidシェア](https://developer.android.com/about/dashboards/index.html)
+
+### その他見落としがちなチェック項目
+
+- favicon, スマホhome画面用アイコンは設置されているか
+- titleは正しく設定されているか
+- Sitemapは設置されているか
