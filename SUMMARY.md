@@ -2,6 +2,7 @@
 
 * [Updateとは](README.md)
   * [事前準備](installation.md)
+  * [学習のポイント](training-tips.md)
 * [トレーニング](training.md)
   * [stage-1](training/stage-1.md)
   * [stage-2](training/stage-2.md)
