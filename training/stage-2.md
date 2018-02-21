@@ -6,9 +6,15 @@ Stage-2 では開発トレーニングを行います。
 
 [gitによる共同開発](https://www.youtube.com/watch?v=sY64kVwQ-bw&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL&index=2) を参考に、GitHubリポジトリでブランチ開発を行なってください。
 
-- トレーニング用リポジトリのclone
-- 開発用ブランチの作成
+* トレーニング用リポジトリのclone
+* 開発用ブランチの作成
 - Push & Pull Request
+
+1. aaaa
+1. aaa
+1. affa
+
+
 
 ## 環境整備
 
