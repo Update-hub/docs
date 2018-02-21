@@ -18,3 +18,8 @@ Stage-1 では基礎トレーニングを行います。
 
 - Gulp
 - Chrome Developer Tools
+
+## 上級編ムービ
+
+- [BEM](https://www.youtube.com/watch?v=Put2HqjL2wg&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL&t=394s&index=7)
+- [gitによる共同開発](https://www.youtube.com/watch?v=sY64kVwQ-bw&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL&index=2)
