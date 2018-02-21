@@ -9,3 +9,7 @@
 2. [Qiita](https://qiita.com/trend)（更新日時が新しい順に参照）
 3. [Stackoverflow](https://ja.stackoverflow.com/)
 4. 野良ブログを参照
+
+
+
+などで Google 検索
