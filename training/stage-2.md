@@ -14,3 +14,4 @@ Stage-2 では開発トレーニングを行います。
 
 - Editor Configの説明
 - ESLint の説明
+- ブランチ管理の説明
