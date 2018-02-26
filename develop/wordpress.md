@@ -2,8 +2,6 @@
 
 TODO: 動画載せる
 
-
-
 ## ドキュメント
 
 * [https://wpdocs.osdn.jp/テーマの作成](https://wpdocs.osdn.jp/テーマの作成)
