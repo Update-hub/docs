@@ -11,6 +11,9 @@
 3. [Stackoverflow](https://ja.stackoverflow.com/)
 4. 野良ブログを参照
 
-例
-
+例:
 gulp で sass を動かす方法が分からない場合、`gulp sass qiita` などで Google 検索
+
+## 注意点
+
+- トレーナーは実務に携わっているため、もらった質問に即レスできないことがありますのが予めご了承ください。
