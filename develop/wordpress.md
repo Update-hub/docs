@@ -3,6 +3,7 @@
 ## ドキュメント
 
 * [https://wpdocs.osdn.jp/テーマの作成](https://wpdocs.osdn.jp/テーマの作成)
+* 公式テーマを参考にする
 
 ## 品質チェック
 
