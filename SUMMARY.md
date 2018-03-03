@@ -12,5 +12,5 @@
   * [webサイト](develop/website.md)
   * [webサービス](develop/web-service.md)
   * [wordpress](develop/wordpress.md)
-* [job](job.md)
+* [仕事](job.md)
 
