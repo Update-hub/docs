@@ -74,3 +74,19 @@ vimでコメントを編集、保存。
 ```
 git checkout .
 ```
+
+
+### editorconfig
+
+- visual studio code(vsc) で editorconfig プラグインを入れている前提
+- vsc のコマンドパレットで generate editor config のコマンドを打つと自動で `.editorconfig.json` が生成される
+
+editorconfg があると、対象エディタ（editorconfig入りのVSCなど）を使う全メンバーで自動的にインデントサイズなどが統一される。
+
+人によってインデントがタブだったりスペースだったりというブレを防止できる。
+
+### ポイント
+
+- Editor Configの説明
+- ESLint の説明
+- ブランチ管理の説明
