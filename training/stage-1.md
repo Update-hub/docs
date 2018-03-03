@@ -69,9 +69,6 @@ node_modules
 dist
 ```
 
-
-
-
 ## Tips
 
 ### コミットメッセージの書き直す
