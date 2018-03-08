@@ -1,6 +1,6 @@
 # 学習のポイント
 
-* \[Chrome 翻訳拡張機能\]\([https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=ja\)を入れ、英文ドキュメントを適宜翻訳しながら調べるクセをつける。](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=ja%29を入れ、英文ドキュメントを適宜翻訳しながら調べるクセをつける。)
+* Chrome 翻訳拡張機能[を入れ、英文ドキュメントを適宜翻訳しながら調べるクセをつける。](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=ja%29を入れ、英文ドキュメントを適宜翻訳しながら調べるクセをつける。)
 * 迷ったら公式ドキュメントをまず調べる。公式が常に最新かつ正義。
 * 専門用語が出たら都度自分で調べる。調べるスキルを上げる。
 * エラーが出たらエラーメッセージでGoogle 検索。

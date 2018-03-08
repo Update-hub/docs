@@ -2,7 +2,7 @@
 
 このトレーニングでは既存サイトのメンテナンスを通して、実務の基本的な流れを身につけます。
 
-\[BEM\]\([http://getbem.com/](http://getbem.com/%29%29\)\) - フロントエンド設計思想
+[BEM](http://getbem.com/) - フロントエンド設計思想
 
 ```bash
 git clone <自分のリポジトリURL>
