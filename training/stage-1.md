@@ -2,15 +2,9 @@
 
 このトレーニングでは既存サイトのメンテナンスを通して、実務の基本的な流れを身につけます。
 
+* \[BEM\]\([http://getbem.com/](http://getbem.com/\)\) - フロントエンド設計思想
 
-
-* \[BEM\]\(http://getbem.com/\) - フロントエンド設計思想
-
-  
-1.   
-http://xxxx.co
-
-
+1. [http://xxxx.co](http://xxxx.co)
 
 
 
