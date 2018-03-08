@@ -33,9 +33,10 @@ slackをインストールしたらUpdateのワークスペースにログイン
 
 
 
-* [ ]  demo
-* [ ] de
-* [ ] saf
+* [ ] demo
+* [ ] demo
+
+
 
 
 
