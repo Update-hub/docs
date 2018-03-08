@@ -10,11 +10,6 @@ Stage-2 では開発トレーニングを行います。
 * 開発用ブランチの作成
 - Push & Pull Request
 
-1. aaaa
-1. aaa
-1. affa
-
-
 
 ## 環境整備
 
