@@ -13,3 +13,7 @@ OGPタグを設置するとSNSでURLをシェアした際、タイトルやサ�
 <!-- 画像を載せたい場合 -->
 <meta property="og:image" content="http://foo.com/bar.jpg">
 ```
+
+## ポイント
+
+- 画像は本番環境の絶対パスである必要があります。
