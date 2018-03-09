@@ -11,6 +11,7 @@
 * [開発ドキュメント](develop.md)
   * [webサイト](develop/website.md)
     * [Faviconの実装](develop/website/favicon.md)
+    * OGP
   * [webサービス](develop/web-service.md)
   * [wordpress](develop/wordpress.md)
 
