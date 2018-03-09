@@ -10,6 +10,7 @@
   * [プロテスト](pro-test.md)
 * [開発ドキュメント](develop.md)
   * [webサイト](develop/website.md)
+    * [favicon](develop/website/favicon.md)
   * [webサービス](develop/web-service.md)
   * [wordpress](develop/wordpress.md)
 
