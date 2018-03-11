@@ -24,6 +24,7 @@
     * [angular](develop/web-service/angular.md)
     * [react](develop/web-service/react.md)
   * [wordpress](develop/wordpress.md)
+    * [theme](develop/wordpress/theme.md)
   * [basic](develop/basic.md)
     * [git](develop/git.md)
     * [github](develop/github.md)
