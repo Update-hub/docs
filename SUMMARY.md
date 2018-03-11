@@ -16,7 +16,7 @@
     * [amp](develop/website/amp.md)
     * [pwa](develop/website/pwa.md)
     * [mobile-first](develop/website/mobile-first.md)
-    * inspection
+    * [inspection](develop/website/inspection.md)
     * emmet
   * [webサービス](develop/web-service.md)
     * firebase
