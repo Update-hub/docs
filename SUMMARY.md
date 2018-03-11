@@ -1,6 +1,6 @@
 # Summary
 
-* [はじめての方へ](README.md)
+* [はじめに](README.md)
   * [事前準備](installation.md)
   * [学習のポイント](training-tips.md)
 * [トレーニング](training.md)
