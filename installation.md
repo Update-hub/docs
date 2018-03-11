@@ -23,10 +23,10 @@ slackをインストールしたらUpdateのワークスペース\(update-hub.sl
 
 windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
 
-```
-npm i -g gulp-cli
-npm i -g eslint
-npm i -g editorconfig
+```bash
+$ npm i -g gulp-cli
+$ npm i -g eslint
+$ npm i -g editorconfig
 ```
 
 ### Git Flow
