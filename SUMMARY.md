@@ -17,13 +17,15 @@
     * pwa
     * mobile-first
     * inspection
+    * emmet
   * [webサービス](develop/web-service.md)
     * firebase
     * vue
     * angular
     * react
   * [wordpress](develop/wordpress.md)
-  * basic
+  * [basic](develop/basic.md)
     * [git](develop/git.md)
     * github
+    * visual studio code
 
