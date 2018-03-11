@@ -30,6 +30,7 @@
     * [angular](develop/web-service/angular.md)
     * [react](develop/web-service/react.md)
     * [CakePHP](develop/web-service/cake-php.md)
+    * [laravel](develop/web-service/laravel.md)
   * [wordpress](develop/wordpress.md)
     * [theme](develop/wordpress/theme.md)
     * [plugins](develop/wordpress/plugins.md)
