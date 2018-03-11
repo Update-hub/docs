@@ -13,6 +13,17 @@
     * [Faviconの実装](develop/website/favicon.md)
     * [OGP](develop/website/ogp.md)
     * [BEM](develop/website/bem.md)
+    * amp
+    * pwa
+    * mobile-first
+    * inspection
   * [webサービス](develop/web-service.md)
+    * firebase
+    * vue
+    * angular
+    * react
   * [wordpress](develop/wordpress.md)
+  * basic
+    * [git](develop/git.md)
+    * github
 
