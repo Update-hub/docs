@@ -22,7 +22,7 @@ https://github.com/nvie/gitflow
 ```
 feat(top): バナー追加 #23
 ```
-#### Type一覧
+### Type一覧
 
 |type|description|
 |---|---|
