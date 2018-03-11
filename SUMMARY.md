@@ -24,7 +24,7 @@
     * [gulp](develop/web-service/gulp.md)
     * [emmet](develop/website/emmet.md)
     * [Web App Manifest](develop/website/webmanifest.md)
-  * [webサービス](develop/web-service.md)
+  * [webアプリ](develop/web-service.md)
     * [firebase](develop/web-service/firebase.md)
     * [vue](develop/web-service/vue.md)
     * [angular](develop/web-service/angular.md)
