@@ -21,10 +21,10 @@
 
 * Chrome
 * Safari
-* Microsoft Edge\(旧IE\)
+* Microsoft Edge(旧IE)
 * Firefox
-* Safari\(iOS\)
-* Chrome\(Android\)
+* Safari(iOS)
+* Chrome(Android)
 
 ブラウザの開発者ツールでスマートフォン、タブレットの表示をシュミレートすることができますが、特にタップ操作を伴うUIがある場合などは必ず実機で表示して確認を行いましょう。
 
