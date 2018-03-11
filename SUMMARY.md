@@ -21,7 +21,7 @@
   * [webサービス](develop/web-service.md)
     * [firebase](develop/web-service/firebase.md)
     * [vue](develop/web-service/vue.md)
-    * angular
+    * [angular](develop/web-service/angular.md)
     * react
   * [wordpress](develop/wordpress.md)
   * [basic](develop/basic.md)
