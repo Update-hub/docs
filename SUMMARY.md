@@ -32,7 +32,3 @@
     * [github](develop/github.md)
     * [visual studio code](develop/visual-studio-code.md)
 
-## demo
-
-* [test](demo/test.md)
-
