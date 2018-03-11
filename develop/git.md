@@ -7,3 +7,6 @@ https://git-scm.com/
 
 https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html
 https://github.com/nvie/gitflow
+
+## コミットメッセージ
+
