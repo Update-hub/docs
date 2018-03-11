@@ -27,5 +27,5 @@
   * [basic](develop/basic.md)
     * [git](develop/git.md)
     * [github](develop/github.md)
-    * visual studio code
+    * [visual studio code](develop/visual-studio-code.md)
 
