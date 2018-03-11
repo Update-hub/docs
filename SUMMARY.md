@@ -20,7 +20,7 @@
     * [amp](develop/website/amp.md)
     * [pwa](develop/website/pwa.md)
     * [mobile-first](develop/website/mobile-first.md)
-    * [inspection](develop/website/inspection.md)
+    * [検品](develop/website/inspection.md)
     * [gulp](develop/web-service/gulp.md)
     * [emmet](develop/website/emmet.md)
     * [Web App Manifest](develop/website/webmanifest.md)
