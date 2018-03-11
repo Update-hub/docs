@@ -23,6 +23,7 @@
     * [vue](develop/web-service/vue.md)
     * [angular](develop/web-service/angular.md)
     * [react](develop/web-service/react.md)
+    * [gulp](develop/web-service/gulp.md)
   * [wordpress](develop/wordpress.md)
     * [theme](develop/wordpress/theme.md)
     * [plugins](develop/wordpress/plugins.md)
