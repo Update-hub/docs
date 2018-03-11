@@ -1,5 +1,12 @@
 # トレーニング環境構築
 
+## PC
+
+Mac or Windows を用意してください。実際の現場ではMacが多いため、これからPCを購入する方はMacをお勧めします。
+
+- Macであればスペックは不問です。
+- Windows の場合、基本的なPC操作でもたつかない程度の処理能力が推奨されます。
+
 ## ツール
 
 以下のツールをそれぞれインストールしてください。すべて無料です。
@@ -11,6 +18,16 @@
 * [slack](https://slack.com/downloads/) - チャットツール
 
 slackをインストールしたらUpdateのワークスペース\(update-hub.slack.com\)にログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールをお勧めします。**作業中は基本的にSlackにログインする**ようにしてください。
+
+### node package
+
+windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
+
+```
+npm i -g gulp-cli
+npm i -g eslint
+npm i -g editorconfig
+```
 
 ### Visual Studio Code拡張機能
 
