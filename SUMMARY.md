@@ -23,6 +23,7 @@
     * [inspection](develop/website/inspection.md)
     * [gulp](develop/web-service/gulp.md)
     * [emmet](develop/website/emmet.md)
+    * [webmanifest](develop/website/webmanifest.md)
   * [webサービス](develop/web-service.md)
     * [firebase](develop/web-service/firebase.md)
     * [vue](develop/web-service/vue.md)
