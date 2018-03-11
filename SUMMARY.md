@@ -19,7 +19,7 @@
     * [inspection](develop/website/inspection.md)
     * [emmet](develop/website/emmet.md)
   * [webサービス](develop/web-service.md)
-    * firebase
+    * [firebase](develop/web-service/firebase.md)
     * vue
     * angular
     * react
