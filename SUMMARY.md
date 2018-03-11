@@ -30,6 +30,4 @@
     * [git](develop/git.md)
     * [github](develop/github.md)
     * [visual studio code](develop/visual-studio-code.md)
-* [demo](demo.md)
-  * [child-demo](demo/child-demo.md)
 
