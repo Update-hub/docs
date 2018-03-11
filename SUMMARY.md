@@ -10,7 +10,7 @@
   * [プロテスト](pro-test.md)
 * [開発ドキュメント](develop.md)
   * [webサイト](develop/website.md)
-    * [Faviconの実装](develop/website/favicon.md)
+    * [Favicon](develop/website/favicon.md)
     * [OGP](develop/website/ogp.md)
     * [BEM](develop/website/bem.md)
     * [amp](develop/website/amp.md)
@@ -30,4 +30,5 @@
     * [git](develop/git.md)
     * [github](develop/github.md)
     * [visual studio code](develop/visual-studio-code.md)
+* [demo](demo.md)
 
