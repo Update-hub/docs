@@ -1,5 +1,8 @@
 # WordPress
 
+https://ja.wordpress.org/
+http://wpdocs.osdn.jp/Main_Page
+
 TODO: 動画載せる
 
 ## ドキュメント
