@@ -15,7 +15,7 @@
     * [BEM](develop/website/bem.md)
     * [amp](develop/website/amp.md)
     * [pwa](develop/website/pwa.md)
-    * mobile-first
+    * [mobile-first](develop/website/mobile-first.md)
     * inspection
     * emmet
   * [webサービス](develop/web-service.md)
