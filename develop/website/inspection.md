@@ -30,7 +30,7 @@
 
 #### 参考
 
-* [ブラウザ別シェア](https://lab.syncer.jp/Statistic/Browser/2017/10/)
+* [ブラウザ別シェア](https://lab.syncer.jp/Statistic/Browser/)
 * [iOSシェア](https://developer.apple.com/support/app-store/)
 * [Androidシェア](https://developer.android.com/about/dashboards/index.html)
 
