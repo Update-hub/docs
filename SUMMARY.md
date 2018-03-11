@@ -26,6 +26,6 @@
   * [wordpress](develop/wordpress.md)
   * [basic](develop/basic.md)
     * [git](develop/git.md)
-    * github
+    * [github](develop/github.md)
     * visual studio code
 
