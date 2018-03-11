@@ -10,7 +10,7 @@
 * [chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=ja) - 主な開発用ブラウザ
 * [slack](https://slack.com/downloads/) - チャットツール
 
-slackをインストールしたらUpdateのワークスペースにログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールをお勧めします。**作業中は基本的にSlackにログインする**ようにしてください。
+slackをインストールしたらUpdateのワークスペース\(update-hub.slack.com\)にログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールをお勧めします。**作業中は基本的にSlackにログインする**ようにしてください。
 
 ### Visual Studio Code拡張機能
 
