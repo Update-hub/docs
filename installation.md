@@ -34,7 +34,7 @@ $ npm i -g editorconfig
 Macの方のみ導入してください。windowsの方は Git 導入時に自動的に組み込まれています。
 
 ```
-curl -L -O https://raw.github.com/nvie/gitflow/develop/contrib/gitflow-installer.sh
+$ curl -L -O https://raw.github.com/nvie/gitflow/develop/contrib/gitflow-installer.sh
 sudo bash gitflow-installer.sh
 ```
 
