@@ -22,7 +22,7 @@
     * [firebase](develop/web-service/firebase.md)
     * [vue](develop/web-service/vue.md)
     * [angular](develop/web-service/angular.md)
-    * react
+    * [react](develop/web-service/react.md)
   * [wordpress](develop/wordpress.md)
   * [basic](develop/basic.md)
     * [git](develop/git.md)
