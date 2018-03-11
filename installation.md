@@ -29,17 +29,26 @@ npm i -g eslint
 npm i -g editorconfig
 ```
 
+### Git Flow
+
+Macの方のみ導入してください。windowsの方は Git 導入時に自動的に組み込まれています。
+
+```
+curl -L -O https://raw.github.com/nvie/gitflow/develop/contrib/gitflow-installer.sh
+sudo bash gitflow-installer.sh
+```
+
 ### Visual Studio Code拡張機能
 
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - コーディングルール定義
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - JSの品質チェック
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - コード整形
 
-## サービス登録
-
-まだアカウントがない場合、それぞれ作成してください。
+## GitHub登録
 
 * [GitHub](https://github.com/)
+
+アカウント作成後、アイコンの設定を行ってください。
 
 ## Slackの設定
 
