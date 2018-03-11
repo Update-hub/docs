@@ -13,7 +13,7 @@
     * [Faviconの実装](develop/website/favicon.md)
     * [OGP](develop/website/ogp.md)
     * [BEM](develop/website/bem.md)
-    * amp
+    * [amp](develop/website/amp.md)
     * pwa
     * mobile-first
     * inspection
