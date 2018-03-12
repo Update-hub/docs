@@ -9,6 +9,12 @@ https://git-scm.com/
 - コミットメッセージは作業内容が端的に一目で分かるようにしましょう。
 - 作業単位でbranchを切りましょう。
 
+## リポジトリサービス
+
+- [GitHub](https://github.com) - 世界的メインストリーム。プライベートリポジトリは有料。
+- [GitLab](https://about.gitlab.com/) - 国内の現場で採用率高。プライベートリポジトリも無料。
+- [BitBucket](https://bitbucket.org/product) - プライベートリポジトリも無料（制限あり）
+
 ## ブランチモデル
 
 Git Flowがメジャーですが、毎日DeployするようなハイサイクルなプロジェクトではGitHub Flowが推奨されます。
