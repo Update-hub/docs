@@ -40,3 +40,4 @@ https://github.com/nvie/gitflow
 長期的にはコマンドでのGit操作が推奨されますが、コマンド操作が難しい方はクライアントの利用を検討してください。
 
 - [GitHub Desktop](https://desktop.github.com/)
+- [SourceTree](https://ja.atlassian.com/software/sourcetree)
