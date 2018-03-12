@@ -39,4 +39,4 @@ https://github.com/nvie/gitflow
 
 長期的にはコマンドでのGit操作が推奨されますが、コマンド操作が難しい方はクライアントの利用を検討してください。
 
-- [GitHub Desktop](https://help.github.com/desktop/)
+- [GitHub Desktop](https://desktop.github.com/)
