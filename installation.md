@@ -22,7 +22,7 @@ slackをインストールしたらUpdateのワークスペース\(update-hub.sl
 
 ### node package
 
-windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
+windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ($ は不要)
 
 ```bash
 $ npm i -g gulp-cli
