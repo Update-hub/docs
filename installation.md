@@ -22,12 +22,12 @@ slackをインストールしたらUpdateのワークスペース\(update-hub.sl
 
 ### node package
 
-windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ($ は不要)
+windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
 
 ```bash
-$ npm i -g gulp-cli
-$ npm i -g eslint
-$ npm i -g editorconfig
+npm i -g gulp-cli
+npm i -g eslint
+npm i -g editorconfig
 ```
 
 ### Visual Studio Code拡張機能
