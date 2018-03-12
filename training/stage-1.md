@@ -7,7 +7,6 @@
 ```bash
 $ git clone <自分のリポジトリURL>
 $ cd <自分のプロジェクトディレクトリ>
-$ git flow init -d
 ```
 
 
