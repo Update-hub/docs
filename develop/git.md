@@ -11,6 +11,8 @@ https://git-scm.com/
 
 ## ブランチモデル
 
+Git Flowがメジャーですが、毎日DeployするようなハイサイクルなプロジェクトではGitHub Flowが推奨されます。
+
 ### Git Flow
 
 ローサイクルなプロジェクト向け。メジャーだが複雑。
