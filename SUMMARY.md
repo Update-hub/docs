@@ -12,6 +12,7 @@
   * [基礎知識](develop/basic.md)
     * [git](develop/git.md)
     * [visual studio code](develop/visual-studio-code.md)
+    * [editorconfig](develop/editorconfig.md)
   * [webサイト](develop/website.md)
     * [Favicon](develop/website/favicon.md)
     * [OGP](develop/website/ogp.md)
