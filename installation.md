@@ -30,15 +30,6 @@ $ npm i -g eslint
 $ npm i -g editorconfig
 ```
 
-### Git Flow
-
-Macの方のみ導入してください。windowsの方は Git 導入時に自動的に組み込まれています。
-
-```bash
-$ curl -L -O https://raw.github.com/nvie/gitflow/develop/contrib/gitflow-installer.sh
-sudo bash gitflow-installer.sh
-```
-
 ### Visual Studio Code拡張機能
 
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - コーディングルール定義
