@@ -34,3 +34,9 @@ https://gist.github.com/Gab-km/3705015
 
 https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html
 https://github.com/nvie/gitflow
+
+## クライアント
+
+長期的にはコマンドでのGit操作が推奨されますが、コマンド操作が難しい方はクライアントの利用を検討してください。
+
+- [GitHub Desktop](https://help.github.com/desktop/)
