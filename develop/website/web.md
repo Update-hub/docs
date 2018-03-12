@@ -1,5 +1,7 @@
 # Webフォント
 
+それぞれ CSS を @import して font-family 指定するだけで使えます。
+
 ## Text
 
 - [Google Fonts](https://fonts.google.com/)
