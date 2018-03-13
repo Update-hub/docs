@@ -27,6 +27,7 @@
     * [Web App Manifest](develop/website/webmanifest.md)
     * [webフォント](develop/website/web.md)
     * [photoshop](develop/website/photoshop.md)
+    * [chrome-devtools](develop/website/chrome-devtools.md)
   * [webアプリ](develop/web-service.md)
     * [firebase](develop/web-service/firebase.md)
     * [vue](develop/web-service/vue.md)
