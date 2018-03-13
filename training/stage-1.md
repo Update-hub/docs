@@ -26,7 +26,7 @@ gulp serve
 ## 課題
 
 1. [issue](https://github.com/Update-hub/stage-1/issues)ごとにブランチを作成し、対応後Pull Requestを作成してください。
-2. 全てのPull Requestが通過したら作業完了となります。
+2. 全てのPull Requestが通過したらクリアとなります。
 
 ### ポイント
 
