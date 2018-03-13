@@ -5,7 +5,7 @@
 ## 前提知識
 
 - [Git操作](https://drive.google.com/drive/u/0/folders/0BwhcbXxSdjGibFRtZDlFcFBmV1E)
-- [Git](https://docs.update.jp/develop/git.html)
+- [Git](/develop/git.html)
 
 ## 準備
 
