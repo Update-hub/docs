@@ -5,6 +5,7 @@
 ## 前提知識
 
 - [Git操作](https://drive.google.com/drive/u/0/folders/0BwhcbXxSdjGibFRtZDlFcFBmV1E)
+- [Git]()
 
 ## 準備
 
@@ -25,5 +26,7 @@ gulp serve
 
 ## 課題
 
-- `app/index.html` のファイルのテキストをなんでもいいので編集してください。
-- 前提知識の動画を参考に、Pull Request を作成してください。
+1. `app/index.html` のファイルを編集し、Web Starter Kitの見出しを自分の名前に変更してください。
+2. 確認用URLで自分の編集が反映されていることを確認してください。
+3. 前提知識の動画を参考に、Pull Request を作成してください。
+4. 同様の手順で
