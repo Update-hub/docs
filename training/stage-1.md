@@ -6,13 +6,24 @@
 
 - [Git操作](https://drive.google.com/drive/u/0/folders/0BwhcbXxSdjGibFRtZDlFcFBmV1E)
 
-## 課題
+## 準備
 
-[課題](https://classroom.github.com/a/aK4sv0P7)
+1. [課題](https://classroom.github.com/a/aK4sv0P7)の作成
+2. 上記URLで自分のリポジトリを作成したあと、下記コマンドで開発を開始してください。
 
-```
+```bash
 git clone <自分の課題URL>
 cd <自分の課題リポジトリ>
 npm i // しばらく待つ
 gulp serve
 ```
+
+- 上記コマンドで開発環境が構築されます。
+- 確認用URLが自動的に開きます。
+- 開発中はソースコードの修正がリアルタイムに反映されます。
+- `ctrl + c` を押すと開発を終了できます。
+
+## 課題
+
+- `app/index.html` のファイルのテキストをなんでもいいので編集してください。
+- 前提知識の動画を参考に、Pull Request を作成してください。
