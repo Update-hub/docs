@@ -9,7 +9,7 @@
 
 ## 準備
 
-1. [課題](https://classroom.github.com/a/aK4sv0P7)の作成
+1. [課題](https://classroom.github.com/a/aK4sv0P7)リポジトリの作成
 2. 上記URLで自分のリポジトリを作成したあと、下記コマンドで開発を開始してください。
 
 ```bash
