@@ -18,7 +18,7 @@ Mac or Windows を用意してください。実際の現場ではMacが多い�
 * [chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=ja) - 主な開発用ブラウザ
 * [slack](https://slack.com/downloads/) - チャットツール
 
-slackをインストールしたらUpdateのワークスペース\(update-hub.slack.com\)にログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールをお勧めします。**作業中は基本的にSlackにログインする**ようにしてください。
+slackをインストールしたらUpdateのワークスペース\(update-hub.slack.com\)にログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールをお勧めします。Web版ではなくアプリを使い、**作業中は基本的にSlackにログインする**ようにしてください。
 
 ### node package
 
