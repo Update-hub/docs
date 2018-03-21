@@ -42,7 +42,7 @@ npm i -g editorconfig
 
 アカウント作成後、アイコンの設定を行ってください。また、作成したメールアドレスとユーザー名を下記コマンドでgitに定義してください。コマンドはターミナル(mac）かgit bash(windows)で行ってください。
 
-```
+```bash
 git config --global user.name ユーザー名
 git config --global user.email メールアドレス
 ```
