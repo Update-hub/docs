@@ -41,3 +41,7 @@ https://github.com/nvie/gitflow
 
 - [GitHub Desktop](https://desktop.github.com/)
 - [SourceTree](https://ja.atlassian.com/software/sourcetree)
+
+## その他
+
+- github プロジェクトの場合、基本的にgithubのコメントベースで情報交換するのが吉です。途中でメンバーの入れ替わりがあった時に、後任者がおいやすいため。（チャット空間など色々なところで分散していると情報が追いづらい）
