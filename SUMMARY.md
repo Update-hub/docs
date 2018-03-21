@@ -37,6 +37,7 @@
     * [react](develop/web-service/react.md)
     * [CakePHP](develop/web-service/cake-php.md)
     * [laravel](develop/web-service/laravel.md)
+    * [gcp](develop/web-service/gcp.md)
   * [wordpress](develop/wordpress.md)
     * [theme](develop/wordpress/theme.md)
     * [plugins](develop/wordpress/plugins.md)
