@@ -7,7 +7,7 @@
 * [トレーニング](training.md)
   * [stage-1:基礎トレーニング](training/stage-1.md)
   * [stage-2:開発トレーニング](training/stage-2.md)
-  * [stage-3:チーム開発トレーニング](training/stage-3.md)
+  * [stage-3:上級開発トレーニング](training/stage-3.md)
   * [プロテスト](pro-test.md)
 * [開発ドキュメント](develop.md)
   * [基礎知識](develop/basic.md)
