@@ -38,3 +38,20 @@ Update は案件の紹介も行っています。Update で受けた仕事を
   - 清潔感
   - 時間を守る
   - 礼儀正しい
+  
+## PRポイント
+
+- gitの理解
+- git flowによるチーム開発
+- モバイルファースト
+- モバイルフレンドリ
+- RWD
+- JS
+- BEM
+- scss
+- gulp（構築経験）
+- page speed insight
+- html validator
+- eslint
+- editorconfig
+- ピクセルパーフェクト
