@@ -44,5 +44,5 @@
     * [plugins](develop/wordpress/plugins.md)
   * [参考リンク](develop/can-kao-30ea-30f3-30af.md)
 * [ライフハック](life-hack.md)
-  * [free](life-hack/free.md)
+  * [フリーランス](life-hack/free.md)
 
