@@ -45,6 +45,8 @@ https://github.com/nvie/gitflow
 
 ## SlackとGitHubの連携
 
+チーム開発する際はチーム用Slackチャンネルと連動させることでリポジトリの動きがメンバーに通知されるのでオススメです。
+
 ```
 /github subscribe <リポジトリURL> reviews comments branches
 ```
