@@ -42,6 +42,12 @@ https://github.com/nvie/gitflow
 - [GitHub Desktop](https://desktop.github.com/)
 - [SourceTree](https://ja.atlassian.com/software/sourcetree)
 
+## SlackとGitHubの連携
+
+- https://get.slack.help/hc/ja/articles/232289568-GitHub-%E3%81%A8-Slack-%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E3%82%8B
+
+通知の種類を増やす方法は[こちら](https://github.com/integrations/slack#configuration)
+
 ## その他
 
 - github プロジェクトの場合、基本的にgithubのコメントベースで情報交換するのが吉です。途中でメンバーの入れ替わりがあった時に、後任者がおいやすいため。（チャット空間など色々なところで分散していると情報が追いづらい）
