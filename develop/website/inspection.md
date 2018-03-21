@@ -7,10 +7,10 @@
 ツール|概要|合格基準
 ---|---|---
 [HTML Validator](https://validator.w3.org/) | HTML品質チェック | エラーがない状態にする\(外部ソースは除く\)
-[構造化データテストツール](https://search.google.com/structured-data/testing-tool) | SEO対策 | エラーがない状態
 [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja) | パフォーマンス改善 | PC, SPともにレッドスコアでないこと
 [モバイルフレンドリー](https://search.google.com/search-console/mobile-friendly?hl=ja) | スマホ対応 | エラーがない状態
 [シェアデバッカー](https://developers.facebook.com/tools/debug/) | SNSシェア時にサムネイルなど表示するタグ | エラーがない状態
+[構造化データテストツール](https://search.google.com/structured-data/testing-tool) | SEO対策 | エラーがない状態
 [AMPテスト](https://search.google.com/test/amp) | AMPの場合 | エラーがないこと
 [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | PWAの場合 | エラーがないこと
 [Test My Site](https://testmysite.withgoogle.com/intl/ja-jp) | 表示速度と同業比較 | 要改善でないこと
