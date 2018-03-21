@@ -3,6 +3,7 @@
 * [はじめに](README.md)
   * [事前準備](installation.md)
   * [学習のポイント](training-tips.md)
+  * [仕事について](job.md)
 * [トレーニング](training.md)
   * [stage-1:基礎トレーニング](training/stage-1.md)
   * [stage-2:開発トレーニング](training/stage-2.md)
