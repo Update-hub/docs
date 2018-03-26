@@ -44,7 +44,7 @@ Update Work はUpdateが受けた仕事をお願いすることです。フリ�
 ## PRポイント
 
 - gitの理解
-- git flowによるチーム開発
+- GitHub flowによるチーム開発
 - モバイルファースト
 - モバイルフレンドリ
 - RWD
