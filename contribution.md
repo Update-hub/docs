@@ -31,4 +31,6 @@ Updateは限られた有志の現役エンジニアによって無償で運営�
 
 ドキュメント更新の際はGitBookにGitHubアカウントでサインインし、下記のフローでChange Requestを作成してください。
 
-https://help.gitbook.com/books/what-are-change-requests.html （英文）
+1. [編集画面]上部の Create Change Request をクリック
+2. 作業タイトル、内容をざっくり記載し、作業用ブランチを作成
+3. 作業したあと保存すると自動的に Change Request が作成されます
