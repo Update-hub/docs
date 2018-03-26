@@ -4,6 +4,7 @@
   * [事前準備](installation.md)
   * [学習のポイント](training-tips.md)
   * [仕事について](job.md)
+  * [コミュニティ貢献](contribution.md)
 * [トレーニング](training.md)
   * [stage-1:基礎トレーニング](training/stage-1.md)
   * [stage-2:開発トレーニング](training/stage-2.md)
