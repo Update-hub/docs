@@ -52,7 +52,7 @@ Update Work はUpdateが受けた仕事をお願いすることです。フリ�
 - BEM
 - scss
 - gulp（構築経験）
-- page speed insight
+- page speed insight（not Red）
 - html validator
 - eslint
 - editorconfig
