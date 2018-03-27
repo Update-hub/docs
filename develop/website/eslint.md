@@ -38,8 +38,6 @@ npm install -D eslint eslint-config-google
 }
 ```
 
-以後JSにLintが適用される。
-
 ## Tips
 
 症状|対策
