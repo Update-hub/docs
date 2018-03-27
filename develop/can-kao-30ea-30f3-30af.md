@@ -1,5 +1,13 @@
 # 参考リンク
 
+## 推奨アカウント
+
+アカウント|概要
+---|---
+[@tsuj](https://twitter.com/tsuj)|SEO
+[@suzukik](https://twitter.com/suzukik)|SEO
+
+
 ## 写真素材サイト
 
 商用利用可能な写真素材サイト（著作表記不要）
