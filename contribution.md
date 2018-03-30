@@ -31,3 +31,4 @@ Updateは限られた有志の現役エンジニアによって無償で運営�
 ### 更新方法
 
 - [リポジトリ](https://github.com/Update-hub/docs)にPushするか、Pull Requestを作成してください。
+- GitHub上で直接編集も可能です。
