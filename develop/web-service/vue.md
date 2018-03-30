@@ -16,3 +16,10 @@ Visual Studio CodeでESLintを **.Vue で適用させるためにはユーザー
   }
 ]
 ```
+
+## vue-cli
+
+vue-cliがあればコマンドひとつで開発環境を整えることができる。
+
+https://github.com/vuejs/vue-cli
+https://qiita.com/567000/items/dde495d6a8ad1c25fa43
