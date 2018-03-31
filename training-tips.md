@@ -13,9 +13,8 @@
 
 手取り早く回答を得たい場合、qiitaがオススメです。他には Stackoverflow が参考になります。
 
-- [Stackoverflow](https://ja.stackoverflow.com/)
-- [Qiita](https://qiita.com/trend)
+* [Stackoverflow](https://ja.stackoverflow.com/)
+* [Qiita](https://qiita.com/trend)
 
-例:  
+例:
 gulp で sass を動かす方法が分からない場合、`gulp sass qiita` などで Google 検索
-
