@@ -13,6 +13,7 @@
 * [開発ドキュメント](develop.md)
   * [基礎知識](develop/basic.md)
     * [開発フロー](develop/basic/flow.md)
+    * [チーム開発](develop/basic/team-dev.md)
     * [専門用語](develop/terminology.md)
     * [visual studio code](develop/visual-studio-code.md)
     * [git](develop/git.md)
