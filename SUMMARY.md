@@ -16,6 +16,7 @@
     * [専門用語](develop/terminology.md)
     * [visual studio code](develop/visual-studio-code.md)
     * [git](develop/git.md)
+    * [git](develop/basic/slack.md)
     * [ESLint](develop/website/eslint.md)
     * [editorconfig](develop/editorconfig.md)
     * [yarn](develop/yarn.md)
