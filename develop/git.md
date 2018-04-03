@@ -43,14 +43,6 @@ https://github.com/nvie/gitflow
 - [GitHub Desktop](https://desktop.github.com/)
 - [SourceTree](https://ja.atlassian.com/software/sourcetree)
 
-## SlackとGitHubの連携
-
-チーム開発する際はチーム用Slackチャンネルと連動させることでリポジトリの動きがメンバーに通知されるのでオススメです。
-
-```
-/github subscribe <リポジトリURL> reviews comments branches
-```
-
 - https://get.slack.help/hc/ja/articles/232289568-GitHub-%E3%81%A8-Slack-%E3%82%92%E9%80%A3%E6%90%BA%E3%81%95%E3%81%9B%E3%82%8B
 - 通知の種類を増やす方法は[こちら](https://github.com/integrations/slack#configuration)
 
