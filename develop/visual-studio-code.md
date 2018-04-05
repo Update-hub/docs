@@ -45,3 +45,27 @@ emmetで展開されるhtmlのlangをjaに
     "lang": "ja"
   },
 ```
+
+## ユーザースニペット
+
+Visual Studio Codeではユーザー独自のスニペットを定義する事が出来ます。  
+スニペットとはVisual Studio Codeで文字を打ち込むと下に出てきて、コードを楽に入力できる、スマホ等の予測変換のようなものです。
+
+作成方法はメニューバーからファイル>基本設定>ユーザースニペットを選択、その後どの言語のスニペットを聞かれるので使用する物を選択します。  
+例えばhtmlを選択するとhtml.jsonというファイルが開かれます。  
+その中に定義することでそのスニペットが使えるようになります。 
+
+例えばjavascriptで「log」打ち込んで``console.log('');``を呼び出すような場合はこうなります。
+```
+	"Print to console": {
+		"prefix": "log",// "prefix"の値がスニペットを呼び出す際に使う文字列
+		"body": [
+			"console.log('$1');",// 改行する際は「,」を使う。 「$1」でこのスニペットを呼び出した際にこの位置から入力できるようになる。
+			"$2"// 「$2」は「$1」の位置にいる時にtabキーを押すとそこに移動します。「$3」以降も同様。
+		],
+		"description": "Log output to console"
+	},
+```
+詳しくは下記のサイト等を見てください。  
+https://qiita.com/kz_kazuki/items/d26946c1e7169847aeef  
+https://vscode-doc-jp.github.io/docs/userguide/userdefinedsnippets.html
