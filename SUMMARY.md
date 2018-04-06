@@ -52,6 +52,6 @@
     * [theme](dokyumento/wordpress/theme.md)
     * [plugins](dokyumento/wordpress/plugins.md)
   * [参考リンク](dokyumento/rinku.md)
-* [ライフハック](raifuhakku/README.md)
+* ライフハック
   * [フリーランス](raifuhakku/furransu.md)
 
