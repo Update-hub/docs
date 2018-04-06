@@ -1,6 +1,6 @@
 # Table of contents
 
-* [はじめに](README.md)
+* [Update](README.md)
 * はじめに
   * [事前準備](hajimeni/shi-qian-zhun-bei.md)
   * [学習ガイドライン](hajimeni/nopointo.md)
