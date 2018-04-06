@@ -8,6 +8,10 @@
 
 #### 変更後のElementにStyleを適用させたい場合
 
+{% hint style="warning" %}
+この方法は公式で非推奨だが現状代替案がないためしょうがない\(2018/4/7\)
+{% endhint %}
+
 {% code-tabs %}
 {% code-tabs-item title="style.scss" %}
 ```css
@@ -17,10 +21,6 @@
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
-
-{% hint style="warning" %}
-この方法は公式で非推奨だが現状代替案がないためしょうがない\(2018/4/7\)
-{% endhint %}
 
 
 
