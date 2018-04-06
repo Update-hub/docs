@@ -29,9 +29,5 @@ Updateは限られた有志の現役エンジニアによって無償で運営�
 
 ### 更新方法
 
-* [リポジトリ](https://github.com/Update-hub/docs)にPushするか、Pull Requestを作成してください。
-* 誤字脱字など軽微な内容であればPull Requestを通さず直接更新してもらってOKです。
-* コンテンツの追加などの場合は極力ブランチを切ってPull Requestを出してください。（GitHub上で可能、ブランチ名はなんでもいいです）
-* `新規ページ.md` 追加後、 `Summary.md` にリンクを追加してください。
-* GitHub上で直接編集も可能です。
+* Gitbook に githubアカウントでログインした後、下のEditボタンより更新が可能です。
 
