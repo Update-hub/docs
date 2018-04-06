@@ -1,3 +1,0 @@
-# Laravel
-
-http://laravel.jp/
