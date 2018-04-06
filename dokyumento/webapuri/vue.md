@@ -8,7 +8,9 @@
 
 {% embed data="{\"url\":\"https://router.vuejs.org/ja/\",\"type\":\"link\",\"title\":\"Introduction · vue-router\",\"icon\":{\"type\":\"icon\",\"url\":\"https://router.vuejs.org/gitbook/images/apple-touch-icon-precomposed-152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"caption\":\"\"}" %}
 
-### ESLint
+### Tips
+
+#### ESLint
 
 Visual Studio CodeでESLintを \*\*.Vue で適用させるためにはユーザー設定に下記の記載が必要。
 
@@ -21,9 +23,11 @@ Visual Studio CodeでESLintを \*\*.Vue で適用させるためにはユーザ�
 ]
 ```
 
-### vue-cli
+#### vue-cli
 
 vue-cliがあればコマンドひとつで開発環境を整えることができる。
 
-[https://github.com/vuejs/vue-cli](https://github.com/vuejs/vue-cli) [https://qiita.com/567000/items/dde495d6a8ad1c25fa43](https://qiita.com/567000/items/dde495d6a8ad1c25fa43)
+{% embed data="{\"url\":\"https://github.com/vuejs/vue-cli\",\"type\":\"link\",\"title\":\"vuejs/vue-cli\",\"description\":\"vue-cli - Simple CLI for scaffolding Vue.js projects\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/6128107?v=4&s=400\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+
 
