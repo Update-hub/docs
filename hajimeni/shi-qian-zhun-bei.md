@@ -1,3 +1,7 @@
+---
+description: トレーニング開始の前に、まずは事前準備を完了させてください。
+---
+
 # 事前準備
 
 ## PC
@@ -5,7 +9,7 @@
 Mac or Windows を用意してください。実際の現場ではMacが多いため、これからPCを購入する方はMacをお勧めします。
 
 * Macであればスペックは不問です。
-* Macの場合英字キーボード（Apple Store Onlineか購入可能）がお勧めです。
+* Macの場合**英字キーボード**（Apple Store Onlineか購入可能）がお勧めです。
 * Windows の場合、基本的なPC操作でもたつかない程度の処理能力が推奨されます。
 
 ## ツール
@@ -36,7 +40,9 @@ npm i -g editorconfig
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - JSの品質チェック
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - コード整形
 
-## GitHub登録
+## その他の設定
+
+### GitHub登録
 
 * [GitHub](https://github.com/)
 
@@ -47,7 +53,7 @@ git config --global user.name ユーザー名
 git config --global user.email メールアドレス
 ```
 
-## Slackの設定
+### Slackの設定
 
 以下の設定を行ってください。
 

@@ -1,39 +1,45 @@
+---
+description: 基本的な開発の流れです
+---
+
 # 開発フロー
+
+## 作業手順
 
 1.作業リポジトリをcloneします
 
-```text
-git clone <リポジトリURL>
+```bash
+$ git clone <リポジトリURL>
 ```
 
 2.作業ディレクトリに移動します
 
-```text
-cd <ディレクトリ>
+```bash
+$ cd <ディレクトリ>
 ```
 
 3.作業ブランチを作成し、切り替えます
 
-```text
-git checkout -b `feature/<作業内容>(英字)`
+```bash
+$ git checkout -b `feature/<作業内容>(英字)`
 ```
 
 4.作業をコミットします
 
-```text
-git commit -am '<作業内容>' #<issue番号>
+```bash
+$ git commit -am '<作業内容>' #<issue番号>
 ```
 
 e.g.
 
-```text
-git commit -am リンク間違い修正 #23
+```bash
+$ git commit -am リンク間違い修正 #23
 ```
 
 5.作業をpushします
 
-```text
-git push
+```bash
+$ git push
 ```
 
 * 英文でメッセージが出た場合（~ upstream ~ のような\)、そのメッセージをコマンドで入力し、実行してください
@@ -47,7 +53,7 @@ git push
 
 8.すべての指摘に対応し、マージされたら作業完了です。
 
-## レビュワー
+### レビュワー設定
 
 下記の状態を使い分けで、コードに対してレビューを行ってください。
 

@@ -1,11 +1,16 @@
-# visual studio code
+---
+description: Microsoft製軽量エディタ
+---
 
-[https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx](https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx)
+# Visual Studio Code
 
-* Emmetが内蔵されています。
-* Gitが内蔵されています。（サイドバーよりcommit、 pushが可能）
+## 公式ドキュメント
 
-## 設定ファイル
+{% embed data="{\"url\":\"https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx\",\"type\":\"link\",\"title\":\"Visual Studio Code - Visual Studio\",\"description\":\"Mac, Windows, Linux の軽量/高速な高機能開発エディター\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.microsoft.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+## Tips
+
+### 設定ファイル
 
 おすすめ設定
 
@@ -51,7 +56,7 @@ emmetで展開されるhtmlのlangをjaに
   },
 ```
 
-## ユーザースニペット
+### ユーザースニペット
 
 Visual Studio Codeではユーザー独自のスニペットを定義する事が出来ます。  
 スニペットとはVisual Studio Codeで文字を打ち込むと下に出てきて、コードを楽に入力できる、スマホ等の予測変換のようなものです。

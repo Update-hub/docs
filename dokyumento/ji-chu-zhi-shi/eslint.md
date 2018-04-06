@@ -1,35 +1,39 @@
+---
+description: JSの品質チェックツール。必ず入れましょう。
+---
+
 # ESLint
 
-JSの品質チェックツール
+## 公式ドキュメント
 
-## 事前準備
+{% embed data="{\"url\":\"https://eslint.org/\",\"type\":\"link\",\"title\":\"ESLint - Pluggable JavaScript linter\",\"description\":\"A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://eslint.org/img/favicon.512x512.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://eslint.org/img/favicon.512x512.png\",\"aspectRatio\":0}}" %}
 
-Visual Studio Code ESLint [https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+## クイックスタート
 
-## 設定
-
-### ES5
-
+{% tabs %}
+{% tab title="ES5" %}
 ```bash
-npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+$ npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
-.eslintrc.json をプロジェクトルートに作成し下記内容に変更
-
+{% code-tabs %}
+{% code-tabs-item title=".eslintrc.json" %}
 ```javascript
 {
   "extends": "standard"
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
 
-### ES6
-
+{% tab title="ES6" %}
 ```bash
-npm install -D eslint eslint-config-google
+$ npm install -D eslint eslint-config-google
 ```
 
-.eslintrc.json をプロジェクトルートに作成し下記内容に変更
-
+{% code-tabs %}
+{% code-tabs-item title=".eslintrc.json" %}
 ```javascript
 {
     "extends": "google",
@@ -38,10 +42,16 @@ npm install -D eslint eslint-config-google
     }
 }
 ```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 ## Tips
 
 | 症状 | 対策 |
 | --- | --- |
 | google や $などが怒られる | `/* global google */` や `/* global $ */` をファイル先頭に記述 |
+
+
 

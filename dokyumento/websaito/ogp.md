@@ -1,8 +1,12 @@
 # OGP
 
-OGPタグを設置するとSNSでURLをシェアした際、タイトルやサムネイルが表示されるようになります。
+## 公式サイト
 
-[公式ドキュメント](http://ogp.me)
+{% embed data="{\"url\":\"http://ogp.me\",\"type\":\"link\",\"title\":\"Open Graph protocol\",\"description\":\"The Open Graph protocol enables any web page to become a rich object in a social graph.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://ogp.me/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://ogp.me/logo.png\",\"width\":300,\"height\":300,\"aspectRatio\":1}}" %}
+
+## クイックスタート
+
+OGPタグを設置するとSNSでURLをシェアした際、タイトルやサムネイルが表示されるようになります。
 
 ```markup
 <meta property="og:title" content="OGPのタイトル">
@@ -14,7 +18,7 @@ OGPタグを設置するとSNSでURLをシェアした際、タイトルやサ�
 <meta property="og:image" content="http://foo.com/bar.jpg">
 ```
 
-## ポイント
+## Tips
 
 * 画像は本番環境の絶対パスである必要があります。
 

@@ -1,6 +1,16 @@
-# gulp
+---
+description: フロントエンドエンジニア御用達
+---
 
-[https://gulpjs.com/](https://gulpjs.com/)
+# Gulp
 
-* 監視やサーバーなどコマンド停止は `ctrl + c` で行うことができます。
+## 公式サイト
+
+{% embed data="{\"url\":\"https://gulpjs.com\",\"type\":\"link\",\"title\":\"gulp.js\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gulpjs.com/img/favicon.png\",\"aspectRatio\":0}}" %}
+
+## Tips
+
+ready...
+
+
 

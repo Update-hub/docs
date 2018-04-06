@@ -1,15 +1,21 @@
-# emmet
+---
+description: 'HTML, CSS 記述が超高速化します。'
+---
 
-[https://docs.emmet.io/](https://docs.emmet.io/)
+# Emmet
 
-* Visual Studio Code をはじめとするモダンなエディタにははじめから内臓されています。
+## 公式サイト
 
-## BEM
+{% embed data="{\"url\":\"https://docs.emmet.io/\",\"type\":\"link\",\"title\":\"Emmet Documentation\",\"icon\":{\"type\":\"icon\",\"url\":\"https://docs.emmet.io/-/3755353140/favicon.ico\",\"aspectRatio\":0}}" %}
+
+## Tips
+
+### BEM
 
 BEMフィルターを使えばBEMの出力も可能。
 
 ```markup
-.hero>-msg|bem
+.hero>.-msg|bem
 ```
 
 とすることで下記のHTMLマークアップが行えます。
@@ -19,4 +25,6 @@ BEMフィルターを使えばBEMの出力も可能。
   <div class="hero__msg"></div>
 </div>
 ```
+
+
 

@@ -1,12 +1,20 @@
+---
+description: 最低限の開発フローと開発スキルを身につけます
+---
+
 # stage-1:基礎トレーニング
+
+## 概要
 
 このトレーニングでは既存サイトのメンテナンスを通して、実務の基本的な流れを身につけます。
 
+* 既存のソースコードに修正を加えること
+* 作業の保存とソースコードのレビュー依頼、修正対応
+* 正しいコードの書き方
+
 ## チュートリアル
 
-* [Git操作](https://youtu.be/sY64kVwQ-bw)
-* [Git](https://github.com/update/document/tree/09dcce58e886f2e80f75d0ac535b5726591df819/develop/git.html)
-* [Gulp](https://github.com/update/document/tree/09dcce58e886f2e80f75d0ac535b5726591df819/develop/web-service/gulp.html)
+{% embed data="{\"url\":\"https://youtu.be/sY64kVwQ-bw\",\"type\":\"video\",\"title\":\"gitによる共同開発\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/sY64kVwQ-bw/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/sY64kVwQ-bw?rel=0&showinfo=0\",\"html\":\"<div style=\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\"><iframe src=\\"https://www.youtube.com/embed/sY64kVwQ-bw?rel=0&amp;showinfo=0\\" style=\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\" allowfullscreen scrolling=\\"no\\"></iframe></div>\",\"aspectRatio\":1.7778},\"caption\":\"Gitによる共同開発\"}" %}
 
 ## 準備
 
@@ -32,5 +40,5 @@ gulp serve
 ### ポイント
 
 * Pull Request 作成時は reviewer に自分以外のメンバーを設定してください。
-* コミットメッセージは作業内容が端的にわかるようにしてください。
+* コミットメッセージは作業内容が端的にわかるようにしてください。また、紐付くissue番号を記載してください。　例：（`タイトルの文字サイズを大きく #23`）
 
