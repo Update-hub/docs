@@ -24,6 +24,7 @@
     * [editorconfig](dokyumento/ji-chu-zhi-shi/editorconfig.md)
     * [yarn](dokyumento/ji-chu-zhi-shi/yarn.md)
     * [markdown](dokyumento/ji-chu-zhi-shi/markdown.md)
+    * [JavaScript](dokyumento/ji-chu-zhi-shi/javascript.md)
   * [webサイト](dokyumento/websaito/README.md)
     * [Favicon](dokyumento/websaito/favicon.md)
     * [OGP](dokyumento/websaito/ogp.md)
