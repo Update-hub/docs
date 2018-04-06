@@ -7,6 +7,7 @@
   * [仕事について](hajimeni/nitsuite.md)
   * [コミュニティ貢献](hajimeni/komyunite.md)
 * [トレーニング](torningu/README.md)
+  * [トレーニングのすすめかた](torningu/torningunosusumekata.md)
   * [stage-1:基礎トレーニング](torningu/stage-1torningu.md)
   * [stage-2:開発トレーニング](torningu/stage-2torningu.md)
   * [stage-3:上級開発トレーニング](torningu/stage-3torningu.md)
