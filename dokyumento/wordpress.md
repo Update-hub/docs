@@ -1,4 +1,4 @@
-# wordpress
+# WordPress
 
 ## 公式サイト
 

@@ -48,7 +48,7 @@
     * [Laravel](dokyumento/webapuri/laravel.md)
     * [Amazon Web Service](dokyumento/webapuri/amazon-web-service.md)
     * [Google Cloud Platform](dokyumento/webapuri/google-cloud-platform.md)
-  * [wordpress](dokyumento/wordpress.md)
+  * [WordPress](dokyumento/wordpress.md)
   * [参考リンク](dokyumento/rinku.md)
 * ライフハック
   * [フリーランス](raifuhakku/furransu.md)
