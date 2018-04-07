@@ -1,4 +1,4 @@
-# firebase
+# Firebase
 
 ## 公式サイト
 

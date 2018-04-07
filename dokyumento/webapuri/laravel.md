@@ -1,4 +1,8 @@
-# laravel
+---
+description: モダンなPHPフレームワーク
+---
+
+# Laravel
 
 ## 公式ドキュメント
 
