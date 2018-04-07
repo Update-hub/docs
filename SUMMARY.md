@@ -24,7 +24,7 @@
     * [Yarn](dokyumento/ji-chu-zhi-shi/yarn.md)
     * [Markdown](dokyumento/ji-chu-zhi-shi/markdown.md)
     * [Chrome DevTools](dokyumento/ji-chu-zhi-shi/chrome-devtools.md)
-  * webサイト
+  * Webサイト
     * [html/css](dokyumento/websaito/html-css.md)
     * [JavaScript](dokyumento/websaito/javascript.md)
     * [jQuery](dokyumento/websaito/jquery.md)
