@@ -18,7 +18,11 @@
 
 {% embed data="{\"url\":\"http://kangax.github.io/compat-table/es6/\",\"type\":\"link\",\"title\":\"ECMAScript 6 compatibility table\",\"caption\":\"ブラウザ対応状況\"}" %}
 
+### ググりにくい記法
 
+| `...object` | スプレッドオペレータ |
+| --- | --- |
+| `hoge ? a : b` | 三項演算子 |
 
 
 
