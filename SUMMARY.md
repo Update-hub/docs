@@ -39,7 +39,7 @@
     * [Web App Manifest](dokyumento/websaito/web-app-manifest.md)
     * [Webフォント](dokyumento/websaito/webfunto.md)
     * [photoshop](dokyumento/websaito/photoshop.md)
-  * [webアプリ](dokyumento/webapuri/README.md)
+  * Webアプリ
     * [Firebase](dokyumento/webapuri/firebase.md)
     * [Vue](dokyumento/webapuri/vue.md)
     * [Angular](dokyumento/webapuri/angular.md)
