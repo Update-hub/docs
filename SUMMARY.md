@@ -12,7 +12,7 @@
   * [stage-2:開発トレーニング](torningu/stage-2torningu.md)
   * [stage-3:上級トレーニング](torningu/stage-3torningu.md)
   * [プロテスト](torningu/purotesuto.md)
-* 開発ドキュメント
+* ドキュメント
   * 基礎知識
     * [開発フロー](dokyumento/ji-chu-zhi-shi/fur.md)
     * [チーム開発](dokyumento/ji-chu-zhi-shi/chmu.md)
