@@ -1,4 +1,4 @@
-# angular
+# Angular
 
 ## 公式ドキュメント
 
@@ -22,5 +22,7 @@
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
+### 正しいはずなのにうまく機能しない
 
+\`ng s\` を叩き直す
 

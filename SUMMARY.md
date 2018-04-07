@@ -42,7 +42,7 @@
   * [webアプリ](dokyumento/webapuri/README.md)
     * [firebase](dokyumento/webapuri/firebase.md)
     * [vue](dokyumento/webapuri/vue.md)
-    * [angular](dokyumento/webapuri/angular.md)
+    * [Angular](dokyumento/webapuri/angular.md)
     * [react](dokyumento/webapuri/react.md)
     * [CakePHP](dokyumento/webapuri/cakephp.md)
     * [laravel](dokyumento/webapuri/laravel.md)
