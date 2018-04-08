@@ -25,7 +25,7 @@
     * [Markdown](dokyumento/ji-chu-zhi-shi/markdown.md)
     * [Chrome DevTools](dokyumento/ji-chu-zhi-shi/chrome-devtools.md)
   * Webサイト
-    * [html/css](dokyumento/websaito/html-css.md)
+    * [HTML/CSS](dokyumento/websaito/html-css.md)
     * [JavaScript](dokyumento/websaito/javascript.md)
     * [jQuery](dokyumento/websaito/jquery.md)
     * [BEM](dokyumento/websaito/bem.md)

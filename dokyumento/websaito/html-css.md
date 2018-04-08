@@ -1,4 +1,4 @@
-# html/css
+# HTML/CSS
 
 ## 公式ドキュメント
 
