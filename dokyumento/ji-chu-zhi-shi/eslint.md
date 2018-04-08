@@ -10,6 +10,8 @@ description: JSの品質チェックツール。必ず入れましょう。
 
 ## クイックスタート
 
+チーム開発の場合、
+
 {% tabs %}
 {% tab title="ES5" %}
 ```bash
@@ -49,9 +51,7 @@ $ npm install -D eslint eslint-config-google
 
 ## Tips
 
-| 症状 | 対策 |
-| --- | --- |
-| google や $などが怒られる | `/* global google */` や `/* global $ */` をファイル先頭に記述 |
+### google や $などが怒られる
 
-
+`/* global google */` や `/* global $ */` をファイル先頭に記述
 
