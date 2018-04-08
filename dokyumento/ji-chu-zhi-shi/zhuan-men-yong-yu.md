@@ -26,5 +26,3 @@ description: 覚えましょう
 | GUI | グラフィカルユーザインタフェース。一般的なPCアプリ。 | CLIが苦手ならGUIでGit操作してください |
 | CI | Continuous Integration。GitHubなどと連携させ、Pushされたファイルに対して継続的にチェックを走らせることができる。 | CI走らせます |
 
-
-
