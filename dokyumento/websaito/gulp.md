@@ -38,14 +38,61 @@ package.json の作成
 $ npm init -y
 ```
 
-gulp及び関連こんにテスト &lt;- !?  
-My name is deerboy. &lt;- OK
+Gulpおよび関連ツールのインストール
 
 ```bash
-$ npm i gulp gulp-sass browser-sync
+$ npm i gulp gulp-sass browser-sync gulp-imagemin gulp-plumber
 ```
 
+gulpfile.jsの作成
 
+{% code-tabs %}
+{% code-tabs-item title="gulpfile.js" %}
+```javascript
+const gulp = require('gulp');
+const sass = require('gulp-sass');
+const watch = require('gulp-watch');
+const watch = require('gulp-watch');
+const plumber = require('gulp-plumber');
+
+const path = {
+  src: './src',
+  dist: './docs'
+}
+
+gulp.task('sass', () => {
+  return gulp.src('./src/**/*.scss')
+    .pipe(plumber())
+    .pipe(sass().on('error', sass.logError))
+    .pipe(gulp.dest('./dist'));
+});
+
+gulp.task('default', ['serve'], () => {
+  browserSync({
+    server: {
+      baseDir: path.dist,
+    }
+  });
+});
+
+gulp.task('watch', () => {
+  watch('./src/**/*.scss', () => {
+    gulp.start('sass')
+  });
+
+  watch(path.dist, () => {
+    browserSync.reload();
+  });
+});
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+gulpの起動
+
+```bash
+$ gulp
+```
 
 ## Tips
 
