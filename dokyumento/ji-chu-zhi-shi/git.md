@@ -16,9 +16,95 @@ description: ソース管理ツール
 * [GitLab](https://about.gitlab.com/) - 国内の現場で採用率高。プライベートリポジトリも無料。
 * [BitBucket](https://bitbucket.org/product) - プライベートリポジトリも無料（制限あり）
 
-## TIps
+## クイックスタート
 
-#### Git管理のポイント
+### 基本的な流れ
+
+既存のGitプロジェクトを自分のPCに複製する
+
+```bash
+$ git clone http://.....
+```
+
+ブランチを作成する\(new-branch という名前のブランチを作成する例）
+
+```bash
+$ git branch new-branch
+```
+
+ ブランチを切り替える
+
+```bash
+$ git checkout new-branch
+```
+
+作業内容をコミットする
+
+```bash
+$ git add .
+$ git commit -m '<コミットメッセージ>'
+```
+
+issueに紐づく作業の場合、コミットメッセージの最後にissue番号を記載しましょう
+
+```bash
+$ git commit -m 'リンク先を修正 #23' // #23 のissueに紐づく作業の場合
+```
+
+作業内容をPushする
+
+```bash
+$ git push
+```
+
+他の人の作業を取り込む
+
+```bash
+$ git pull
+```
+
+## リファレンス
+
+### 特定のコミットを取り消したい
+
+```bash
+$ git log // 作業ログの確認（取り消したいコミットのコミットIDを控える）
+$ git revert <コミットID> // コミットメッセージを聞かれるので適宜編集して保存
+```
+
+### 直前のコミットに現状の作業を追加したい
+
+{% hint style="warning" %}
+amendを行った場合 Force Push（強制Push）が必要になります。
+{% endhint %}
+
+```bash
+$ git commit -a --amend // コミットメッセージを聞かれるので適宜編集して保存
+```
+
+### 現在の作業内容を確認したい
+
+```bash
+$ git diff
+```
+
+### 現在の編集されているファイル群を確認したい
+
+```bash
+$ git status
+```
+
+## Gitクライアント
+
+Gitクライアントを使うとコマンドを使わなくても直感的にGitの基本操作を行うことができます。
+
+* [Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol)
+* [GitHub for Desktop](https://desktop.github.com/)
+* [SourceTree](https://www.sourcetreeapp.com/)
+
+## Tips
+
+### Git管理のポイント
 
 * 作業はこまめにコミットしましょう。
 * コミットメッセージは作業内容が端的に一目で分かるようにしましょう。
@@ -44,12 +130,8 @@ Git Flowがメジャーですが、毎日Deployするようなハイサイクル
 
 [https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
 
-### クライアント
+### Slack連携
 
-長期的にはコマンドでのGit操作が推奨されますが、コマンド操作が難しい方はクライアントの利用を検討してください。
-
-* [GitHub Desktop](https://desktop.github.com/)
-* [SourceTree](https://ja.atlassian.com/software/sourcetree)
 * [https://get.slack.help/hc/ja/articles/232289568-GitHub-と-Slack-を連携させる](https://get.slack.help/hc/ja/articles/232289568-GitHub-と-Slack-を連携させる)
 * 通知の種類を増やす方法は[こちら](https://github.com/integrations/slack#configuration)
 
