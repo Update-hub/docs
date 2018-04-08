@@ -130,10 +130,19 @@ Git Flowがメジャーですが、毎日Deployするようなハイサイクル
 
 [https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
 
-### Slack連携
+### SlackとGitHub連携
 
-* [https://get.slack.help/hc/ja/articles/232289568-GitHub-と-Slack-を連携させる](https://get.slack.help/hc/ja/articles/232289568-GitHub-と-Slack-を連携させる)
-* 通知の種類を増やす方法は[こちら](https://github.com/integrations/slack#configuration)
+SlackとGitHub連携を行うことでGitHubのアクティビティをSlackのチャンネルで知ることができます。チーム開発においてほぼ必須の連携です。
+
+SlackとGitHubを連携させる（Updateは既に連携済みなので不要です）
+
+{% embed data="{\"url\":\"https://get.slack.help/hc/ja/articles/232289568-GitHub-と-Slack-を連携させる\",\"type\":\"link\",\"title\":\"GitHub と Slack を連携させる\",\"description\":\"GitHub は、ソフトウェア開発者のチームが共同でコードを記述し、プロジェクトを管理するためのツールです。GitHub を Slack に連携させれば、選択した Slack チャンネルであらゆるイベントの通知を受信できるようになります。一番よく使う重要度の高い2つのツールを連携させて、業務の状況を Slack 内から完全に把握できるようにしましょう。🛠  用途に合わせてアプリを選択   S...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://p4.zdassets.com/hc/settings\_assets/138842/200037786/vM8rHxxVKCakJZaTPOZ81Q-favicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://p4.zdassets.com/hc/settings\_assets/138842/200037786/yhcUITDtg0nMfANzyrWvIA-help-center-unfurl-image.png\",\"width\":192,\"height\":192,\"aspectRatio\":1}}" %}
+
+関連チャンネルで下記のコマンドを打つ
+
+```
+/github subscribe <リポジトリURL or リポジトリパス> reviews comments branches
+```
 
 
 
