@@ -28,10 +28,14 @@ slackをインストールしたらUpdateのワークスペース\(update-hub.sl
 
 windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
 
+{% hint style="info" %}
+コードビューで $ が先頭にある場合、黒い画面（ターミナル、コマンドプロンプト）での操作を意味します。また、コードを貼り付ける際は $ は不要ですのでコピーに含めないよう、注意しましょう。
+{% endhint %}
+
 ```bash
-npm i -g gulp-cli
-npm i -g eslint
-npm i -g editorconfig
+$ npm i -g gulp-cli
+$ npm i -g eslint
+$ npm i -g editorconfig
 ```
 
 ### Visual Studio Code拡張機能
@@ -49,8 +53,8 @@ npm i -g editorconfig
 アカウント作成後、アイコンの設定を行ってください。また、作成したメールアドレスとユーザー名を下記コマンドでgitに定義してください。コマンドはターミナル\(mac）かgit bash\(windows\)で行ってください。
 
 ```bash
-git config --global user.name ユーザー名
-git config --global user.email メールアドレス
+$ git config --global user.name ユーザー名
+$ git config --global user.email メールアドレス
 ```
 
 ### Slackの設定
