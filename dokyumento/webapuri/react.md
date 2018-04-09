@@ -8,6 +8,68 @@
 
 {% embed data="{\"url\":\"https://redux.js.org/\",\"type\":\"link\",\"title\":\"Read Me - Redux\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-L5K1I1WsuQMZ8ecEuWg%2Favatar.png?generation=1518623866348435&alt=media\",\"aspectRatio\":0},\"caption\":\"Redux\"}" %}
 
+## クイックスタート
+
+{% hint style="info" %}
+事前に[Yarn](https://yarnpkg.com/lang/ja/)のインストールを行ってください。
+{% endhint %}
+
+React Create App の導入（まだの場合）
+
+```bash
+$ npm install -g create-react-app
+```
+
+Reactアプリを作成
+
+```bash
+$ create-react-app <アプリ名>
+$ cd <アプリ名>
+```
+
+関連ライブラリを導入
+
+```bash
+$ yarn add redux react-redux react-router-dom aphrodite prop-types
+```
+
+ESLintを導入\(オプション）
+
+{% code-tabs %}
+{% code-tabs-item title="eslintrc.json" %}
+```javascript
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "semi": [2, "always"]
+    }
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+開発スタート
+
+```text
+$ yarn start
+```
+
+srcディレクトリ内に以下のディレクトリを作成してください。
+
+| ディレクトリ名 | 役割 |
+| --- | --- | --- | --- | --- | --- |
+| reducers | reducer を格納\(redux\) |
+| actions | reducer を格納\(redux\) |
+| containers | container をラップし、actions, reducers と接続\(redux\) |
+| components | ページやユニークなコンポーネントを格納 |
+| components/ui | 見出し、カードなど再利用可能なコンポーネントを格納 |
+
 ## Tips
 
 comming soon...
