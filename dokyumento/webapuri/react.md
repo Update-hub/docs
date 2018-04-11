@@ -30,7 +30,7 @@ $ cd <アプリ名>
 関連ライブラリを導入
 
 ```bash
-$ yarn add redux react-redux react-router-dom aphrodite prop-types
+$ yarn add redux react-redux react-router-dom aphrodite prop-types cross-fetch
 ```
 
 ESLintを導入\(オプション）
