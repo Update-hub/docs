@@ -64,3 +64,7 @@ $ git config --global user.email メールアドレス
 * プロフィールの表示名をGitHubのアカウント名 \(自分のGitHubページのURLの末尾\)と同じにしてください。
 * プロフィール画像を設定してください。
 
+{% hint style="info" %}
+すべての準備が終わったら Slack で @deerboy に連絡してください。
+{% endhint %}
+
