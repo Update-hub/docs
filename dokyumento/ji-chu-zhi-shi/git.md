@@ -144,5 +144,19 @@ SlackとGitHubを連携させる（Updateは既に連携済みなので不要で
 /github subscribe <リポジトリURL or リポジトリパス> reviews comments branches
 ```
 
+### GitHub Pages で公開
 
+gh-pages をグローバルにインストール
+
+```bash
+$ npm install -g gh-pages
+```
+
+プロジェクトディレクトリに移動し、公開コマンドを叩く
+
+```bash
+$ gh-pages -d <Deploy Directory>
+```
+
+GitHubのリポジトリページでGitHub Pagesを有効にし、対象ブランチを `gh-pages` ブランチにする。
 

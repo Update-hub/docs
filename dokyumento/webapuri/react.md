@@ -73,5 +73,37 @@ srcディレクトリ内に以下のディレクトリを作成してくださ�
 
 ## Tips
 
-comming soon...
+### GitHub Pages に公開
+
+gh-pages をプロジェクトに追加
+
+```bash
+$ yarn add -D gh-pages
+```
+
+package.json に3箇所記述を追加
+
+{% code-tabs %}
+{% code-tabs-item title="package.json" %}
+```javascript
+"private": true
+"homepage": "GitHub Pages のURL", // ← 追加
+
+~
+"scripts": {
+...
+"predeploy": "npm run build", // ← 追加
+"deploy": "gh-pages -d build" // ← 追加
+}
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+deploy実行
+
+```bash
+$ yarn run deploy
+```
+
+
 
