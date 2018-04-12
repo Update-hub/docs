@@ -160,3 +160,5 @@ $ gh-pages -d <Deploy Directory>
 
 GitHubのリポジトリページでGitHub Pagesを有効にし、対象ブランチを `gh-pages` ブランチにする。しばらく待つか、設定後に再度何かしらの deploy を行うことで見れるようになります。
 
+![](../../.gitbook/assets/github-pages.png)
+
