@@ -71,6 +71,10 @@ srcディレクトリ内に以下のディレクトリを作成してくださ�
 | components | ページやユニークなコンポーネントを格納 |
 | components/ui | 見出し、カードなど再利用可能なコンポーネントを格納 |
 
+###  Example
+
+{% embed data="{\"url\":\"https://github.com/Update-hub/sw-vote\",\"type\":\"link\",\"title\":\"Update-hub/sw-vote\",\"description\":\"Contribute to sw-vote development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/36681937?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+
 ## Tips
 
 ### GitHub Pages に公開
