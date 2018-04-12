@@ -109,5 +109,9 @@ deploy実行
 $ yarn run deploy
 ```
 
+GitHub Pagesの設定画面でブランチを gh-pages に設定します。
+
+![](../../.gitbook/assets/sukurnshotto-2018-04-12-170556.png)
+
 しばらく待つか、設定後に再度何かしらの deploy を行うことで見れるようになります。
 
