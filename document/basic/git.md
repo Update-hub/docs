@@ -140,7 +140,7 @@ SlackとGitHubを連携させる（Updateは既に連携済みなので不要で
 /github subscribe <リポジトリURL or リポジトリパス> reviews comments branches
 ```
 
-### GitHub Pages で公開
+### GitHub Pages で公開する
 
 gh-pages をグローバルにインストール
 
@@ -157,4 +157,8 @@ $ gh-pages -d <Deploy Directory>
 GitHubのリポジトリページでGitHub Pagesを有効にし、対象ブランチを `gh-pages` ブランチにする。しばらく待つか、設定後に再度何かしらの deploy を行うことで見れるようになります。
 
 ![](../../.gitbook/assets/github-pages.png)
+
+{% hint style="warning" %}
+GitHub Pages で公開されるページは第二階層目になるため、リンク先、ソース指定をルート相対（/hoge\)ではじめていたらリンク切れとなります。GitHub Pages で公開する場合は必ず相対パス\(./hoge\)指定を行いましょう。
+{% endhint %}
 
