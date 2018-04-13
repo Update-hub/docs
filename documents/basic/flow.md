@@ -1,8 +1,8 @@
 ---
-description: 基本的な開発の流れです
+description: GitHub Flow に準拠しています。
 ---
 
-# 開発フロー
+# ブランチ管理
 
 ## 作業手順
 

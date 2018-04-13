@@ -20,7 +20,7 @@ description: 実務訓練を行います
 
 ## チュートリアル
 
-{% page-ref page="../dokyumento/ji-chu-zhi-shi/chmu.md" %}
+{% page-ref page="../documents/basic/chmu.md" %}
 
 ## 課題
 
