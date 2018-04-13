@@ -16,7 +16,7 @@
 
 ## チュートリアル
 
-{% page-ref page="../dokyumento/ji-chu-zhi-shi/chmu.md" %}
+{% page-ref page="../document/basic/chmu.md" %}
 
 ## 課題
 
