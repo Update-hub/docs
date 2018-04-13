@@ -40,6 +40,7 @@
     * [Web App Manifest](documents/websaito/web-app-manifest.md)
     * [Webフォント](documents/websaito/webfunto.md)
     * [photoshop](documents/websaito/photoshop.md)
+    * [Pug](documents/websaito/pug.md)
   * Webアプリ
     * [Firebase](documents/web-app/firebase.md)
     * [Vue](documents/web-app/vue.md)
