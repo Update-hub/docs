@@ -79,6 +79,12 @@ p: a(href='') リンク
 
 ### PugLint を有効にする
 
+pug-lintをインストール
+
+```bash
+$ npm i -g pug-lint
+```
+
 Visual Studio Code のユーザー設定に以下の記述を追加。
 
 ```javascript
@@ -88,7 +94,7 @@ Visual Studio Code のユーザー設定に以下の記述を追加。
 }
 ```
 
-`.pug-lintrc.json` をプロジェクトルートに作成
+`.pug-lintrc.json` をプロジェクトルートに作成（ない場合）
 
 {% code-tabs %}
 {% code-tabs-item title=".pug-lintrc.json" %}
@@ -117,5 +123,5 @@ Visual Studio Code のユーザー設定に以下の記述を追加。
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-[puglint](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint) をインストールすると、Lintが有効になり、Pugの記述にエラーが表示されるようになります。
+[puglint](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint) の拡張機能をインストールすると、Lintが有効になり、Pugの記述にエラーが表示されるようになります。
 

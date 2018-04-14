@@ -14,6 +14,8 @@
 
 {% page-ref page="../document/basic/buranchi.md" %}
 
+{% page-ref page="../document/websaito/pug.md" %}
+
 ## 準備
 
 1. [課題](https://classroom.github.com/a/aK4sv0P7)リポジトリの作成
