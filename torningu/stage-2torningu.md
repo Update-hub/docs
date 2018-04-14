@@ -49,7 +49,7 @@ description: チーム開発を体験します。
 
 1. リーダーが課題リポジトリ作成後、メンバーをアサインしてください。
 2. チーム用のslackチャンネルを作成し、開発メンバーを招待してください。
-3. `/github subscribe <リポジトリURL or リポジトリパス> reviews comments branches` のコマンドでslackチャンネルにリポジトリの通知が来るようにしてください。
+3. `/github subscribe <リポジトリURL or リポジトリパス> reviews comments branches` のコマンドを、slackの通知が欲しいチャンネルで入力してください。以後slackチャンネルにリポジトリの通知が来るようにしてください。
 4. master リポジトリにプロテクトをかけてください
 
 
