@@ -41,7 +41,7 @@ description: チーム開発を体験します。
 
 ## 課題
 
-[https://classroom.github.com/g/wKSqaiy8](https://classroom.github.com/g/wKSqaiy8)
+[https://classroom.github.com/g/iaawvckf](https://classroom.github.com/g/iaawvckf)
 
 1. リーダーを確認してください。（通常指定があります）
 2. 各メンバーの稼働予定を確認してください。\(毎週何曜日何時間ほど動けるのか？）
