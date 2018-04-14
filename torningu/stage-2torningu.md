@@ -43,6 +43,8 @@ description: チーム開発を体験します。
 
 [https://classroom.github.com/a/esI7PLw7](https://classroom.github.com/a/esI7PLw7)
 
+[issue一覧](https://github.com/Update-hub/stage-2/issues)
+
 ### 環境構築
 
 1. リーダーが課題作成後、メンバーをアサインしてください。
