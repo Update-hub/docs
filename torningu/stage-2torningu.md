@@ -1,7 +1,3 @@
----
-description: チーム開発を体験します。
----
-
 # stage-2:開発トレーニング
 
 ## 概要
@@ -35,9 +31,9 @@ description: チーム開発を体験します。
 
 ## チュートリアル
 
-{% page-ref page="../document/websaito/pug.md" %}
+{% page-ref page="../dokyumento/websaito/pug.md" %}
 
-{% page-ref page="../document/basic/chmu.md" %}
+{% page-ref page="../dokyumento/ji-chu-zhi-shi/chmu.md" %}
 
 ## 課題
 
@@ -54,7 +50,7 @@ description: チーム開発を体験します。
 
 
 
-![設定項目](../.gitbook/assets/sukurnshotto-2018-04-14-180826.png)
+![&#x8A2D;&#x5B9A;&#x9805;&#x76EE;](../.gitbook/assets/sukurnshotto-2018-04-14-180826.png)
 
 以上でリーダーの開発準備は完了です。次のフローに進みましょう。
 

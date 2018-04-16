@@ -1,5 +1,5 @@
 ---
-description: JSの品質チェックツール。必ず入れましょう。
+description: JSの記述をチェックするLinter
 ---
 
 # ESLint
