@@ -1,3 +1,7 @@
+---
+description: npm の上位互換
+---
+
 # Yarn
 
 ## 公式ドキュメント
