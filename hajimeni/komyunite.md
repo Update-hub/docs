@@ -31,4 +31,5 @@ Updateは限られた有志の現役エンジニアによって無償で運営�
 
 * [編集メンバー](https://beta.gitbook.com/invite/update?invite=-L9OGHsU39T_hZA43uon)に参加してください。
 * Gitbook に githubアカウントでログインした後、下のEditボタンより更新が可能です。
+* またGitbook上から直接編集できない場合、上の「Edit on GitHub」ボタンからリポジトリに飛び、そこで編集をした後下のコミット欄から「 Create a new branch for this commit and start a pull request」を選んでプルリクエストを作成してください。
 
