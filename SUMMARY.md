@@ -2,6 +2,7 @@
 
 * [Update](README.md)
 * はじめに
+  * [Updateとは](hajimeni/updatetoha.md)
   * [事前準備](hajimeni/shi-qian-zhun-bei.md)
   * [学習ガイドライン](hajimeni/gaidorain.md)
   * [仕事](hajimeni/shi-shi.md)
