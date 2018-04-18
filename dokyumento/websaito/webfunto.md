@@ -12,3 +12,7 @@
 * [Material Icons](https://material.io/icons/)
 * [Font Awesome](https://fontawesome.com/)
 
+### webフォントの読み込み
+
+フォントは通常 style.css より前で読むか、style.scss の先頭で import　します。
+
