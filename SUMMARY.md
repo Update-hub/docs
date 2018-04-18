@@ -42,6 +42,7 @@
     * [Webフォント](dokyumento/websaito/webfunto.md)
     * [photoshop](dokyumento/websaito/photoshop.md)
     * [Pug](dokyumento/websaito/pug.md)
+    * [EJS](dokyumento/websaito/ejs.md)
   * Webアプリ
     * [Firebase](dokyumento/webapuri/firebase.md)
     * [Vue](dokyumento/webapuri/vue.md)
