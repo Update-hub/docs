@@ -126,6 +126,17 @@ Git Flowがメジャーですが、毎日Deployするようなハイサイクル
 
 [https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
 
+### マージ時にコンフリクトした場合
+
+プルリクエストをマージする際にコンフリクトが発生した場合は、以下のようにして対応します。（決してmasterブランチを直接いじろうとしないこと）
+
+1. PR対象のブランチ\(最新の状態\)を作業ブランチに取り込む\(merge XXX\)
+2.  コンフリクトを解消する
+3.  作業ブランチを再度Pushする
+4.  コンフリクトが消えており、PRが通る状態になっている
+
+1.の時点でコンフリクトが出ているはずなので、エディターでプロジェクト内を &gt;&gt;&gt; で一括検索すると競合箇所が分かります。Visual Studio Codeには競合の解決機能がついているので、それでmasterか自分のブランチか正しい方（あるいは両方）を取り込み、コンフリクトを解消してから3.に進みます。
+
 ### SlackとGitHub連携
 
 SlackとGitHub連携を行うことでGitHubのアクティビティをSlackのチャンネルで知ることができます。チーム開発においてほぼ必須の連携です。
