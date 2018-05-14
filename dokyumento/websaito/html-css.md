@@ -44,3 +44,13 @@
 
 モバイルファーストにはデザインもコーディングも含めたあらゆる設計を、スマートフォンユーザーを第一義に考えるという意味が含まれます。
 
+###  セマンティックマークアップ
+
+  `div`  `span` タグのみで文字をラップしたりすることは基本的にNGです。セマンティックなマークアップを心けましょう。
+
+{% embed data="{\"url\":\"https://developer.mozilla.org/en-US/docs/Glossary/Semantics\",\"type\":\"link\",\"title\":\"Semantics\",\"description\":\"In programing, Semantics refers to the meaning of a piece of code — for example \\"what effect does running that line of JavaScript have?\\", or \\"what purpose or role does that HTML element have\\" \(rather than \\"what does it look like?\\".\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://www.w3schools.com/html/html5\_semantic\_elements.asp\",\"type\":\"link\",\"title\":\"HTML5 Semantic Elements\",\"description\":\"Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, PHP, and XML.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.w3schools.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+
+
