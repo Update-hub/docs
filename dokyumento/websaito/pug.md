@@ -52,6 +52,91 @@ Pugの場合は、そういった再利用可能なコンポーネントを個�
 
 ## Tips
 
+### If文
+
+ 条件分岐が使えます。
+
+{% code-tabs %}
+{% code-tabs-item title="sample.pug" %}
+```javascript
+- var pet = 'dog'
+
+if pet === 'dog'
+  p 犬
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="sample.html" %}
+```markup
+<p>犬</p>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+### each文
+
+ 繰り返しの記述部分は配列とループ処理を使って書けます。
+
+{% code-tabs %}
+{% code-tabs-item title="sample.pug" %}
+```javascript
+- var list = ['cat', 'dog', 'pig']
+
+ul
+  each i in list
+    li.pet= i
+    // li.pet-list #{i}でも可
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+{% code-tabs %}
+{% code-tabs-item title="sample.html" %}
+```markup
+<ul>
+  <li class="pet">cat</li>
+  <li class="pet">dog</li>
+  <li class="pet">pig</li>
+</ul>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+### Mixin
+
+ 複数個所で呼び出す共通部を関数のように作成できます。 mixin用のファイルを別に作ることもできますが、同じファイル内にも記述できます。
+
+{% code-tabs %}
+{% code-tabs-item title="sample.pug" %}
+```javascript
+mixin pet(name)
+  li.pet= name
+  // li.pet #{name} でも可
+
+ul
+  +pet('cat')
+  +pet('dog')
+  +pet('pig')
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
+` +mixin名()` で呼び出します。任意の値を引数に渡すことが可能です。
+
+{% code-tabs %}
+{% code-tabs-item title="sample.html" %}
+```markup
+<ul>
+  <li class="pet">cat</li>
+  <li class="pet">dog</li>
+  <li class="pet">pig</li>
+</ul>
+```
+{% endcode-tabs-item %}
+{% endcode-tabs %}
+
 ### インラインスタイルを入力したい
 
 ふた通りの書き方があります。まずは普通にHTMLタグで記述する方法です。
