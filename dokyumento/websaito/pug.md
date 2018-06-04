@@ -123,7 +123,7 @@ ul
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-` +mixin名()` で呼び出します。任意の値を引数に渡すことが可能です。
+ `+mixin名()` で呼び出します。任意の値を引数に渡すことが可能です。
 
 {% code-tabs %}
 {% code-tabs-item title="sample.html" %}
