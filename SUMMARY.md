@@ -1,20 +1,20 @@
 # Table of contents
 
 * [Update](README.md)
-* はじめに
+* [はじめに](hajimeni/README.md)
   * [Updateとは](hajimeni/updatetoha.md)
   * [事前準備](hajimeni/shi-qian-zhun-bei.md)
   * [学習ガイドライン](hajimeni/gaidorain.md)
   * [仕事](hajimeni/shi-shi.md)
   * [コミュニティ貢献](hajimeni/komyunite.md)
-* トレーニング
+* [トレーニング](torningu/README.md)
   * [チュートリアル](torningu/chtoriaru.md)
   * [stage-1:基礎トレーニング](torningu/stage-1torningu.md)
   * [stage-2:開発トレーニング](torningu/stage-2torningu.md)
   * [stage-3:上級トレーニング](torningu/stage-3torningu.md)
   * [プロテスト](torningu/purotesuto.md)
-* ドキュメント
-  * 基礎知識
+* [ドキュメント](dokyumento/README.md)
+  * [基礎知識](dokyumento/ji-chu-zhi-shi/README.md)
     * [ブランチ管理](dokyumento/ji-chu-zhi-shi/buranchi.md)
     * [チーム開発](dokyumento/ji-chu-zhi-shi/chmu.md)
     * [専門用語](dokyumento/ji-chu-zhi-shi/zhuan-men-yong-yu.md)
@@ -25,7 +25,7 @@
     * [Yarn](dokyumento/ji-chu-zhi-shi/yarn.md)
     * [Markdown](dokyumento/ji-chu-zhi-shi/markdown.md)
     * [Chrome DevTools](dokyumento/ji-chu-zhi-shi/chrome-devtools.md)
-  * Webサイト
+  * [Webサイト](dokyumento/websaito/README.md)
     * [開発フロー](dokyumento/websaito/fur.md)
     * [HTML/CSS](dokyumento/websaito/html-css.md)
     * [JavaScript](dokyumento/websaito/javascript.md)
@@ -43,7 +43,8 @@
     * [photoshop](dokyumento/websaito/photoshop.md)
     * [Pug](dokyumento/websaito/pug.md)
     * [EJS](dokyumento/websaito/ejs.md)
-  * Webアプリ
+    * [実務で気をつけること](dokyumento/websaito/dewotsukerukoto.md)
+  * [Webアプリ](dokyumento/webapuri/README.md)
     * [Firebase](dokyumento/webapuri/firebase.md)
     * [Vue](dokyumento/webapuri/vue.md)
     * [Angular](dokyumento/webapuri/angular.md)
@@ -54,7 +55,7 @@
     * [Google Cloud Platform](dokyumento/webapuri/google-cloud-platform.md)
   * [WordPress](dokyumento/wordpress.md)
   * [参考リンク](dokyumento/rinku.md)
-* ライフハック
+* [ライフハック](raifuhakku/README.md)
   * [フリーランス](raifuhakku/furransu.md)
   * [ワークポリシー](raifuhakku/workp_policy.md)
 
