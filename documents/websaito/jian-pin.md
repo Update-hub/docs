@@ -7,7 +7,7 @@
 | ツール | 概要 | 合格基準 |
 | --- | --- | --- |
 | [HTML Validator](https://validator.w3.org/) | HTML品質チェック | エラーがない状態にする\(外部ソースは除く\) |
-| [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja) | パフォーマンス改善 | PC, SPともにレッドスコアでないこと |
+| [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja) | パフォーマンス改善 | PC, SPともにレッドスコアがないこと |
 | [モバイルフレンドリー](https://search.google.com/search-console/mobile-friendly?hl=ja) | スマホ対応 | エラーがない状態 |
 | [シェアデバッカー](https://developers.facebook.com/tools/debug/) | SNSシェア時にサムネイルなど表示するタグ | エラーがない状態 |
 | [構造化データテストツール](https://search.google.com/structured-data/testing-tool) | SEO対策 | エラーがない状態 |
@@ -34,9 +34,9 @@
 
 ただし、渡されたデザインに29pxや31pxといったキリの悪い数字がある場合、30pxが正であるところをツールの都合やミスなどでそうなっている可能性もあるため、常に書かれている内容にそのまま従うのではなく、デザイナー視点での確認・調整を適宜行うことも必要になってきます。
 
-PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いずれも有料）ですが、いずれにおいてもデザインの各種データ（文字サイズ、色）を制作に抽出する機能が備わっているため、デザインツールの基本操作も並行して身につけましょう。
+PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いずれも有料）ですが、いずれにおいてもデザインの各種データ（文字サイズ、色）を制作に抽出する機能が備わっているため、デザインツールの基本操作も身につけましょう。
 
-デザインツールを持っていない方はデザイナーに各要素の数値データを提供してもらいましょう。フリーランスで生計を立てる場合、デザインの数値が取れないと仕事にならないため、いずれかのデザインツール\(PhotoShop\)は必ず購入しましょう。
+デザインツールを持っていない方はデザイナーに各要素の数値データを提供してもらいましょう。フリーランスで生計を立てる場合、デザインの数値が取れないと仕事にならないため、PhotoShopは必ず購入しましょう。（Webデザイナーに限る）
 
 ### 参考
 
@@ -49,4 +49,5 @@ PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いず
 * favicon, スマホhome画面用アイコンは設置されているか
 * titleは正しく設定されているか
 * Sitemapは設置されているか
+* iPhone SE, iPhone Plus, ワイドモニターで崩れはないか？
 

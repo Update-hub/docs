@@ -19,8 +19,8 @@ CSSを設計する際、クラス名やスタイル指定のルールがない�
 ### 注意点
 
 * .element は子供を持ちません。したがって `.block__element__element` のようなCSS命名はNGです。
-* modifier はblockに対するものです。したがって `.block--modifire-modifire` はNGです。
-* modifier はblock に対するものです。したがってmodifier単体でclass名が存在することはあり得ません。
+* modifier はblockに対するものです。したがって `.block--modifire--modifire` はNGです。
+* modifier はblock に対するものです。したがってmodifier単体でclass名が存在することはあり得ません。 `<div class="btn--red">` はありえません。 \`&lt;div class="btn btn--red"&gt;\` が正です。
 
 ### 公式ドキュメント
 
