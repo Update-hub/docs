@@ -1,10 +1,78 @@
+---
+description: 最も軽量なエディタ
+---
+
 # Visual Studio Code
 
-## 公式ドキュメント
+## 概要
+
+Visual Studio Code は Microsoft 社が開発している無料のテキストエディタです。従来のエディタに比べ非常に軽量で、拡張機能を使えば開発効率を大幅に向上させることができます。vscode と略されます。
 
 {% embed data="{\"url\":\"https://www.microsoft.com/ja-jp/dev/products/code-vs.aspx\",\"type\":\"link\",\"title\":\"Visual Studio Code - Visual Studio\",\"description\":\"Mac, Windows, Linux の軽量/高速な高機能開発エディター\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.microsoft.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
+## よく使う操作
+
+あらゆるツールに共通することとして、ショートカットの使い方を覚え、染み込ませましょう。単純に作業効率が2倍以上になります。
+
+windows の方は下記を参考にしてください。
+
+{% embed data="{\"url\":\"https://qiita.com/TakahiRoyte/items/cdab6fca64da386a690b\",\"type\":\"link\",\"title\":\"【Windows版】VS Code キーボードショートカット一覧 （オススメ付き） - Qiita\",\"description\":\"VS Codeのデフォルトショートカット一覧です。 ★が付いているのは個人的なオススメです。  2016.11.08追記 メニューの ヘルプ > Keyboard Shortcuts Reference で英語版ですがキーボードショー...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+### コマンドパレット\(⌘⇧P \)
+
+あらゆるコマンドにアクセスすることができます。ステータスバーの `表示>コマンドパレット` から開くことができます。 通常はショートカットで開きます。ショートカットはOSによって異なるので、コマンド横の表記を覚えるようにしましょう。  
+  
+以後、各機能の説明ではコマンド名を記載するので、コマンドパレットでコマンドを検索して使用してください。その際、ショートカットがあるものは以降ショートカットで機能を実行しましょう。
+
+### ソースコードの整形\(⇧⌥F\)
+
+ソースコードの整形を行うことができます。
+
+### 複数単語選択\(⌘D\)
+
+ソース中の同じ単語や類似のタグを一括で編集したい場合に多用します。
+
+### ファイルの切り替え\(⌘P\)
+
+ファイルの切り替えで多用します。切り替えたいファイルやディレクトリを入力することで、直感的に目的のファイルを開くことができます。
+
+### Diff
+
+compare でコマンド検索をしてください。クリップボードや、開いている他のファイルと差分を確認することができます。
+
+### 拡張機能\(⇧⌘K\)
+
+拡張機能の検索、更新、削除ができます。
+
+### Git
+
+
+
+## 推奨拡張機能
+
+### 各種言語系
+
+PHP, TypeScript, Ruby など、各言語ごとの拡張機能があるので、目的に応じて導入しておきましょう。
+
+### Beautify
+
+コード整形を助けてくれます。
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify\",\"type\":\"link\",\"title\":\"Beautify - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Beautify code in place for VS Code\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.3.2/1528842959943/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":256,\"height\":256,\"aspectRatio\":1}}" %}
+
+### 
+
 ## Tips
+
+### コマンドからディレクトリ、ファイルをvscodeで開く
+
+`$ code <ディレクトリ位置 or ファイル名>` のコマンドで、任意のディレクトリやファイルをルートとした状態でvscode を立ち上げることができます。
+
+例えば、現在のディレクトリをルートとしてvscodeを立ち上げたい場合、以下のコマンドを叩きます。
+
+```text
+$ code ./
+```
 
 ### 設定ファイル
 

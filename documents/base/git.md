@@ -1,15 +1,28 @@
+---
+description: Gitはソースコードの管理に欠かせない必須ツールです。
+---
+
 # Git
 
-## 公式サイト
+## 概要
+
+Gitを使えば、ソースコードのバージョン管理を行ったり、複数人で共通のコードをメンテナンスすることができます。ほぼすべての制作現場で使われているので、基本的な使い方をマスターしましょう。コマンド操作は通常GUIで操作することが多いので、GUIで解説を行います。
 
 {% embed data="{\"url\":\"https://git-scm.com/\",\"type\":\"link\",\"title\":\"Git\",\"icon\":{\"type\":\"icon\",\"url\":\"https://git-scm.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
 {% embed data="{\"url\":\"https://git-scm.com/book/ja/v2\",\"type\":\"link\",\"title\":\"Git - Book\",\"icon\":{\"type\":\"icon\",\"url\":\"https://git-scm.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"ドキュメント\"}" %}
 
-### リポジトリサービス
+### 代表的なGUI
 
-* [GitHub](https://github.com) - 世界的メインストリーム。プライベートリポジトリは有料。
-* [GitLab](https://about.gitlab.com/) - 国内の現場で採用率高。プライベートリポジトリも無料。
+* [GitHub for Desktop](https://desktop.github.com/) - GitHubリポジトリに特化
+* [Sourcetree](https://ja.atlassian.com/software/sourcetree) - 汎用性が高く、メジャー
+* [Visual Studio Code ](https://code.visualstudio.com/)- Git管理機能を内臓
+* その他エディター内臓の機能
+
+### 代表的なリポジトリサービス
+
+* [GitLab](https://about.gitlab.com/) - 実務での採用率が高い。プライベートリポジトリも無料。
+* [GitHub](https://github.com) - OSSで人気。プライベートリポジトリは有料。
 * [BitBucket](https://bitbucket.org/product) - プライベートリポジトリも無料（制限あり）
 
 ## クイックスタート
@@ -88,6 +101,14 @@ $ git diff
 
 ```bash
 $ git status
+```
+
+### コミット間の差分をzipでまとめたい
+
+クライアントに作業内容を提出する際に便利です。
+
+```text
+git archive master --format=zip -o diff.zip --prefix=data/ `git diff --name-only --diff-filter=d コミットA コミットB`
 ```
 
 ## Gitクライアント
