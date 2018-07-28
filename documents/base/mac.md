@@ -32,7 +32,7 @@ Macは多くのWeb制作で使われます。制作に役立つ機能を学び�
 
 カラーコードを取得することができます。Spotlight などから素早く立ち上げましょう。値を表示、16進数とすることで \#ffffff の形式で色をコピーできます。⇧⌘C で色のコピーができます。
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%282%29.png)
 
 {% embed data="{\"url\":\"https://support.apple.com/ja-jp/guide/digital-color-meter/welcome/mac\",\"type\":\"link\",\"title\":\"Digital Color Meter を使用してディスプレイ上の色のカラー値を確認する\",\"description\":\"Apple Product Documentation\",\"icon\":{\"type\":\"icon\",\"url\":\"https://support.apple.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
