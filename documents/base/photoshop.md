@@ -49,5 +49,7 @@ SEO、ユーザービリティなどあらゆる観点から、可能な限りWe
 
 業務の世界において、時にPSDでバナーやデザインを頼まれることもあります。その際は、コーダーとしての視点を活かして、「組みやすいデザイン」「分かりやすいレイヤー設計」を意識しましょう。
 
+{% embed data="{\"url\":\"https://blogs.adobe.com/creativestation/serialization/web-start-design-with-photoshop\",\"type\":\"link\",\"title\":\"連載 : PhotoshopでWebデザインをはじめよう！ - Adobe Creative Station\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blogs.adobe.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blogsimages.adobe.com/creativestation/files/2016/03/Adobe\_Blog\_black\_ogp.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+
 {% embed data="{\"url\":\"https://blogs.adobe.com/creativestation/serialization/web-photoshop-cc-new-basics\",\"type\":\"link\",\"title\":\"連載 : Photoshop CCの基本 イマドキWeb制作テクニック - Adobe Creative Station\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blogs.adobe.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blogsimages.adobe.com/creativestation/files/2016/03/Adobe\_Blog\_black\_ogp.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
 
