@@ -49,18 +49,11 @@ $ npm i -g gulp-cli eslint editorconfig
 
 ## その他の設定
 
-### GitHub登録
-
-[GitHub](https://github.com/)アカウント作成後、アイコンの設定を行ってください。また、作成したメールアドレスとユーザー名を下記コマンドでgitに定義してください。コマンドはターミナル\(mac）かgit bash\(windows\)で行ってください。
-
-```bash
-$ git config --global user.name ユーザー名
-$ git config --global user.email メールアドレス
-```
-
 ### GitLab登録
 
-[GitLab](https://gitlab.com/)アカウント作成後、アイコンを設定してください。
+[GitLab](https://gitlab.com/)アカウント作成後、アイコンを設定してください。その後、GitLabの設定を行ってください。
+
+{% page-ref page="../documents/base/gitlab.md" %}
 
 ### Slackの設定
 
