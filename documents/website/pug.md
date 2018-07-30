@@ -36,8 +36,8 @@ ul
 
 さらに、If文やeach文、mixinが使えるのでよりプログラマブルにHTMLを記述することができ、大規模サイトの実装を効率化することができます。
 
-{% hint style="info" %}
-Pugと同じようにejs, handlebars, slim などもテンプレート言語として人気です。
+{% hint style="warning" %}
+mixinや条件分岐を多用すると逆に可読性が下がるので、include, extends 以外の多用には注意しましょう。
 {% endhint %}
 
 ### なぜテンプレート言語が必要なのか
@@ -109,7 +109,6 @@ ul
 ```javascript
 mixin pet(name)
   li.pet= name
-  // li.pet #{name} でも可
 
 ul
   +pet('cat')
@@ -119,7 +118,7 @@ ul
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
- `+mixin名()` で呼び出します。任意の値を引数に渡すことが可能です。
+ `+mixin名()` で呼び出します。任意の値を引数に渡すことが可能です。上記の結果下記のようなHTMLが出力されます。
 
 {% code-tabs %}
 {% code-tabs-item title="sample.html" %}
