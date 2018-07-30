@@ -33,6 +33,36 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 {% embed data="{\"url\":\"https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/edit?usp=sharing\",\"type\":\"rich\",\"title\":\"チームシートテンプレート\",\"description\":\"プロジェクト   プロジェクト名, 山田, 佐藤, 岡田, 森, 案件単価, 累計売上, 累計売上  はじめての修正, 納品済, 納品済,¥ 10, 000,¥ 20, 000,¥ 1, 744, 000  検品, 納品済, 納品済,¥ 10, 000,¥ 40, 000  コンポーネント追加, 納品済, 納品済,¥ 7, 000,¥ 54, 000  ページ追加, 納品済, 納品済,¥ 20, 000,¥ 94, 000  開発環境構築, 納品済, 納品済,¥ 25, 000,¥ 144, 000  LP制作, 納品済, 納品済,¥ 50, 000,¥ 244, 000  JS開発開発...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/spreadsheets/favicon\_jfk2.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh3.googleusercontent.com/h\_9\_v9yaYRpUFz1rpjp45foEnZ-hDokPHbT75U5DtUK5Sxkb3H\_KDbCb9TE8Q2GdZqyTMA=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 70.7114%;\\\"><iframe src=\\\"https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.4142}}" %}
 
+## 使用するツール
+
+### Slack
+
+メインのコミュニケーションツールです。
+
+https://update-hub.slack.com
+
+### GitBook
+
+このドキュメントです。業務に必要な知識がまとまっています。誤字脱字や情報の加筆にご協力いただける方は \#docs ご連絡ください。
+
+{% embed data="{\"url\":\"http://docs.update.jp/\",\"type\":\"link\",\"title\":\"Update - Update\",\"description\":\"Updateにようこそ\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-L9O8ush1lr5Xhg8gaQD%2Favatar.png?generation=1522987954398491&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-L9O8ush1lr5Xhg8gaQD.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+
+### GitLab
+
+ソースコード管理ツールです。実務同様、案件のソースコードをこちらで管理していきます。
+
+### Google スプレッドシート
+
+チーム管理を行います。[参考例](https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS_A8A1jiJiLWINc79lls/edit#gid=1554723721)
+
+### Photoshop
+
+デザインデータの利用に使います。Adobe Extract で対応できない場合（実在する案件に参画する際など）は、月額980円で利用権を購入してもらう必要があります。初回の方は無料のトライアル期間があるので、トレーニング中はトライアル期間を利用するか、Adobe Extract\(無料\)を利用しましょう。 
+
+### その他
+
+その他、Google Hangout や Google Calendar, Adobe Cloud などをプロジェクトに応じて使用します。
+
 ## 学習ガイドライン
 
 開発に必要な知識はドキュメントや動画で提供していますが、それらで解決しない問題が発生した場合、チームチャンネルか \#ask チャンネルで気軽に質問してください。ただし、実務においては自己解決力も重要なので、極めて初歩的な内容はGoogleで検索してみましょう。多くの場合答えが見つかります。
