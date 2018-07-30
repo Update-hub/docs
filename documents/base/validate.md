@@ -6,14 +6,21 @@
 
 | ツール | 概要 | 合格基準 |
 | --- | --- | --- |
-| [HTML Validator](https://validator.w3.org/) | HTML品質チェック | エラーがない状態にする\(外部ソースは除く\) |
+| [HTML Validator](https://validator.w3.org/) | HTML構文チェック | エラーがない状態 |
+| [CSS Validator](https://jigsaw.w3.org/css-validator/) | CSS構文チェック | エラーがない状態 |
 | [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja) | パフォーマンス改善 | PC, SPともにレッドスコアがないこと |
 | [モバイルフレンドリー](https://search.google.com/search-console/mobile-friendly?hl=ja) | スマホ対応 | エラーがない状態 |
-| [シェアデバッカー](https://developers.facebook.com/tools/debug/) | SNSシェア時にサムネイルなど表示するタグ | エラーがない状態 |
+
+### その他チェックサービス
+
 | [構造化データテストツール](https://search.google.com/structured-data/testing-tool) | SEO対策 | エラーがない状態 |
-| [AMPテスト](https://search.google.com/test/amp) | AMPの場合 | エラーがないこと |
-| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | PWAの場合 | エラーがないこと |
-| [Test My Site](https://testmysite.withgoogle.com/intl/ja-jp) | 表示速度と同業比較 | 要改善でないこと |
+| --- | --- | --- |
+| [AMPテスト](https://search.google.com/test/amp) | AMPの場合 | エラーがない状態 |
+| [シェアデバッカー](https://developers.facebook.com/tools/debug/) | SNSシェア時にサムネイルなどを表示するタグ | エラーがない状態 |
+| [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | PWAの場合 | エラーがない状態 |
+| [Test My Site](https://testmysite.withgoogle.com/intl/ja-jp) | 表示速度と同業との比較（アナリスト向け） | 要改善でないこと |
+
+
 
 ## ブラウザチェック
 
