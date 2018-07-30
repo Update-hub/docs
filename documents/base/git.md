@@ -6,6 +6,8 @@ description: Gitはソースコードの管理に欠かせない必須ツール�
 
 ## 概要
 
+{% embed data="{\"url\":\"https://www.youtube.com/watch?v=sY64kVwQ-bw&index=3&t=278s&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL\",\"type\":\"video\",\"title\":\"gitによる共同開発\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/sY64kVwQ-bw/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/sY64kVwQ-bw?rel=0&showinfo=0&start=278\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/sY64kVwQ-bw?rel=0&amp;showinfo=0&amp;start=278\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
 Gitを使えば、ソースコードのバージョン管理を行ったり、複数人で共通のコードをメンテナンスすることができます。ほぼすべての制作現場で使われているので、基本的な使い方をマスターしましょう。コマンド操作は通常GUIで操作することが多いので、GUIで解説を行います。
 
 {% embed data="{\"url\":\"https://git-scm.com/\",\"type\":\"link\",\"title\":\"Git\",\"icon\":{\"type\":\"icon\",\"url\":\"https://git-scm.com/favicon.ico\",\"aspectRatio\":0}}" %}
@@ -14,10 +16,8 @@ Gitを使えば、ソースコードのバージョン管理を行ったり、�
 
 ### 代表的なGUI
 
-* [GitHub for Desktop](https://desktop.github.com/) - GitHubリポジトリに特化
 * [Sourcetree](https://ja.atlassian.com/software/sourcetree) - 汎用性が高く、メジャー
 * [Visual Studio Code ](https://code.visualstudio.com/)- Git管理機能を内臓
-* その他エディター内臓の機能
 
 ### 代表的なリポジトリサービス
 
@@ -72,7 +72,33 @@ $ git push
 $ git pull
 ```
 
-## リファレンス
+### Git管理のポイント
+
+* 作業はこまめにコミットしましょう。
+* コミットメッセージは作業内容が端的に一目で分かるようにしましょう。
+* issueに紐づく作業の場合はコメントの後ろに `作業内容 #4` などとissue番号を追記しましょう。
+* 作業単位\(issue単位\)でbranchを切りましょう。
+
+### ブランチモデル
+
+Git Flowがメジャーですが、毎日DeployするようなハイサイクルなプロジェクトではGitHub Flowが推奨されます。
+
+#### GitHub Flow
+
+[https://gist.github.com/Gab-km/3705015](https://gist.github.com/Gab-km/3705015)
+
+ハイサイクルなプロジェクト向け。マイナーだがシンプル
+
+* master = 公開できる状態として保守
+* 作業単位でブランチを作成し、Pull Request を通して master を更新
+
+#### Git Flow
+
+ローサイクルなプロジェクト向け。メジャーだが複雑。
+
+[https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
+
+## Tips
 
 ### 特定のコミットを取り消したい
 
@@ -110,42 +136,6 @@ $ git status
 ```text
 git archive master --format=zip -o diff.zip --prefix=data/ `git diff --name-only --diff-filter=d コミットA コミットB`
 ```
-
-## Gitクライアント
-
-Gitクライアントを使うとコマンドを使わなくても直感的にGitの基本操作を行うことができます。
-
-* [Visual Studio Code](https://code.visualstudio.com/docs/editor/versioncontrol)
-* [GitHub for Desktop](https://desktop.github.com/)
-* [SourceTree](https://www.sourcetreeapp.com/)
-
-## Tips
-
-### Git管理のポイント
-
-* 作業はこまめにコミットしましょう。
-* コミットメッセージは作業内容が端的に一目で分かるようにしましょう。
-* issueに紐づく作業の場合はコメントの後ろに `作業内容 #4` などとissue番号を追記しましょう。
-* 作業単位\(issue単位\)でbranchを切りましょう。
-
-### ブランチモデル
-
-Git Flowがメジャーですが、毎日DeployするようなハイサイクルなプロジェクトではGitHub Flowが推奨されます。
-
-#### GitHub Flow
-
-[https://gist.github.com/Gab-km/3705015](https://gist.github.com/Gab-km/3705015)
-
-ハイサイクルなプロジェクト向け。マイナーだがシンプル
-
-* master = 公開できる状態として保守
-* 作業単位でブランチを作成し、Pull Request を通して master を更新
-
-#### Git Flow
-
-ローサイクルなプロジェクト向け。メジャーだが複雑。
-
-[https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
 
 ### マージ時にコンフリクトした場合
 
