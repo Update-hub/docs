@@ -27,6 +27,8 @@ Gitを使えば、ソースコードのバージョン管理を行ったり、�
 
 ## クイックスタート
 
+初心者の方はSourceTreeなどのGUIでの操作を推奨します。GUIを使わない方は以下のコマンドを参照してください。
+
 ### 基本的な流れ
 
 既存のGitプロジェクトを自分のPCに複製する
@@ -72,35 +74,24 @@ $ git push
 $ git pull
 ```
 
-### Git管理のポイント
+## Git管理のポイント
 
 * 作業はこまめにコミットしましょう。
 * コミットメッセージは作業内容が端的に一目で分かるようにしましょう。
 * issueに紐づく作業の場合はコメントの後ろに `作業内容 #4` などとissue番号を追記しましょう。
 * 作業単位\(issue単位\)でbranchを切りましょう。
 
-### ブランチモデル
+### Git Flow
 
-Git Flowがメジャーですが、毎日DeployするようなハイサイクルなプロジェクトではGitHub Flowが推奨されます。
-
-#### GitHub Flow
-
-[https://gist.github.com/Gab-km/3705015](https://gist.github.com/Gab-km/3705015)
-
-ハイサイクルなプロジェクト向け。マイナーだがシンプル
-
-* master = 公開できる状態として保守
-* 作業単位でブランチを作成し、Pull Request を通して master を更新
-
-#### Git Flow
-
-ローサイクルなプロジェクト向け。メジャーだが複雑。
+最もメジャーなブランチ管理手法です。採用条件に含まれることもあります。複雑ですが、SourceTreeなどのGitクライアントを使うことで直感的に操作が可能です。作業単位でfeatureブランチ、リリース単位でreleaseブランチ、バグ単位でhotfixブランチをそれぞれ作成し、developやmasterにマージする手法です。
 
 [https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
 
 ## Tips
 
 ### 特定のコミットを取り消したい
+
+SourceTreeなどでは右クリックから簡単にコミットの打ち消しができます。
 
 ```bash
 $ git log // 作業ログの確認（取り消したいコミットのコミットIDを控える）
