@@ -6,6 +6,8 @@ description: 最もよく使われるリポジトリ管理サービス
 
 ## 概要
 
+{% embed data="{\"url\":\"https://youtu.be/JmjpXxM2Rsc\",\"type\":\"video\",\"title\":\"GitLabの登録と初期設定\",\"description\":\"一部補足：\\n・ QRコードの撮影は初回以降不要です。ログイン時はアプリに表示されている数字を入力します。\\n・ターミナルに貼り付けたコマンドはEnterで入力してください。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/JmjpXxM2Rsc/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/JmjpXxM2Rsc?rel=0&showinfo=0\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/JmjpXxM2Rsc?rel=0&amp;showinfo=0\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
 GitLabは業務において最もよく使われるリポジトリ管理サービスです。GitHubは不特定多数でのオープンソース開発に適していますが、GitLab は会社やチームでのクローズドな開発で使われます。GitHub と違い、無料でプライベートリポジトリを作成することができます。
 
 ## 事前準備
