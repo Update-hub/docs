@@ -26,6 +26,7 @@ Mac or Windows を用意してください。実際の現場ではMacが多い�
 * [chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=ja) - 主な開発用ブラウザ
 * [slack](https://slack.com/downloads/) - チャットツール（スマホアプリも同様）
 * [Adobe Creative Cloud](https://www.adobe.com/jp/creativecloud/desktop-app.html) - Adobe製品
+* [SourceTree](https://ja.atlassian.com/software/sourcetree) - Git管理ツール
 
 slackをインストールしたら[Update](https://update-hub.slack.com)のワークスペースにログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールしてください。**稼働中はSlackアプリにログインする**ようにしてください。
 
