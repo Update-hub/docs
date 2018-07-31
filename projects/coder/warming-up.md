@@ -16,5 +16,7 @@ description: まずは既存のコードを修正してみましょう。
 
 ## プロジェクトファイル
 
+{% file src="../../.gitbook/assets/2018-07-31\_06-11-577\_update-lab\_modify-site\_export.tar.gz" caption="プロジェクトファイル" %}
+
 
 
