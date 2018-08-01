@@ -52,6 +52,7 @@
     * [PWA](documents/other/pwa.md)
     * [Webフォント](documents/other/web-font.md)
     * [高度なTips](documents/other/high-tips.md)
+    * [Git Flow](documents/other/git-flow.md)
 * [ライフハック](life-hack/README.md)
   * [フリーランス](life-hack/freelance.md)
   * [ワークポリシー](life-hack/policy.md)

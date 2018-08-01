@@ -81,11 +81,9 @@ $ git pull
 * issueに紐づく作業の場合はコメントの後ろに `作業内容 #4` などとissue番号を追記しましょう。
 * 作業単位\(issue単位\)でbranchを切りましょう。
 
-### Git Flow
+### GitHub Flow
 
-最もメジャーなブランチ管理手法です。採用条件に含まれることもあります。複雑ですが、SourceTreeなどのGitクライアントを使うことで直感的に操作が可能です。作業単位でfeatureブランチ、リリース単位でreleaseブランチ、バグ単位でhotfixブランチをそれぞれ作成し、developやmasterにマージする手法です。
-
-[https://danielkummer.github.io/git-flow-cheatsheet/index.ja\_JP.html](https://danielkummer.github.io/git-flow-cheatsheet/index.ja_JP.html) [https://github.com/nvie/gitflow](https://github.com/nvie/gitflow)
+masterから作業ブランチを作成し、終わったらマージリスクエストをだす最もシンプルなブランチ管理手法です。
 
 ## Tips
 
