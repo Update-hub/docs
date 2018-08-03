@@ -3,7 +3,7 @@
 ## 推奨アカウント
 
 | アカウント | 概要 |
-| --- | --- |
+| :--- | :--- |
 | [@tsuj](https://twitter.com/tsuj) | SEO |
 | [@suzukik](https://twitter.com/suzukik) | SEO |
 

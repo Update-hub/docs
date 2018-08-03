@@ -67,7 +67,7 @@ $ yarn start
 srcディレクトリ内に以下のディレクトリを作成してください。
 
 | ディレクトリ名 | 役割 |
-| --- | --- | --- | --- | --- | --- |
+| :--- | :--- |
 | reducers | reducer を格納\(redux\) |
 | actions | reducer を格納\(redux\) |
 | containers | container をラップし、actions, reducers と接続\(redux\) |
