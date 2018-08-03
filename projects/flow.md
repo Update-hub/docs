@@ -28,12 +28,6 @@
 2. Import project のタブでGitLab export を選択し、プロジェクトのzipを選択する。プロジェクト名は「プロジェクト名-自分のgitlabId」としてください。
 3. しばらくするとインポートが完了します。
 
-#### Slackとの連携
-
-プロジェクトをを作成したらプロジェクト設定&gt;integrations&gt;Slack notificationsと進み、各種チェック項目の値に自分のチーム名を入力してください。最後に、ページ下部の webhook の欄に下記のテキストを貼り付け、保存してください。
-
-> https://hooks.slack.com/services/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
-
 ### 課題の対応
 
 issue（課題）単位でブランチを作成します。ブランチ名は `feature/課題番号` としてください。対応が終わったらPushし、メンバーにマージリクエストを出してください。マージを待つか、あるいは並行して別issueのブランチを作成し、同様にマージリクエストを出して作業を進めてください。
