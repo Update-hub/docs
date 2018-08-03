@@ -4,6 +4,10 @@ description: LP構築
 
 # LP構築
 
+{% hint style="warning" %}
+このページは現在構築中です。
+{% endhint %}
+
 ## 概要
 
 LP（ランディングページ）を構築します。
