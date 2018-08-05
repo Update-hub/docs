@@ -4,10 +4,6 @@ description: 本格的な制作の入門
 
 # LP
 
-{% hint style="warning" %}
-このページは現在構築中です。
-{% endhint %}
-
 ## 概要
 
 LP（ランディングページ）は初期フェーズで最も多い案件の種類です。商品やサービスを訴求するための縦長のサイトで、通常１ページで構成されます。１ページとはいえデザインや動きが凝っていることが多く、Webサイト制作に必要なスキルが一通り必要になります。
@@ -16,7 +12,17 @@ LP（ランディングページ）は初期フェーズで最も多い案件の
 
 このプロジェクトを進める前に、事前に以下のドキュメントを読んでください。
 
+{% page-ref page="../../documents/website/pug.md" %}
+
+{% page-ref page="../../documents/base/photoshop.md" %}
+
 ## プロジェクトファイル
 
 maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](../flow.md)をご参照ください。
+
+### デザイン
+
+下記ファイルからダウンロードするか、Cloud上のExtract でデザインを確認してください。
+
+{% embed data="{\"url\":\"https://adobe.ly/2vfgGda\",\"type\":\"link\",\"title\":\"Adobe Creative Cloud\",\"icon\":{\"type\":\"icon\",\"url\":\"https://shared-assets.adobe.com/images/adobe\_favicon\_iPad\_152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1}}" %}
 
