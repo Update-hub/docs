@@ -50,13 +50,33 @@ compare でコマンド検索をしてください。クリップボードや、
 
 PHP, TypeScript, Ruby など、各言語ごとの拡張機能があるので、目的に応じて導入しておきましょう。
 
+### EditorConfig
+
+複数人で開発する際、インデントの種類や量がブレないためにEditorConfigを使います。プロジェクトルートに .editorconfig ファイルを設置することで、editorconfig に対応したエディタで共通のインデントルールを用いることができます。
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig\",\"type\":\"link\",\"title\":\"EditorConfig for VS Code - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - EditorConfig Support for Visual Studio Code\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://editorconfig.gallerycdn.vsassets.io/extensions/editorconfig/editorconfig/0.9.3/1491950603585/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":120,\"height\":120,\"aspectRatio\":1}}" %}
+
 ### Beautify
 
 コード整形を助けてくれます。
 
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify\",\"type\":\"link\",\"title\":\"Beautify - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Beautify code in place for VS Code\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://hookyqr.gallerycdn.vsassets.io/extensions/hookyqr/beautify/1.3.2/1528842959943/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":256,\"height\":256,\"aspectRatio\":1}}" %}
 
-### 
+### Git系
+
+Gitログを見たり、GitHub, GItLabと連携する際に便利です。
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory\",\"type\":\"link\",\"title\":\"Git History - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - View git log, file history, compare branches or commits\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://donjayamanne.gallerycdn.vsassets.io/extensions/donjayamanne/githistory/0.4.0/1517515399792/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"caption\":\"Git Logが見れます\"}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=fatihacet.gitlab-workflow\",\"type\":\"link\",\"title\":\"GitLab Workflow - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - GitLab VSCode integration\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://fatihacet.gallerycdn.vsassets.io/extensions/fatihacet/gitlab-workflow/0.6.0/1520009333798/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":750,\"height\":750,\"aspectRatio\":1},\"caption\":\"GitLabの操作ができます\"}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens\",\"type\":\"link\",\"title\":\"GitLens — Git supercharged - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/8.5.4/1533021165385/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"caption\":\"他の人の作業ログがソース上で確認できます\"}" %}
+
+### その他補助系
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence\",\"type\":\"link\",\"title\":\"vscode-input-sequence - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - sequential-number in vscode\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"連番の入力が簡単になります\"}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils\",\"type\":\"link\",\"title\":\"File Utils - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://sleistner.gallerycdn.vsassets.io/extensions/sleistner/vscode-fileutils/2.10.3/1529063805767/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"caption\":\"ファイルの作成、複製がコマンドパレットから可能になります\"}" %}
 
 ## Tips
 

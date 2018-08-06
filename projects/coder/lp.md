@@ -12,9 +12,7 @@ LP（ランディングページ）は初期フェーズで最も多い案件の
 
 このプロジェクトを進める前に、事前に以下のドキュメントを読んでください。
 
-{% page-ref page="../../documents/website/pug.md" %}
-
-{% page-ref page="../../documents/website/photoshop.md" %}
+{% page-ref page="../../documents/website/" %}
 
 ## プロジェクトファイル
 
