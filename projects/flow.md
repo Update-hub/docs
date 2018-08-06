@@ -48,7 +48,7 @@ issue（課題）単位でブランチを作成します。ブランチ名は `f
 
 環境構築お疲れ様でした！それではさっそくコーダーコースのメンテナンスをはじめてください！
 
-{% page-ref page="coder/maintenance.md" %}
+{% page-ref page="maintenance.md" %}
 
 
 

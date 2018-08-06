@@ -12,13 +12,13 @@ description: まずは既存のコードを修正してみましょう。
 
 このプロジェクトを進めるには事前に以下のドキュメントを読んでください。
 
-{% page-ref page="../../documents/base/" %}
+{% page-ref page="../documents/base/" %}
 
 ## プロジェクトファイル
 
-maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](../flow.md)をご参照ください。
+maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
 
-{% file src="../../.gitbook/assets/download\_export.gz" caption="メンテナンス" %}
+{% file src="../.gitbook/assets/download\_export.gz" caption="メンテナンス" %}
 
 
 
