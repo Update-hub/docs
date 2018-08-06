@@ -1,3 +1,7 @@
+---
+description: Webサイト制作における最重要スキル
+---
+
 # JavaScript
 
 ## 概要
@@ -7,8 +11,6 @@ JavaScript\(JS\)はWebサイトの動的表現やデータベース通信に欠�
 ### 推奨教材
 
 {% embed data="{\"url\":\"https://developer.mozilla.org/ja/docs/Web/JavaScript\",\"type\":\"link\",\"title\":\"JavaScript\",\"description\":\"JavaScript \(JS\) は軽量で、軽量なインタプリタ型、あるいは JITコンパイルされる、 第一級関数 を備えたプログラミング言語です。Web ページでよく使用されるスクリプト言語として知られ、 node.js や Apache CouchDB や Adobe Acrobat といった 多くの非ブラウザー環境においても使用されています 。 JavaScript は プロトタイプベース で、動的型付けを持ち、そしてオブジェクト指向、命令形、宣言的 \(例えば関数プログラミング\) といったスタイルをサポートするマルチパラダイムのスクリプト言語です。詳しくは JavaScript について をお読みください。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.mdn.mozilla.net/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.mdn.mozilla.net/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1},\"caption\":\"厳密には公式ドキュメントではない\"}" %}
-
-
 
 ### Style Guide
 

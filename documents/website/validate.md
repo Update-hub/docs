@@ -1,8 +1,16 @@
+---
+description: プロとして必要なフィルター
+---
+
 # 検品
+
+## 概要
 
 作成したサイトはクライアントチェックや公開前に必ず検品を行います。表示、動作上の不具合はもちろんコードの不備も徹底的に洗い出し、最高の品質に仕上げます。
 
-## ツールチェック
+## チェックツール
+
+### 共通チェック
 
 | ツール | 概要 | 合格基準 |
 | :--- | :--- | :--- |
@@ -11,16 +19,15 @@
 | [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja) | パフォーマンス改善 | PC, SPともにレッドスコアがないこと |
 | [モバイルフレンドリー](https://search.google.com/search-console/mobile-friendly?hl=ja) | スマホ対応 | エラーがない状態 |
 
-### その他チェックサービス
+### ケースに応じたチェックツール
 
-| [構造化データテストツール](https://search.google.com/structured-data/testing-tool) | SEO対策 | エラーがない状態 |
+| ツール |  | エラーがない状態 |
 | :--- | :--- | :--- |
+| [構造化データテストツール](https://search.google.com/structured-data/testing-tool/u/0/?hl=ja) | SEO対策 | エラーがない状態 |
 | [AMPテスト](https://search.google.com/test/amp) | AMPの場合 | エラーがない状態 |
 | [シェアデバッカー](https://developers.facebook.com/tools/debug/) | SNSシェア時にサムネイルなどを表示するタグ | エラーがない状態 |
 | [Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | PWAの場合 | エラーがない状態 |
 | [Test My Site](https://testmysite.withgoogle.com/intl/ja-jp) | 表示速度と同業との比較（アナリスト向け） | 要改善でないこと |
-
-
 
 ## ブラウザチェック
 
@@ -51,7 +58,7 @@ PhotoShopやAdobe XD、Sketchが主に使われるデザインツール（いず
 * [iOSシェア](https://developer.apple.com/support/app-store/)
 * [Androidシェア](https://developer.android.com/about/dashboards/index.html)
 
-### その他見落としがちなチェック項目
+## その他のチェック項目
 
 * favicon, スマホhome画面用アイコンは設置されているか
 * titleは正しく設定されているか
