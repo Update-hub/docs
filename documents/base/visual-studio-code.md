@@ -78,6 +78,8 @@ Gitログを見たり、GitHub, GItLabと連携する際に便利です。
 
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint\",\"type\":\"link\",\"title\":\"HTMLHint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - VS Code integration for HTMLHint - A Static Code Analysis Tool for HTML\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://mkaufman.gallerycdn.vsassets.io/extensions/mkaufman/htmlhint/0.5.0/1524495341343/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":1689,\"height\":1007,\"aspectRatio\":0.596210775606868}}" %}
 
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint\",\"type\":\"link\",\"title\":\"puglint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Linter and style checker for Pug \(formerly Jade\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://mrmlnc.gallerycdn.vsassets.io/extensions/mrmlnc/vscode-puglint/2.3.0/1499508668797/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
+
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint\",\"type\":\"link\",\"title\":\"ESLint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Integrates ESLint into VS Code.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
 ### ローカルサーバー
