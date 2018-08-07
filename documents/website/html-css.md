@@ -24,7 +24,7 @@ HTMLはサイト制作における基本中の基本です。HTMLでサイトを
 
 {% embed data="{\"url\":\"https://google.github.io/styleguide/htmlcssguide.html\",\"type\":\"link\",\"title\":\"Google HTML/CSS Style Guide\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.google.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
-## セマンティックなHTML
+## 正しいマークアップ
 
 見た目の表現はCSSで管理されるため、見た目だけで言えばすべて `div` タグで組むことも可能です。ただし、HTMLのタグにはそれぞれ意味、役割が存在し、それぞれに適したタグを使うことでSEO上有利になり、外部からコンテンツの構造を取得しやすくなります。
 
