@@ -18,6 +18,8 @@ LP（ランディングページ）は初期フェーズで最も多い案件の
 
 lp-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
 
+{% file src="../.gitbook/assets/download\_export.gz" caption="LP" %}
+
 ### デザイン
 
 下記ファイルからダウンロードするか、Cloud上のExtract でデザインを確認してください。

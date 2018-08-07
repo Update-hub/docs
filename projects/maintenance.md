@@ -18,7 +18,7 @@ description: まずは既存のコードを修正してみましょう。
 
 maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
 
-{% file src="../.gitbook/assets/download\_export.gz" caption="メンテナンス" %}
+{% file src="../.gitbook/assets/download\_export \(1\).gz" caption="メンテナンス" %}
 
 
 
