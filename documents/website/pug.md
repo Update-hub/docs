@@ -157,13 +157,17 @@ p
 p: a(href='') リンク
 ```
 
-### PugLint を有効にする
+## PugLint
 
 pug-lintをインストール
 
 ```bash
 $ npm i -g pug-lint
 ```
+
+Visual Studio Code に拡張機能追加
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint\",\"type\":\"link\",\"title\":\"puglint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Linter and style checker for Pug \(formerly Jade\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://mrmlnc.gallerycdn.vsassets.io/extensions/mrmlnc/vscode-puglint/2.3.0/1499508668797/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
 
 Visual Studio Code のユーザー設定に以下の記述を追加。
 
@@ -203,5 +207,5 @@ Visual Studio Code のユーザー設定に以下の記述を追加。
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-[puglint](https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint) の拡張機能をインストールすると、Lintが有効になり、Pugの記述にエラーが表示されるようになります。
+これでPugLintが有効になります。
 
