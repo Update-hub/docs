@@ -72,11 +72,27 @@ Gitログを見たり、GitHub, GItLabと連携する際に便利です。
 
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens\",\"type\":\"link\",\"title\":\"GitLens — Git supercharged - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Supercharge the Git capabilities built into Visual Studio Code — Visualize code authorship at a glance via Git blame annotations and code lens, seamlessly navigate and explore Git repositories, gain valuable insights via powerful comparison commands, and so much more\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://eamodio.gallerycdn.vsassets.io/extensions/eamodio/gitlens/8.5.4/1533021165385/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"caption\":\"他の人の作業ログがソース上で確認できます\"}" %}
 
+### Lint系
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint\",\"type\":\"link\",\"title\":\"markdownlint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Markdown linting and style checking for Visual Studio Code\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://davidanson.gallerycdn.vsassets.io/extensions/davidanson/vscode-markdownlint/0.19.0/1532661376641/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=mkaufman.HTMLHint\",\"type\":\"link\",\"title\":\"HTMLHint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - VS Code integration for HTMLHint - A Static Code Analysis Tool for HTML\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://mkaufman.gallerycdn.vsassets.io/extensions/mkaufman/htmlhint/0.5.0/1524495341343/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":1689,\"height\":1007,\"aspectRatio\":0.596210775606868}}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint\",\"type\":\"link\",\"title\":\"ESLint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Integrates ESLint into VS Code.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0}}" %}
+
+### ローカルサーバー
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer\",\"type\":\"link\",\"title\":\"Live Server - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Launch a development local Server with live reload feature for static & dynamic pages\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://ritwickdey.gallerycdn.vsassets.io/extensions/ritwickdey/liveserver/5.1.1/1529500150547/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":256,\"height\":256,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=jasonlhy.vscode-browser-sync\",\"type\":\"link\",\"title\":\"VSCode Browser Sync - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Integrate browser sync with VSCode to provide liveload\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"スマホチェックもしたい場合\"}" %}
+
 ### その他補助系
 
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=tomoki1207.vscode-input-sequence\",\"type\":\"link\",\"title\":\"vscode-input-sequence - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - sequential-number in vscode\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"連番の入力が簡単になります\"}" %}
 
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=sleistner.vscode-fileutils\",\"type\":\"link\",\"title\":\"File Utils - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - A convenient way of creating, duplicating, moving, renaming and deleting files and directories.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://sleistner.gallerycdn.vsassets.io/extensions/sleistner/vscode-fileutils/2.10.3/1529063805767/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"caption\":\"ファイルの作成、複製がコマンドパレットから可能になります\"}" %}
+
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager\",\"type\":\"link\",\"title\":\"Project Manager - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Easily switch between projects\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/project-manager/0.24.0/1517665941637/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1},\"caption\":\"プロジェクト管理が可能になります\"}" %}
 
 ## Tips
 
@@ -158,7 +174,11 @@ Visual Studio Codeではユーザー独自のスニペットを定義する事�
     },
 ```
 
-詳しくは下記のサイト等を見てください。  
-[https://qiita.com/kz\_kazuki/items/d26946c1e7169847aeef](https://qiita.com/kz_kazuki/items/d26946c1e7169847aeef)  
-[https://vscode-doc-jp.github.io/docs/userguide/userdefinedsnippets.html](https://vscode-doc-jp.github.io/docs/userguide/userdefinedsnippets.html)
+詳しくは下記のサイト等を見てください。
+
+{% embed data="{\"url\":\"https://qiita.com/kz\_kazuki/items/d26946c1e7169847aeef\",\"type\":\"link\",\"title\":\"Visual Studio Codeで、ユーザー定義スニペットで楽をする - Qiita\",\"description\":\"早く調べておくんだった（血涙  最近typescriptやhtmlを書くことが多いので、なんとなくVisual Studio Codeで作業しているのですが、特にBootstrap関係でやたら同じような文字列を書いていることに気づき...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.qiita.com/assets/favicons/public/apple-touch-icon-f9a6afad761ec2306e10db2736187c8b.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.qiita.com/assets/qiita-fb-2887e7b4aad86fd8c25cea84846f2236.png\",\"width\":200,\"height\":200,\"aspectRatio\":1}}" %}
+
+{% embed data="{\"url\":\"https://vscode-doc-jp.github.io/docs/userguide/userdefinedsnippets.html\",\"type\":\"link\",\"title\":\"独自のスニペットを作成 \| 非公式 - Visual Studio Code Docs\",\"description\":\"Visual Studio Code \(VS Code\) Docs の日本語訳\"}" %}
+
+
 
