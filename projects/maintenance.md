@@ -22,7 +22,7 @@ description: 既存サイトのメンテナンス
 
 maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
 
-{% file src="../.gitbook/assets/download\_export \(1\).gz" caption="メンテナンス" %}
+{% file src="../.gitbook/assets/maintenance.gz" caption="maintenance" %}
 
 
 
