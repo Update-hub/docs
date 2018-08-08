@@ -167,6 +167,8 @@ $ npm i -g pug-lint
 
 Visual Studio Code に拡張機能追加
 
+{% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug\",\"type\":\"link\",\"title\":\"pug - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Pug/Jade Snippets for VSCode\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/pug/1.0.1/1509818475774/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":640,\"height\":640,\"aspectRatio\":1}}" %}
+
 {% embed data="{\"url\":\"https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint\",\"type\":\"link\",\"title\":\"puglint - Visual Studio Marketplace\",\"description\":\"Extension for Visual Studio Code - Linter and style checker for Pug \(formerly Jade\)\",\"icon\":{\"type\":\"icon\",\"url\":\"https://marketplace.visualstudio.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://mrmlnc.gallerycdn.vsassets.io/extensions/mrmlnc/vscode-puglint/2.3.0/1499508668797/Microsoft.VisualStudio.Services.Icons.Default\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
 
 Visual Studio Code のユーザー設定に以下の記述を追加。
