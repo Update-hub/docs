@@ -30,5 +30,7 @@ lp-XXXX（XXXXは自分の名前）として自分のGitLabグループにイン
 
 下記ファイルからダウンロードするか、Cloud上のExtract でデザインを確認してください。
 
+* Font はすべて [Raleway](https://fonts.google.com/specimen/Raleway) を使ってください。\(PSD上でRaleway以外の部分も、RalewayでOKです）
+
 {% embed data="{\"url\":\"https://adobe.ly/2vfgGda\",\"type\":\"link\",\"title\":\"Adobe Creative Cloud\",\"icon\":{\"type\":\"icon\",\"url\":\"https://shared-assets.adobe.com/images/adobe\_favicon\_iPad\_152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1}}" %}
 
