@@ -40,7 +40,7 @@ issue（課題）単位でブランチを作成します。ブランチ名は `f
 
 すべての課題が正常に終了したらGitLab Pages にURLが公開されていることを確認し、スタッフにGitLabと公開URLを添えて報告してください。
 
-### プロジェクトの公開
+### プロジェクトの公開 {#publish}
 
 {% embed data="{\"url\":\"https://app.netlify.com/\",\"type\":\"link\",\"title\":\"Netlify App\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.netlify.com/img/global/favicon/apple-touch-icon.png\",\"width\":180,\"height\":180,\"aspectRatio\":1}}" %}
 
