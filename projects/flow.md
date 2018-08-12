@@ -40,6 +40,18 @@ issue（課題）単位でブランチを作成します。ブランチ名は `f
 
 すべての課題が正常に終了したらGitLab Pages にURLが公開されていることを確認し、スタッフにGitLabと公開URLを添えて報告してください。
 
+### プロジェクトの公開
+
+{% embed data="{\"url\":\"https://app.netlify.com/\",\"type\":\"link\",\"title\":\"Netlify App\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.netlify.com/img/global/favicon/apple-touch-icon.png\",\"width\":180,\"height\":180,\"aspectRatio\":1}}" %}
+
+1. GitLabでログイン
+2. New site form Git をクリック
+3. GitLab 選択
+4. 自身のプロジェクトを選択
+5. gulp系の場合、buildコマンドにgulpコマンドを。そうでない場合、サイトが格納されているディレクトリ名\(publicなど\)を、公開ディレクトリの欄に入力してください。
+
+しばらく待って更新すると、URLが生成されています。
+
 ## Tips
 
 ### 分からない、つまづいた
