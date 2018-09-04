@@ -56,4 +56,5 @@
   * [ライフハック](documents/life-hack/README.md)
     * [フリーランス](documents/life-hack/freelance.md)
     * [ワークポリシー](documents/life-hack/policy.md)
+    * [クライアントワーク](documents/life-hack/kuraiantowku.md)
 
