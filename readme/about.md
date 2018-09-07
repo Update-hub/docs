@@ -71,12 +71,6 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 {% embed data="{\"url\":\"https://www.adobe.com/jp/products/photoshop.html\",\"type\":\"link\",\"title\":\"Adobe Photoshop CCの購入 \| 最高の写真、画像、デザイン編集ソフト\",\"description\":\"Adobe Photoshop CCは最高品質の画像編集ソフトウェア。写真、画像、デザインの作成、編集が可能です。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://wwwimages2.adobe.com/favicon.ico\",\"aspectRatio\":0}}" %}
 
-### Google+ コミュニティ
-
-トレーニング以外の雑談や交流用チャンネルです。
-
-{% embed data="{\"url\":\"https://plus.google.com/communities/116779503627279876569?sqinv=bU1LS3NJenF2MEY1Q3JiRFBBLWhISE5xN1BkLUJR\",\"type\":\"link\",\"title\":\"Update\",\"description\":\"息抜き\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/images/branding/product/1x/google\_plus\_192dp.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh3.googleusercontent.com/-m8b\_MZ1SONc/AAAAAAAAAAI/AAAAAAAAAAo/Yv0fGrv0dZQ/w360-h203/photo.jpg\",\"width\":360,\"height\":203,\"aspectRatio\":0.5638888888888889}}" %}
-
 ### その他
 
 その他、Google Hangout や Google Calendar, Adobe Cloud などをプロジェクトに応じて使用します。まだの方はアカウントを作成してください。
