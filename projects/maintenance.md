@@ -22,7 +22,5 @@ description: 既存サイトのメンテナンス
 
 maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
 
-{% file src="../.gitbook/assets/maintenance.gz" caption="maintenance" %}
-
-
+{% embed data="{\"url\":\"https://drive.google.com/open?id=1Rv1SiTSDa0lT2AWs1\_\_ti11BdWYWaW37\",\"type\":\"link\",\"title\":\"maintenance - Google Drive\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/doclist/images/infinite\_arrow\_favicon\_5.ico\",\"aspectRatio\":0}}" %}
 
