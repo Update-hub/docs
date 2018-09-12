@@ -23,6 +23,7 @@
     * [Chrome](documents/base/chrome.md)
     * [ローカルサーバー](documents/base/local-server.md)
   * [Webサイト](documents/website/README.md)
+    * [設計ガイド](documents/website/guide.md)
     * [HTML](documents/website/html-css.md)
     * [Pug](documents/website/pug.md)
     * [CSS](documents/website/css.md)
