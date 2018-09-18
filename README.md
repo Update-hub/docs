@@ -6,6 +6,10 @@ description: Updateにようこそ
 
 ## 更新履歴
 
+### 2018-9-18
+
+* [レジュメページ（テンプレート）](documents/life-hack/redume.md)追加
+
 ### 2018-8-6
 
 * ドキュメントを整理しました。
