@@ -6,6 +6,8 @@ description: 本格的な制作の入門
 
 ## 概要
 
+{% embed data="{\"url\":\"https://www.youtube.com/playlist?list=PLw1QAmLkyyagERb4oKAahzmziVMfHZrPq\",\"type\":\"video\",\"title\":\"LPトレーニング\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/AfB2PIeUsY0/hqdefault.jpg\",\"width\":480,\"height\":360,\"aspectRatio\":0.75},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/videoseries?list=PLw1QAmLkyyagERb4oKAahzmziVMfHZrPq\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/videoseries?list=PLw1QAmLkyyagERb4oKAahzmziVMfHZrPq\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+
 LP（ランディングページ）は初期フェーズで最も多い案件の種類です。商品やサービスを訴求するための縦長のサイトで、通常１ページで構成されます。１ページとはいえデザインや動きが凝っていることが多く、Webサイト制作に必要なスキルが一通り必要になります。
 
 ### 妥当工数
