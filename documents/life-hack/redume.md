@@ -1,0 +1,82 @@
+---
+description: レジュメ（履歴書、職務経歴書）の作成
+---
+
+# レジュメ
+
+## 概要
+
+効果的なレジュメを作成しましょう。
+
+## テンプレート
+
+下記にテンプレートを用意しています。Update Work で働く場合、下記のテンプレートを用いてください。それ以外の方も、適宜デザインを編集してご利用ください。
+
+{% embed data="{\"url\":\"https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/edit\#heading=h.1qt6qyqnoukf\",\"type\":\"rich\",\"title\":\"レジュメテンプレート\",\"description\":\"UPDATE  フロントエンドエンジニア 山田 太郎 HTML&CSS\(SCSS\) / JS\(ES6\) / jQuery / Gulp / BEM / RWD / PhotoShop（スライス） Git / GitHub Flow / GitLab / HTML Validation  プロフィール 2010年1月1日 X生まれ、XX歳。簡単な自己紹介。テキストテキストテキストテキストテキスト\(140文字程度） 連絡先 メール xxx@gmail.com 電話 xxx-xxxx-xxxx 住所 東京都xxx GitLab https://...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh6.googleusercontent.com/i6YSUBqbYfdiUWRi1q6oIOE5wq1pAWq1uYOohmO6Zkt3yLPDZ5WswdlKg0ANT2YIoxq23g=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\\"><iframe src=\\\"https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
+
+## レジュメ作成のポイント
+
+必要最低限の情報を簡潔にまとめましょう。Webエンジニアの領域において採用者が気にするのは以下のポイントです。
+
+* スキル
+* 実績
+* 経験
+* **人柄**
+
+したがって、レジュメでは上記項目が一目で分れば問題ありません。逆にそれ以外の情報は不要なので必要ありません。（普通運転免許や、最終学歴以外の学歴など）
+
+この中でも**特に人柄、人間性**が重視されます。レジュメの時点では「写真」と「自己紹介」でこの点をアピールします。
+
+### 綺麗な写真を使う
+
+写真が荒い、暗い、服装がだらしないと非常に印象が悪いです。仕事が雑な印象を受けたり、一緒にチームプレーをするにが不安になります。写真は必ず鮮明で、フォーマルな格好のものを添付しましょう。（ノーネクタイのシャツがオススメです）
+
+### 自己紹介でPRする
+
+ただ自分のことを語るのではなく、**採用者目線で想像しながら**作成しましょう。紹介文において採用者が気にするのは以下のポイントです。
+
+* ガッツがあるのか
+* 向上心があるのか
+* 体力があるのか
+* 協調性があるのか
+* やる気があるのか
+* 適性があるか
+* この業界が好きか
+* プロ意識があるか
+* 将来のビジョンがあるか
+
+なお、紹介文は応募先の企業や案件に最適化させることもできますが、一般的には汎用的に人となりが分かるものが望ましいです。
+
+以上を踏まえ、例文を示します。
+
+#### 良い例
+
+> Webサイト制作が好きで、最近はサーバーサイドやReactを学びつつ、自分のサービスを作っています。将来的には自分の技術を人に伝えたり、チームを牽引できる存在を目指しています。そのため、チーム制作を通し、チームビルディングのノウハウを吸収していきたいと考えています。
+
+#### ポイント
+
+* この業界が好きであること、向上心があることが分かる
+* 将来のビジョンがある
+* この業界が好きで、前向きに稼働してくれることが期待できる
+* 対外的な要素（教える、チーム制作）があり、協調性がうかがえる
+
+#### ダメな例
+
+> 学校中退後はしばらく無職でしたが、Updateでトレーニングをし、現在就業活動中です。
+
+* ネガティブな情報しかない
+* 他の項目（学歴、職歴）を見れば分かる内容の羅列にすぎない
+* 研鑽をトレーニングと称している。「Webサイト制作を行なっていました」で良い
+* 現在就業活動中という不要な情報
+* PR要素が何一つない
+
+以上を踏まえて、「自分が採用担当ならどう思うか？」という視点で自己PRを考えてみてください。
+
+### 空白期間の表現
+
+レジュメで空白期間を書く必要はありません。面接でその点について指摘されたら、家で自己研鑽（資格の勉強や自主制作）をしていたと答えましょう。また、トレーニングや勉強についても実績が存在する場合は勉強ではなく、「開発をしていた」とし、実務経験に含めることが大切です。
+
+## 添削
+
+Update Work で働くかたについてはレジュメの添削を行います。テンプレートを複製したのち、完成したらURLを送付してください。
+

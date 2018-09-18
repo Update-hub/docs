@@ -55,6 +55,7 @@
     * [Git Flow](documents/other/git-flow.md)
     * [NVM](documents/other/nvm.md)
   * [ライフハック](documents/life-hack/README.md)
+    * [レジュメ](documents/life-hack/redume.md)
     * [フリーランス](documents/life-hack/freelance.md)
     * [ワークポリシー](documents/life-hack/policy.md)
     * [クライアントワーク](documents/life-hack/client-work.md)
