@@ -51,7 +51,7 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 ### GitBook
 
-このドキュメントです。業務に必要な知識がまとまっています。誤字脱字や情報の加筆にご協力いただける方は \#docs ご連絡ください。
+このドキュメントです。業務に必要な知識がまとまっています。誤字脱字や情報の加筆にご協力いただける方は \#docs でご連絡ください。
 
 {% embed data="{\"url\":\"http://docs.update.jp/\",\"type\":\"link\",\"title\":\"Update - Update\",\"description\":\"Updateにようこそ\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-L9O8ush1lr5Xhg8gaQD%2Favatar.png?generation=1522987954398491&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-L9O8ush1lr5Xhg8gaQD.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
 
@@ -73,7 +73,7 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 ### その他
 
-その他、Google Hangout や Google Calendar, Adobe Cloud などをプロジェクトに応じて使用します。まだの方はアカウントを作成してください。
+Google Hangout や Google Calendar, Adobe Cloud などをプロジェクトに応じて使用します。まだの方はアカウントを作成してください。
 
 [https://accounts.google.com/signup/v2/webcreateaccount?hl=ja&flowName=GlifWebSignIn&flowEntry=SignUp](https://accounts.google.com/signup/v2/webcreateaccount?hl=ja&flowName=GlifWebSignIn&flowEntry=SignUp)
 
