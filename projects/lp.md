@@ -26,13 +26,7 @@ LP（ランディングページ）は初期フェーズで最も多い案件の
 
 lp-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
 
-{% file src="../.gitbook/assets/download\_export.gz" caption="LP" %}
+{% embed data="{\"url\":\"https://drive.google.com/drive/folders/1cmn5mw5mYDcWOn\_XGr4b1QQcMoW3EfaZ\",\"type\":\"link\",\"title\":\"lp - Google Drive\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/doclist/images/infinite\_arrow\_favicon\_5.ico\",\"aspectRatio\":0}}" %}
 
-### デザイン
-
-下記ファイルからダウンロードするか、Cloud上のExtract でデザインを確認してください。
-
-* Font はすべて [Raleway](https://fonts.google.com/specimen/Raleway) を使ってください。\(PSD上でRaleway以外の部分も、RalewayでOKです）
-
-{% embed data="{\"url\":\"https://adobe.ly/2vfgGda\",\"type\":\"link\",\"title\":\"Adobe Creative Cloud\",\"icon\":{\"type\":\"icon\",\"url\":\"https://shared-assets.adobe.com/images/adobe\_favicon\_iPad\_152.png\",\"width\":152,\"height\":152,\"aspectRatio\":1}}" %}
+Font はすべて [Raleway](https://fonts.google.com/specimen/Raleway) を使ってください。\(PSD上でRaleway以外の部分も、RalewayでOKです）
 
