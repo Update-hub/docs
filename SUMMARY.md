@@ -54,9 +54,13 @@
     * [Webフォント](documents/other/web-font.md)
     * [Git Flow](documents/other/git-flow.md)
     * [NVM](documents/other/nvm.md)
-  * [ライフハック](documents/life-hack/README.md)
-    * [レジュメ](documents/life-hack/redume.md)
-    * [フリーランス](documents/life-hack/freelance.md)
-    * [ワークポリシー](documents/life-hack/policy.md)
-    * [クライアントワーク](documents/life-hack/client-work.md)
+
+## Update Work
+
+* [事前準備](update-work/ready.md)
+* [SES](update-work/ses/README.md)
+  * [レジュメ](update-work/ses/redume.md)
+  * [ワークポリシー](update-work/ses/policy.md)
+* [受託開発](update-work/shou/README.md)
+  * [ワークポリシー](update-work/shou/policy.md)
 

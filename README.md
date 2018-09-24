@@ -8,7 +8,7 @@ description: Updateにようこそ
 
 ### 2018-9-18
 
-* [レジュメページ（テンプレート）](documents/life-hack/redume.md)追加
+* [レジュメページ（テンプレート）](update-work/ses/redume.md)追加
 
 ### 2018-8-6
 
