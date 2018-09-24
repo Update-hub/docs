@@ -3,7 +3,6 @@
 * [Update](README.md)
 * [はじめに](readme/README.md)
   * [Updateとは](readme/about.md)
-  * [Update Work](readme/update-work.md)
   * [事前準備](readme/installation.md)
   * [チーム](readme/team.md)
 * [プロジェクト](projects/README.md)
@@ -57,10 +56,14 @@
 
 ## Update Work
 
-* [事前準備](update-work/ready.md)
+* [はじめに](update-work/readme/README.md)
+  * [Update Workとは](update-work/readme/update-work.md)
+  * [事前準備](update-work/readme/ready.md)
 * [SES](update-work/ses/README.md)
+  * [SESについて](update-work/ses/about.md)
   * [レジュメ](update-work/ses/redume.md)
   * [ワークポリシー](update-work/ses/policy.md)
-* [受託開発](update-work/shou/README.md)
-  * [ワークポリシー](update-work/shou/policy.md)
+* [受託開発](update-work/client-work/README.md)
+  * [受託開発について](update-work/client-work/about.md)
+  * [ワークポリシー](update-work/client-work/policy.md)
 

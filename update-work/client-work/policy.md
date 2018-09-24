@@ -16,7 +16,7 @@ description: クライアントワークの心得
 
 見積は一般的に人日換算で行います。自分の単価x工数となります。詳細はフリーランスのページを参照してください。
 
-{% page-ref page="../ready.md" %}
+{% page-ref page="../readme/ready.md" %}
 
 ### 2. 要件定義
 

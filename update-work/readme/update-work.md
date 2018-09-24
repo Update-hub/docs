@@ -2,7 +2,7 @@
 description: Update のサポートを受けながら働く
 ---
 
-# Update Work
+# Update Workとは
 
 ## 概要
 
@@ -20,7 +20,7 @@ Update Work ではUpdate所属のフリーランスとして仕事を受けた�
 
 ## 仕事の紹介
 
-[プロテスト](../projects/pro-test.md)に合格した方を対象に、仕事の紹介を行います。
+[プロテスト](../../projects/pro-test.md)に合格した方を対象に、仕事の紹介を行います。
 
 ### 常駐をはじめるまでの流れ
 
