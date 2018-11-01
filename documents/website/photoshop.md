@@ -16,11 +16,11 @@ PSDからコーディングに必要なデザインデータを取得する場�
 
 ![Chrome&#x306E;&#x5834;&#x5408;](../../.gitbook/assets/image.png)
 
-{% embed data="{\"url\":\"https://helpx.adobe.com/jp/creative-cloud/help/extract-css-images-psd-files.html\",\"type\":\"link\",\"title\":\"Extract による PSD から Web への抽出ワークフロー\",\"description\":\"Creative Cloud Files の一機能である Extract では、Photoshop のコンポジション（PSD ファイル）からコードベースのデザインを簡単に作成できます。Extract を使用して、Web ブラウザーで直接 PSD ファイルに操作を実行できます。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://helpx.adobe.com/include/img/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://helpx.adobe.com/jp/creative-cloud/help/extract-css-images-psd-files.html" %}
 
 Adobe Extract での抽出がうまく行かない場合、PhotoShopでpsdを開いて、情報を取得することとなります。
 
-{% embed data="{\"url\":\"https://blogs.adobe.com/creativestation/web-design-photoshop-cc-basics-export-images\",\"type\":\"link\",\"title\":\"Photoshop CCの基本 第4回：Web用画像を書き出す4つの方法をマスター！ - Adobe Creative Station\",\"description\":\"この連載では、“イマドキ”のWebデザインに欠かせない、Photoshopの最新機能を活用したノウハウをシリーズでご紹介します。 この記事では、Web制作の現場で役立つ、PSDドキュメントから画像を書...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blogs.adobe.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blogsimages.adobe.com/creativestation/files/2017/04/photoshop2017\_ttl-04.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625}}" %}
+{% embed url="https://blogs.adobe.com/creativestation/web-design-photoshop-cc-basics-export-images" %}
 
 ### 抽出対象の判断
 
@@ -49,7 +49,7 @@ SEO、ユーザービリティなどあらゆる観点から、可能な限りWe
 
 業務の世界において、時にPSDでバナーやデザインを頼まれることもあります。その際は、コーダーとしての視点を活かして、「組みやすいデザイン」「分かりやすいレイヤー設計」を意識しましょう。
 
-{% embed data="{\"url\":\"https://blogs.adobe.com/creativestation/serialization/web-start-design-with-photoshop\",\"type\":\"link\",\"title\":\"連載 : PhotoshopでWebデザインをはじめよう！ - Adobe Creative Station\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blogs.adobe.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blogsimages.adobe.com/creativestation/files/2016/03/Adobe\_Blog\_black\_ogp.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://blogs.adobe.com/creativestation/serialization/web-start-design-with-photoshop" %}
 
-{% embed data="{\"url\":\"https://blogs.adobe.com/creativestation/serialization/web-photoshop-cc-new-basics\",\"type\":\"link\",\"title\":\"連載 : Photoshop CCの基本 イマドキWeb制作テクニック - Adobe Creative Station\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blogs.adobe.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://blogsimages.adobe.com/creativestation/files/2016/03/Adobe\_Blog\_black\_ogp.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://blogs.adobe.com/creativestation/serialization/web-photoshop-cc-new-basics" %}
 

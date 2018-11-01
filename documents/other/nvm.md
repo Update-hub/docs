@@ -10,9 +10,9 @@ node, npm は昨今のWeb開発に欠かせない存在ですが、プロジェ�
 
 ### Mac
 
-{% embed data="{\"url\":\"https://github.com/creationix/nvm\",\"type\":\"link\",\"title\":\"creationix/nvm\",\"description\":\"nvm - Node Version Manager - Simple bash script to manage multiple active node.js versions\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/89353?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/creationix/nvm" %}
 
 ### Windows
 
-{% embed data="{\"url\":\"https://github.com/coreybutler/nvm-windows/releases\",\"type\":\"link\",\"title\":\"coreybutler/nvm-windows\",\"description\":\"nvm-windows - A node.js version management utility for Windows. Ironically written in Go.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/770982?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/coreybutler/nvm-windows/releases" %}
 

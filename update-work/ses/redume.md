@@ -14,7 +14,7 @@ description: レジュメ（履歴書、職務経歴書）の作成
 
 [テンプレート](https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC_vspCQVvYomjcpHk/edit?usp=sharing)
 
-{% embed data="{\"url\":\"https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/edit\#heading=h.1qt6qyqnoukf\",\"type\":\"rich\",\"title\":\"レジュメテンプレート\",\"description\":\"UPDATE  フロントエンドエンジニア 山田 太郎 HTML&CSS\(SCSS\) / JS\(ES6\) / jQuery / Gulp / BEM / RWD / PhotoShop（スライス） Git / GitHub Flow / GitLab / HTML Validation  プロフィール 2010年1月1日 X生まれ、XX歳。簡単な自己紹介。テキストテキストテキストテキストテキスト\(140文字程度） 連絡先 メール xxx@gmail.com 電話 xxx-xxxx-xxxx 住所 東京都xxx GitLab https://...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/documents/images/kix-favicon6.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh6.googleusercontent.com/i6YSUBqbYfdiUWRi1q6oIOE5wq1pAWq1uYOohmO6Zkt3yLPDZ5WswdlKg0ANT2YIoxq23g=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\\"><iframe src=\\\"https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
+{% embed url="https://docs.google.com/document/d/1kZ2YVvn3rqrQJYAkPAJi-u4MKpC\_vspCQVvYomjcpHk/edit\#heading=h.1qt6qyqnoukf" %}
 
 ## レジュメ作成のポイント
 

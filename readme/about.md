@@ -37,7 +37,7 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 進捗管理は以下のようなチームシートで行います。
 
-{% embed data="{\"url\":\"https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/edit?usp=sharing\",\"type\":\"rich\",\"title\":\"チームシートテンプレート\",\"description\":\"プロジェクト   プロジェクト名, 山田, 佐藤, 岡田, 森, 案件単価, 累計売上, 累計売上  はじめての修正, 納品済, 納品済,¥ 10, 000,¥ 20, 000,¥ 1, 744, 000  検品, 納品済, 納品済,¥ 10, 000,¥ 40, 000  コンポーネント追加, 納品済, 納品済,¥ 7, 000,¥ 54, 000  ページ追加, 納品済, 納品済,¥ 20, 000,¥ 94, 000  開発環境構築, 納品済, 納品済,¥ 25, 000,¥ 144, 000  LP制作, 納品済, 納品済,¥ 50, 000,¥ 244, 000  JS開発開発...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/spreadsheets/favicon\_jfk2.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh3.googleusercontent.com/h\_9\_v9yaYRpUFz1rpjp45foEnZ-hDokPHbT75U5DtUK5Sxkb3H\_KDbCb9TE8Q2GdZqyTMA=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 70.7114%;\\\"><iframe src=\\\"https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":1.4142}}" %}
+{% embed url="https://docs.google.com/spreadsheets/d/1rRQ7rm-lTkMsVSDrmFmdxjlS\_A8A1jiJiLWINc79lls/edit?usp=sharing" %}
 
 ## 使用するツール
 
@@ -45,21 +45,21 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 メインのコミュニケーションツールです。**Webサイトからではなく**、Mac/Windowsアプリからログインしてください。
 
-{% embed data="{\"url\":\"https://slack.com/intl/ja-jp/downloads/osx\",\"type\":\"link\",\"title\":\"Mac \| ダウンロード\",\"description\":\"モバイル機器やデスクトップで使える Slack を無料でダウンロードしましょう。iPhone、Android、 Windows Phone 版の Slack アプリがあれば会話のキャッチアップも容易です。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://a.slack-edge.com/436da/marketing/img/meta/app-256.png\",\"width\":256,\"height\":256,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://a.slack-edge.com/436da/marketing/img/meta/slack\_hash\_128.png\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
+{% embed url="https://slack.com/intl/ja-jp/downloads/osx" %}
 
-{% embed data="{\"url\":\"https://slack.com/intl/ja-jp/downloads/windows\",\"type\":\"link\",\"title\":\"Windows \| ダウンロード\",\"description\":\"モバイル機器やデスクトップで使える Slack を無料でダウンロードしましょう。iPhone、Android、 Windows Phone 版の Slack アプリがあれば会話のキャッチアップも容易です。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://a.slack-edge.com/436da/marketing/img/meta/app-256.png\",\"width\":256,\"height\":256,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://a.slack-edge.com/436da/marketing/img/meta/slack\_hash\_128.png\",\"width\":128,\"height\":128,\"aspectRatio\":1}}" %}
+{% embed url="https://slack.com/intl/ja-jp/downloads/windows" %}
 
 ### GitBook
 
 このドキュメントです。業務に必要な知識がまとまっています。誤字脱字や情報の加筆にご協力いただける方は \#docs でご連絡ください。
 
-{% embed data="{\"url\":\"http://docs.update.jp/\",\"type\":\"link\",\"title\":\"Update - Update\",\"description\":\"Updateにようこそ\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-L9O8ush1lr5Xhg8gaQD%2Favatar.png?generation=1522987954398491&alt=media\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.gitbook.com/share/space/thumbnail/-L9O8ush1lr5Xhg8gaQD.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="http://docs.update.jp/" %}
 
 ### GitLab
 
 ソースコード管理ツールです。実務同様、案件のソースコードをこちらで管理していきます。
 
-{% embed data="{\"url\":\"https://gitlab.com/\",\"type\":\"link\",\"title\":\"The only single product for the complete DevOps lifecycle - GitLab\",\"description\":\"“GitLab is the leading integrated product for modern software development. Connecting issue management, version control, code review, CI, CD, and monitoring into a single, easy-to-install application, we help teams go faster from planning to monitoring.”\",\"icon\":{\"type\":\"icon\",\"url\":\"https://about.gitlab.com/ico/favicon-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://about.gitlab.com/images/blogimages/gitlab-blog-cover.png\",\"width\":1750,\"height\":1225,\"aspectRatio\":0.7}}" %}
+{% embed url="https://gitlab.com/" %}
 
 ### Google スプレッドシート
 
@@ -69,7 +69,7 @@ Updateは概ね**3〜6ヶ月**で**即戦力のWebコーダー**になるため�
 
 デザインデータの利用に使います。Adobe Extract で対応できない場合（実在する案件に参画する際など）は、月額980円で利用権を購入してもらう必要があります。初回の方は無料のトライアル期間があるので、トレーニング中はトライアル期間を利用するか、Adobe Extract\(無料\)を利用しましょう。 
 
-{% embed data="{\"url\":\"https://www.adobe.com/jp/products/photoshop.html\",\"type\":\"link\",\"title\":\"Adobe Photoshop CCの購入 \| 最高の写真、画像、デザイン編集ソフト\",\"description\":\"Adobe Photoshop CCは最高品質の画像編集ソフトウェア。写真、画像、デザインの作成、編集が可能です。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://wwwimages2.adobe.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://www.adobe.com/jp/products/photoshop.html" %}
 
 ### その他
 

@@ -16,7 +16,7 @@ description: 最新の知識を常にキャッチするための工夫
 
 React や Vue など、昨今の最新技術には公式ドキュメントでExampleが紹介されており、そのソースコードを参考にするのが適切と言えます。たとえばReactだと下記ページが用意されています。
 
-{% embed data="{\"url\":\"https://reactjs.org/community/examples.html\",\"type\":\"link\",\"title\":\"Example Projects - React\",\"description\":\"A JavaScript library for building user interfaces\",\"icon\":{\"type\":\"icon\",\"url\":\"https://reactjs.org/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://reactjs.org/logo-og.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://reactjs.org/community/examples.html" %}
 
 公式サイトに見当たらない場合は、「言語 example」で検索すると大抵GitHubリポジトリがヒットしますので、スター数で信憑性を見極めつつ、参考にしてください。
 

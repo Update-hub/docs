@@ -78,7 +78,7 @@ description: 在宅で案件をこなして暮らす
 
 見積書、請求書はFreeeを使っている場合はFreeeの機能を、それ以外の場合は無料のオンラインジェネレータが使えます。作成したPDFは自分でも保管しておきましょう。
 
-{% embed data="{\"url\":\"http://www.doc2pdf.biz/\",\"type\":\"link\",\"title\":\"ビジネス文書オンラインジェネレーター \| オンライン無料文書作成サービス\",\"description\":\"領収書や注文書、納品書、見積書、請求書などのビジネス文書をオンライン上で作成できるサービスです。会員登録は不要。今すぐ文書をPDFでダウンロードできます。\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.doc2pdf.biz/img/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://doc2pdf.biz/img/thumbnail.gif\",\"width\":300,\"height\":297,\"aspectRatio\":0.99}}" %}
+{% embed url="http://www.doc2pdf.biz/" %}
 
 ### NDA
 

@@ -6,7 +6,7 @@ description: チュートリアルになります。
 
 ## 概要
 
-{% embed data="{\"url\":\"https://www.youtube.com/playlist?list=PLw1QAmLkyyagNWpS8ZhCeRcLP3Vfq\_hPa\",\"type\":\"video\",\"title\":\"トレーニングガイド\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/gBj\_PCqbydI/hqdefault.jpg\",\"width\":480,\"height\":360,\"aspectRatio\":0.75},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/videoseries?list=PLw1QAmLkyyagNWpS8ZhCeRcLP3Vfq\_hPa\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/videoseries?list=PLw1QAmLkyyagNWpS8ZhCeRcLP3Vfq\_hPa\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagNWpS8ZhCeRcLP3Vfq\_hPa" %}
 
 プロジェクトを進める際の基本的なフローを説明します。
 
@@ -46,9 +46,9 @@ issue（課題）単位でブランチを作成します。ブランチ名は `f
 
 すべての課題が正常に終了したらGitLab Pages にURLが公開されていることを確認し、スタッフにGitLabと公開URLを添えて報告してください。
 
-### プロジェクトの公開 {#publish}
+### プロジェクトの公開 <a id="publish"></a>
 
-{% embed data="{\"url\":\"https://app.netlify.com/\",\"type\":\"link\",\"title\":\"Netlify App\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.netlify.com/img/global/favicon/apple-touch-icon.png\",\"width\":180,\"height\":180,\"aspectRatio\":1}}" %}
+{% embed url="https://app.netlify.com/" %}
 
 1. GitLabでログイン
 2. New site form Git をクリック

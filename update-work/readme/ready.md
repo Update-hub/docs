@@ -20,7 +20,7 @@ SESで業務委託で入る、在宅で仕事を受ける。これらはすべ�
 
 ネットで取引が完結するネット銀行を推奨します。中でも住信SBIネット銀行は手数料が無料になるケースが多いため、オススメです。
 
-{% embed data="{\"url\":\"https://www.netbk.co.jp/wpl/NBGate\",\"type\":\"link\",\"title\":\"住信SBIネット銀行\",\"description\":\"住信SBIネット銀行へようこそ。定期預金、外貨預金、住宅ローン、カードローンなどのサービスやキャンペーンが充実した、初心者にもおすすめできるネット銀行です。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://contents-cache.netbk.co.jp/pc/img\_cmn/apple-touch-icon.png\",\"aspectRatio\":0}}" %}
+{% embed url="https://www.netbk.co.jp/wpl/NBGate" %}
 
 ### 開業届、青色申告
 
@@ -30,7 +30,7 @@ SESで業務委託で入る、在宅で仕事を受ける。これらはすべ�
 
 お金の動きが少なく、手作業で追える方はExcel や Numbers, スプレッドシートなどの表計算ツールで仕訳を行います。逆にお金の動きが多い人は、Freee や MFクラウドなどの会計ソフトを使います。また、仕訳の証憑（証拠）となる[レシートや領収書を保管する準備](ready.md#reshtono)を行いましょう。Updateとしては初心でも簡単な freee をお勧めしています。
 
-{% embed data="{\"url\":\"https://www.freee.co.jp/kakuteishinkoku/\",\"type\":\"link\",\"title\":\"確定申告ソフト \| クラウド会計ソフト freee\",\"description\":\"無料から使えるシェアNo.1のクラウド確定申告ソフト freee（フリー）。個人事業主の青色申告・白色申告などの確定申告に対応。青色申告決算書や確定申告書Bなどが作成できます。銀行やカードのweb口座と連携して、個人事業主の経理・会計・帳簿作成を簡単に。Mac（マック）でも快適に使えます。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.freee.co.jp/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.freee.co.jp/assets/image/img\_freee\_201510.png\",\"width\":652,\"height\":655,\"aspectRatio\":1.0046012269938651}}" %}
+{% embed url="https://www.freee.co.jp/kakuteishinkoku/" %}
 
 会計ソフトを使うと、レシート読み取りや口座情報インポート、勘定科目の推測などがなされますが、自分でスプレッドシートなどに記帳する際は自分で判断しないといけません。はじめのうちは、経費をググる形になりますが、慣れてくればすぐ判断できるようになります。
 
@@ -66,7 +66,7 @@ SESで業務委託で入る、在宅で仕事を受ける。これらはすべ�
 
 固定で、毎年国が決めます。平成30年度は16,340円です。
 
-{% embed data="{\"url\":\"http://www.nenkin.go.jp/service/kokunen/hokenryo/20150313-02.html\",\"type\":\"link\",\"title\":\"国民年金保険料｜日本年金機構\",\"icon\":{\"type\":\"icon\",\"url\":\"http://www.nenkin.go.jp/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="http://www.nenkin.go.jp/service/kokunen/hokenryo/20150313-02.html" %}
 
 ### 住民税
 
@@ -92,9 +92,9 @@ SESであっても支給されないのが一般的なので、自己負担と�
 
 ### 参考
 
-{% embed data="{\"url\":\"https://www.freee.co.jp/kb/kb-kaigyou/freeelance-tax/\#content4\",\"type\":\"link\",\"title\":\"フリーランスが支払う税金の種類と控除の種類 \| クラウド会計ソフト freee\",\"description\":\"フリーランスが支払う税金はいろいろあります。どのような税金があり、何に対して税金がかかるのかを知らないと、突然の支払い通知に対して「資金が足りない！」ということになるかもしれません。そういう事態に陥らないために、フリーランスが支払う税金と控除の種類、具体的な計算方法についてまと...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.freee.co.jp/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://www.freee.co.jp/assets/image/img\_freee\_201510.png\",\"width\":652,\"height\":655,\"aspectRatio\":1.0046012269938651}}" %}
+{% embed url="https://www.freee.co.jp/kb/kb-kaigyou/freeelance-tax/\#content4" %}
 
-{% embed data="{\"url\":\"https://creator.levtech.jp/tips/article/59/\",\"type\":\"link\",\"title\":\"税金・保険でいくら引かれるの？フリーランス（個人事業主）の手取り年収シミュレーション\",\"description\":\"フリーランスになると額面上の収入は増えたとしても、税金や社会保険料などを自分で納めなければなら...\",\"icon\":{\"type\":\"icon\",\"url\":\"https://creator.levtech.jp/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://creator.levtech.jp/files/img/tips/59/main\_image.jpg\",\"width\":720,\"height\":478,\"aspectRatio\":0.6638888888888889}}" %}
+{% embed url="https://creator.levtech.jp/tips/article/59/" %}
 
 ## 節税
 

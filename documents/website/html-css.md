@@ -14,21 +14,21 @@ HTMLはサイト制作における基本中の基本です。HTMLでサイトを
 
 まずは下記のサイトでHTML/CSSの基本を学んでください。
 
-{% embed data="{\"url\":\"https://developer.mozilla.org/ja/docs/Web/HTML\",\"type\":\"link\",\"title\":\"HTML\",\"description\":\"HTML \(HyperText Markup Language\) はウェブのもっとも基本的な構成要素です。 HTML はウェブページの基本レイアウトに従ってウェブページのコンテンツを記述し定義するものです。 HTML に隣接する他の技術としては、ウェブページの表示や表現を記述するもの \(CSS\) または機能や振る舞いを記述するもの \(JavaScript\) があります。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.mdn.mozilla.net/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.mdn.mozilla.net/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1},\"caption\":\"厳密には公式サイトではない\"}" %}
+{% embed url="https://developer.mozilla.org/ja/docs/Web/HTML" caption="厳密には公式サイトではない" %}
 
-{% embed data="{\"url\":\"https://hail2u.net/documents/html-best-practices.html\",\"type\":\"link\",\"title\":\"普通のHTMLの書き方\",\"icon\":{\"type\":\"icon\",\"url\":\"https://hail2u.net/apple-touch-icon-precomposed.png\",\"aspectRatio\":0}}" %}
+{% embed url="https://hail2u.net/documents/html-best-practices.html" %}
 
 ### Style Guide
 
 インデントルールなど細かいスタイルガイドをGoogleが提唱してくれています。
 
-{% embed data="{\"url\":\"https://google.github.io/styleguide/htmlcssguide.html\",\"type\":\"link\",\"title\":\"Google HTML/CSS Style Guide\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.google.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://google.github.io/styleguide/htmlcssguide.html" %}
 
 ## 正しいマークアップ
 
 見た目の表現はCSSで管理されるため、見た目だけで言えばすべて `div` タグで組むことも可能です。ただし、HTMLのタグにはそれぞれ意味、役割が存在し、それぞれに適したタグを使うことでSEO上有利になり、外部からコンテンツの構造を取得しやすくなります。
 
-{% embed data="{\"url\":\"https://developer.mozilla.org/ja/docs/Web/HTML/Element\",\"type\":\"link\",\"title\":\"HTML 要素リファレンス\",\"description\":\"このページでは、タグを使用して作成されるすべての HTML 要素を一覧表示しています。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developer.mozilla.org/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developer.mozilla.org/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+{% embed url="https://developer.mozilla.org/ja/docs/Web/HTML/Element" %}
 
 ### 初学者が犯すミス
 
@@ -56,7 +56,7 @@ HTMLのClass名は自由につけられますが、チームでClass命名規則
 
 HTMLは記述量が非常に多いため、エディタのショートカットやスニペットの活用が効率化に非常に有効です。Emmetを使うと、わずかな記述でマークアップを効率的に進めることができます。Visual Studio Code にははじめから Emmet が内蔵されています。
 
-{% embed data="{\"url\":\"https://dotinstall.com/lessons/basic\_emmet\_v2\",\"type\":\"link\",\"title\":\"Emmet入門 \(全15回\)\",\"description\":\"HTML/CSSを効率的にコーディングできるEmmet記法について学んでいきます。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://dotinstall.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://dotinstall.com/package\_img/basic\_emmet\_v2/screen\_1.png\",\"width\":640,\"height\":360,\"aspectRatio\":0.5625}}" %}
+{% embed url="https://dotinstall.com/lessons/basic\_emmet\_v2" %}
 
 #### Emmet で BEM を使う
 
@@ -90,17 +90,17 @@ EmmetではBEMの出力も可能です。下記のようにbemフィルターを
 
 下記サイトにURLやコード全体を貼り付け、エラーがない状態であれば、少なくとも構文的には正しいマークアップであると言えます。
 
-{% embed data="{\"url\":\"https://validator.w3.org/\",\"type\":\"link\",\"title\":\"The W3C Markup Validation Service\",\"description\":\"W3C\'s easy-to-use       markup validation service, based on SGML and XML parsers.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://validator.w3.org/images/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://validator.w3.org/" %}
 
 ### PageSpeed Insights
 
 下記サイトにURLを貼り付け、グリーンスコアであれば表示速度的に及第点と言えます。
 
-{% embed data="{\"url\":\"https://developers.google.com/speed/pagespeed/insights/\",\"type\":\"link\",\"title\":\"PageSpeed Insights\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developers.google.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://developers.google.com/speed/pagespeed/insights/" %}
 
 ### Mobile-Friendly
 
 下記サイトにURLを貼り付け、エラーがなければスマホ対応が適切なマークアップであると言えます。
 
-{% embed data="{\"url\":\"https://search.google.com/test/mobile-friendly\",\"type\":\"link\",\"title\":\"Mobile-Friendly Test - Google Search Console\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/search-console/scfe/logo\_dark\_2x-037666dffd9635fa9092b132a2f49da5.png\",\"width\":452,\"height\":48,\"aspectRatio\":0.10619469026548672}}" %}
+{% embed url="https://search.google.com/test/mobile-friendly" %}
 

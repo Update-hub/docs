@@ -4,7 +4,7 @@
 
 ### 公式サイト
 
-{% embed data="{\"url\":\"https://gulpjs.com/\",\"type\":\"link\",\"title\":\"gulp.js\",\"icon\":{\"type\":\"icon\",\"url\":\"https://gulpjs.com/img/favicon.png\",\"aspectRatio\":0}}" %}
+{% embed url="https://gulpjs.com/" %}
 
 Gulpは昨今のフロントエンド開発では必須とえる以下の作業を行うためのツールです。
 

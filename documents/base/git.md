@@ -6,13 +6,13 @@ description: Gitはソースコードの管理に欠かせない必須ツール�
 
 ## 概要
 
-{% embed data="{\"url\":\"https://www.youtube.com/watch?v=sY64kVwQ-bw&index=3&t=278s&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL\",\"type\":\"video\",\"title\":\"gitによる共同開発\",\"icon\":{\"type\":\"icon\",\"url\":\"https://www.youtube.com/yts/img/favicon\_144-vfliLAfaB.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://i.ytimg.com/vi/sY64kVwQ-bw/maxresdefault.jpg\",\"width\":1280,\"height\":720,\"aspectRatio\":0.5625},\"embed\":{\"type\":\"player\",\"url\":\"https://www.youtube.com/embed/sY64kVwQ-bw?rel=0&showinfo=0&start=278\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 56.2493%;\\\"><iframe src=\\\"https://www.youtube.com/embed/sY64kVwQ-bw?rel=0&amp;showinfo=0&amp;start=278\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen scrolling=\\\"no\\\"></iframe></div>\",\"aspectRatio\":1.7778}}" %}
+{% embed url="https://www.youtube.com/watch?v=sY64kVwQ-bw&index=3&t=278s&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL" %}
 
 Gitを使えば、ソースコードのバージョン管理を行ったり、複数人で共通のコードをメンテナンスすることができます。ほぼすべての制作現場で使われているので、基本的な使い方をマスターしましょう。コマンド操作は通常GUIで操作することが多いので、GUIで解説を行います。
 
-{% embed data="{\"url\":\"https://git-scm.com/\",\"type\":\"link\",\"title\":\"Git\",\"icon\":{\"type\":\"icon\",\"url\":\"https://git-scm.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://git-scm.com/" %}
 
-{% embed data="{\"url\":\"https://git-scm.com/book/ja/v2\",\"type\":\"link\",\"title\":\"Git - Book\",\"icon\":{\"type\":\"icon\",\"url\":\"https://git-scm.com/favicon.ico\",\"aspectRatio\":0},\"caption\":\"ドキュメント\"}" %}
+{% embed url="https://git-scm.com/book/ja/v2" caption="ドキュメント" %}
 
 ### 代表的なGUI
 

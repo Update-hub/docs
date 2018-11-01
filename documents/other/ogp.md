@@ -2,7 +2,7 @@
 
 ## 公式サイト
 
-{% embed data="{\"url\":\"http://ogp.me\",\"type\":\"link\",\"title\":\"Open Graph protocol\",\"description\":\"The Open Graph protocol enables any web page to become a rich object in a social graph.\",\"icon\":{\"type\":\"icon\",\"url\":\"http://ogp.me/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"http://ogp.me/logo.png\",\"width\":300,\"height\":300,\"aspectRatio\":1}}" %}
+{% embed url="http://ogp.me" %}
 
 ## クイックスタート
 

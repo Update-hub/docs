@@ -6,11 +6,11 @@ description: Webアプリ開発のスタンダード
 
 ## 公式ドキュメント
 
-{% embed data="{\"url\":\"https://reactjs.org/\",\"type\":\"link\",\"title\":\"React - A JavaScript library for building user interfaces\",\"description\":\"A JavaScript library for building user interfaces\",\"icon\":{\"type\":\"icon\",\"url\":\"https://reactjs.org/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://reactjs.org/logo-og.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"caption\":\"React\"}" %}
+{% embed url="https://reactjs.org/" caption="React" %}
 
-{% embed data="{\"url\":\"https://reacttraining.com/react-router/\",\"type\":\"link\",\"title\":\"React Router: Declarative Routing for React\",\"description\":\"Learn once, Route Anywhere\",\"icon\":{\"type\":\"icon\",\"url\":\"https://reacttraining.com/react-router/apple-touch-icon.png\",\"width\":180,\"height\":180,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://reacttraining.com/react-router/react-square.png\",\"width\":562,\"height\":562,\"aspectRatio\":1},\"caption\":\"React Router\"}" %}
+{% embed url="https://reacttraining.com/react-router/" caption="React Router" %}
 
-{% embed data="{\"url\":\"https://redux.js.org/\",\"type\":\"link\",\"title\":\"Read Me - Redux\",\"icon\":{\"type\":\"icon\",\"url\":\"https://blobscdn.gitbook.com/v0/b/gitbook-28427.appspot.com/o/spaces%2F-L5K1I1WsuQMZ8ecEuWg%2Favatar.png?generation=1518623866348435&alt=media\",\"aspectRatio\":0},\"caption\":\"Redux\"}" %}
+{% embed url="https://redux.js.org/" caption="Redux" %}
 
 ## クイックスタート
 
@@ -76,7 +76,7 @@ srcディレクトリ内に以下のディレクトリを作成してくださ�
 
 ###  Example
 
-{% embed data="{\"url\":\"https://github.com/Update-hub/sw-vote\",\"type\":\"link\",\"title\":\"Update-hub/sw-vote\",\"description\":\"Contribute to sw-vote development by creating an account on GitHub.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/36681937?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/Update-hub/sw-vote" %}
 
 ## Tips
 

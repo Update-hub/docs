@@ -2,9 +2,9 @@
 
 ## 公式サイト
 
-{% embed data="{\"url\":\"https://ja.wordpress.org/\",\"type\":\"link\",\"title\":\"日本語\",\"description\":\"WordPress 日本語ローカルサイトブログ\",\"icon\":{\"type\":\"icon\",\"url\":\"https://s.w.org/favicon.ico?2\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://s.w.org/images/backgrounds/wordpress-bg-medblue.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://ja.wordpress.org/" %}
 
-{% embed data="{\"url\":\"http://wpdocs.osdn.jp/Main\_Page\",\"type\":\"link\",\"title\":\"WordPress Codex 日本語版\",\"icon\":{\"type\":\"icon\",\"url\":\"http://wpdocs.osdn.jp/favicon.ico\",\"aspectRatio\":0},\"caption\":\"開発ドキュメント\"}" %}
+{% embed url="http://wpdocs.osdn.jp/Main\_Page" caption="開発ドキュメント" %}
 
 ## Tips
 

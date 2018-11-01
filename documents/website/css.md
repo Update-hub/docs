@@ -12,7 +12,7 @@ HTML同様、複雑なスタイルへの対応やメンテンス性向上の目�
 
 ### 推奨ドキュメント
 
-{% embed data="{\"url\":\"https://developer.mozilla.org/ja/docs/Web/CSS\",\"type\":\"link\",\"title\":\"CSS: カスケーディングスタイルシート\",\"description\":\"Cascading Style Sheets（CSS）はスタイルシート言語であり、 HTML や XML （XHTML・SVG などを含む）で記述された文書の体裁や見栄えを表現するために用いられます。 CSS は、要素が画面上で（あるいは紙や音声といった別のメディア上で）どのように表現されるのかを定義します。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn.mdn.mozilla.net/static/img/favicon144.e7e21ca263ca.png\",\"width\":144,\"height\":144,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn.mdn.mozilla.net/static/img/opengraph-logo.72382e605ce3.png\",\"width\":600,\"height\":600,\"aspectRatio\":1}}" %}
+{% embed url="https://developer.mozilla.org/ja/docs/Web/CSS" %}
 
 ## SCSS\(SASS\)
 
@@ -22,7 +22,7 @@ SCSSはSASSの記法の一つで、大きな括りとしてはSASSになりま�
 * 変数の利用（色やサイズなど使いまわせる値を変数化できる）
 * ネスト記法（入れ子の表現やBEMをシンプルに直感的にできる）
 
-{% embed data="{\"url\":\"https://dotinstall.com/lessons/basic\_sass\",\"type\":\"link\",\"title\":\"Sass/SCSS入門 \(全15回\)\",\"description\":\"CSSを効率的に書くための記法であるSass/SCSSについて学んでいきます。\",\"icon\":{\"type\":\"icon\",\"url\":\"https://dotinstall.com/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://dotinstall.com/package\_img/basic\_sass/screen\_1.png\",\"width\":640,\"height\":360,\"aspectRatio\":0.5625}}" %}
+{% embed url="https://dotinstall.com/lessons/basic\_sass" %}
 
 ### 利用上の注意
 
@@ -91,11 +91,11 @@ BEMにのっとってコンポーネント指向で設計する限り、 `!impor
 
 下記サイトにURLやコード全体を貼り付け、エラーがない状態であれば、少なくとも構文的には正しいスタイリングであると言えます。
 
-{% embed data="{\"url\":\"https://jigsaw.w3.org/css-validator/\",\"type\":\"link\",\"title\":\"The W3C CSS Validation Service\",\"icon\":{\"type\":\"icon\",\"url\":\"https://jigsaw.w3.org/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://jigsaw.w3.org/css-validator/" %}
 
 ### Mobile-Friendly
 
 下記サイトにURLを貼り付け、エラーがなければスマホ対応が適切なスタイリングであると言えます。
 
-{% embed data="{\"url\":\"https://search.google.com/test/mobile-friendly\",\"type\":\"link\",\"title\":\"Mobile-Friendly Test - Google Search Console\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/search-console/scfe/logo\_dark\_2x-037666dffd9635fa9092b132a2f49da5.png\",\"width\":452,\"height\":48,\"aspectRatio\":0.10619469026548672}}" %}
+{% embed url="https://search.google.com/test/mobile-friendly" %}
 

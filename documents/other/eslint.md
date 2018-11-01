@@ -6,7 +6,7 @@ description: JSの品質チェックツール。必ず入れましょう。
 
 ## 公式ドキュメント
 
-{% embed data="{\"url\":\"https://eslint.org/\",\"type\":\"link\",\"title\":\"ESLint - Pluggable JavaScript linter\",\"description\":\"A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://eslint.org/img/favicon.512x512.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://eslint.org/img/favicon.512x512.png\",\"aspectRatio\":0}}" %}
+{% embed url="https://eslint.org/" %}
 
 ## クイックスタート
 

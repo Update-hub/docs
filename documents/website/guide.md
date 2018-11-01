@@ -70,7 +70,7 @@ description: サイト設計の流れ
 
 開発時に画像やテキストの原稿が未定のことはよくあります。そういった場合にはダミー画像や、Emmetのダミーテキスト機能を使い実装を進めておきましょう。
 
-{% embed data="{\"url\":\"https://placeholder.com/\",\"type\":\"link\",\"title\":\"Placeholder.com - Quick & Simple Placeholder Images, Text & More\",\"icon\":{\"type\":\"icon\",\"url\":\"https://placeholder.com/favicon.ico\",\"aspectRatio\":0}}" %}
+{% embed url="https://placeholder.com/" %}
 
 特にフロント開発において**スイッチングコスト（ツールや画面を切り替えること）**は非常に高いので、まずはダミー画像で実装を行い、最終的にサイト全体の画像をまとめて切り出す。というフローも有効です。こうすることで、画像エディタとテキストエディタを行ったり来たりするストレスが軽減され、効率化に繋がります。
 
