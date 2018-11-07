@@ -24,3 +24,7 @@ maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループ
 
 {% embed url="https://drive.google.com/open?id=1Rv1SiTSDa0lT2AWs1\_\_ti11BdWYWaW37" %}
 
+プロジェクトのインポート後は、下記動画部分を参考にリポジトリ操作の通知がチームチャンネルに飛ぶように設定してください。
+
+{% embed url="https://youtu.be/CHb4TdHX7fw?t=87" %}
+
