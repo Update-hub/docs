@@ -46,12 +46,14 @@ $ npm i -g gulp-cli eslint editorconfig
 * [Editor Config](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) - コーディングルール定義
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - JSの品質チェック
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=HookyQR.beautify) - コード整形
+* [Japanese Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-ja) - 日本語化
 
 ## その他の設定
 
 ### GitLab登録
 
-[GitLab](https://gitlab.com/)アカウント作成後、アイコンを設定してください。その後、GitLabの設定を行ってください。
+* [GitLab](https://gitlab.com/)アカウント作成後、アイコンを設定してください。その後、GitLabの設定を行ってください。
+* GitLabの設定画面から言語を日本語に設定してください。
 
 {% page-ref page="../documents/base/gitlab.md" %}
 
@@ -62,4 +64,3 @@ $ npm i -g gulp-cli eslint editorconfig
 * プロフィールの表示名をGitLabのアカウント名 \(自分のGitLabページのURLの末尾\)と同じにしてください。
 * プロフィール画像を設定してください。
 * 新着メッセージを見落としがちな方は、環境設定 &gt; 通知のタイミングで、「すべての新規メッセージ」から通知が来るように変更してください。（任意）
-
