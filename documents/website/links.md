@@ -23,6 +23,3 @@
 ## Web Font
 
 * [Google Fonts\(日本語\)](https://googlefonts.github.io/japanese/)
-
-
-

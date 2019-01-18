@@ -6,7 +6,7 @@ description: 最もポピュラーなGitクライアント
 
 ## 概要
 
-Sourcetree は最もポピュラーな無料のGitクライアントです。Git Flow など複雑なGit管理手法にも対応しており、差分なども追いやすいUIなので多くのコーダーに愛されています。
+Sourcetreeはもっともポピュラーな無料のGitクライアントです。Git Flowなど複雑なGit管理手法にも対応しており、差分なども追いやすいUIなので多くのコーダーに愛されています。
 
 {% embed url="https://ja.atlassian.com/software/sourcetree" %}
 
@@ -14,7 +14,4 @@ Sourcetree は最もポピュラーな無料のGitクライアントです。Git
 
 * ブランチ名をダブルクリックでブランチを切り替えることができます。
 * ツールバーからブランチを作成したり、コミットができます。
-* GitFlow を使用する場合、ステータスバーの リポジトリ/GitFlow からGitFlowを初期化できます。
-
-
-
+* GitFlowを使用する場合、ステータスバーのリポジトリ/GitFlowからGitFlowを初期化できます。

@@ -8,7 +8,7 @@ description: 最もよく使われるリポジトリ管理サービス
 
 {% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyahd9SWHMmo-agcrsSDRYQSQ" %}
 
-GitLabは業務において最もよく使われるリポジトリ管理サービスです。GitHubは不特定多数でのオープンソース開発に適していますが、GitLab は会社やチームでのクローズドな開発で使われます。GitHub と違い、無料でプライベートリポジトリを作成することができます。
+GitLabは業務においてもっともよく使われるリポジトリ管理サービスです。GitHubは不特定多数でのオープンソース開発に適していますが、GitLabは会社やチームでのクローズドな開発で使われます。GitHubと違い、無料でプライベートリポジトリを作成できます。
 
 ## 事前準備
 
@@ -19,25 +19,25 @@ GitLabは業務において最もよく使われるリポジトリ管理サー�
 ### 2段階認証
 
 {% hint style="danger" %}
-この設定は個人のPC, スマホ端末に依存するため、共有PCでは絶対に行わないようにしてください。
+この設定は個人のPC（スマホ）に依存するため、共有端末では行わないようにしてください。
 {% endhint %}
 
-2段階認証をすることで、第三者の不正ログインを防ぎます。クライアントの機密コードを取り扱う都合、必ず２段階認証を行いましょう。
+2段階認証をすることで、第三者の不正ログインを防ぎます。クライアントの機密コードを取り扱う都合、必ず2段階認証を行いましょう。
 
 1. [設定 &gt; Account](https://gitlab.com/profile/account) &gt; **Two-Factor Authentication** を有効にする
-2. 設定 &gt; SSH Keys で、SSH Key を登録する\([SSH Key の作り方](https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair)、[過去作ったKeyの取得](https://gitlab.com/help/ssh/README#locating-an-existing-ssh-key-pair)）
+2. 設定 &gt; SSH Keysで、SSH Keyを登録する\([SSH Key の作り方](https://gitlab.com/help/ssh/README#generating-a-new-ssh-key-pair)、[過去作ったKeyの取得](https://gitlab.com/help/ssh/README#locating-an-existing-ssh-key-pair)）
 
-設定時、[認証アプリ](https://itunes.apple.com/jp/app/google-authenticator/id388497605?mt=8)が必要になります。事前にダウンロードしましょう。以後、新しい環境からログインを試みると２段階認証が必要になるので、認証アプリで表示される認証コードを利用してログインしましょう。
+設定時、[認証アプリ](https://itunes.apple.com/jp/app/google-authenticator/id388497605?mt=8)が必要になります。事前にダウンロードしましょう。以後、新しい環境からログインを試みると2段階認証が必要になるので、認証アプリで表示される認証コードを利用してログインしましょう。
 
-なお、２段階認証を使うことでGitのCloneに使用するURLが `http://`  から `git@` に変わる点に注意しましょう。httpプロトコルのリポジトリURLは以後使用できなくなるため、既存のリポジトリがある場合はgit@~ のURLに変更しましょう。
+なお、2段階認証を使うことでGitのCloneに使用するURLが `http://`  から `git@` に変わります。httpプロトコルのリポジトリURLは以後使用できなくなるため、既存のリポジトリがある場合はgit@~ のURLに変更しましょう。
 
 ### ローカルのGit設定
 
-GitLab に登録したメールアドレスとユーザー名をローカルのGitに紐付けましょう。以下のコマンドをターミナルで叩いてください。名前とメールアドレスは自分のものに変えてください。間違えて設定してしまった場合は、再度コマンドを叩いて設定し直してください。
+GitLabに登録したメールアドレスとユーザー名をローカルのGitに紐付けましょう。以下のコマンドをターミナルで叩いてください。名前とメールアドレスは自分のものに変えてください。間違えて設定してしまった場合は、再度コマンドを叩いて設定し直してください。
 
-```text
-$ git config --global user.name "Taro Yamada"
-$ git config --global user.email "taro.yamada@deer.co.jp"
+```bash
+git config --global user.name "Taro Yamada"
+git config --global user.email "taro.yamada@deer.co.jp"
 ```
 
 なお、基本的にこの設定はGitHubなど他のリポジトリサービスにも影響するため、各サービスでユーザー名やメールアドレスを統一しておきましょう。
@@ -47,7 +47,7 @@ $ git config --global user.email "taro.yamada@deer.co.jp"
 ### 主なフロー
 
 1. プロジェクト（リポジトリ）を作成しましょう。
-2. リポジトリをClone しましょう。
+2. リポジトリをCloneしましょう。
 3. issue（課題）ごとにブランチを作成（feature/issue番号）します。
 4. 作業が終わったらmasterにマージリクエストを出します。
 5. マージされたらissueをクローズします。
@@ -58,11 +58,11 @@ WIPをつけることでマージできなくなります。マージリクエ�
 
 ### 公開する
 
-gitlab-cli.yml を設置します。開発環境によって異なりますが、ビルドを必要としないサイトの場合、リポジトリのCI設定画面よりHTMLのテンプレートを選ぶことで、masterにpushした際、public ディレクトリの内容が公開されるようになります。（自分がオーナーのリポジトリでのみ可能）
+`gitlab-cli.yml`を設置します。開発環境によって異なりますが、ビルドを必要としないサイトの場合、リポジトリのCI設定画面よりHTMLのテンプレートを選ぶことで、masterにpushした際、publicディレクトリの内容が公開されるようになります。（自分がオーナーのリポジトリでのみ可能）
 
-### Merge Request の並立
+### Merge Requestの並立
 
-作業内容がバッティングしない場合、Merge Request のレビューを待っている間に他のIssueを進め、新たなMerge Request を出すことが可能です。
+作業内容がバッティングしない場合、Merge Requestのレビューを待っている間に他のIssueを進め、新たなMerge Requestを出すことが可能です。
 
 ### ポイント
 
@@ -72,4 +72,3 @@ gitlab-cli.yml を設置します。開発環境によって異なりますが�
 ```text
 画像修正 #24
 ```
-

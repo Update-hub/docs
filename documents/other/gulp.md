@@ -19,31 +19,32 @@ Gulpは昨今のフロントエンド開発では必須とえる以下の作業�
 gulpコマンドのインストール
 
 ```bash
-$ npm i -g gulp-cli
+npm i -g gulp-cli
 ```
 
-プロジェクトディレクトリに移動（あるいはプロジェクトディレクトリをVSCで開いた状態でVSCのターミナルで操作してください）
+プロジェクトディレクトリに移動
 
 ```bash
 cd <プロジェクトディレクトリ>
 ```
 
-package.json の作成
+package.jsonの作成
 
 ```bash
-$ npm init -y
+npm init -y
 ```
 
 Gulpおよび関連ツールのインストール
 
 ```bash
-$ npm i gulp gulp-sass browser-sync gulp-imagemin gulp-plumber
+npm i gulp gulp-sass browser-sync gulp-imagemin gulp-plumber
 ```
 
 gulpfile.jsの作成
 
 {% code-tabs %}
 {% code-tabs-item title="gulpfile.js" %}
+
 ```javascript
 const gulp = require('gulp');
 const sass = require('gulp-sass');
@@ -81,13 +82,14 @@ gulp.task('watch', () => {
   });
 });
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 gulpの起動
 
 ```bash
-$ gulp
+gulp
 ```
 
 このタスクではローカルサーバーの立ち上げ、sassのコンパイル、ファイルの変更検知を行なっています。gulpが起動するとターミナル、コマンドプロントは操作を受け付けなくなります。停止する場合は `Ctrl + c` を押してください。
@@ -97,6 +99,3 @@ $ gulp
 ### 新たなパッケージの追加
 
 新たなパッケージは `npm i -D <パッケージ名>` で追加できます。gulp起動中にパッケージを追加した場合、一度gulpタスクを停止し、再起動する必要があります。
-
-
-

@@ -8,7 +8,7 @@ description: 本格的な制作の入門
 
 {% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagERb4oKAahzmziVMfHZrPq" %}
 
-LP（ランディングページ）は初期フェーズで最も多い案件の種類です。商品やサービスを訴求するための縦長のサイトで、通常１ページで構成されます。１ページとはいえデザインや動きが凝っていることが多く、Webサイト制作に必要なスキルが一通り必要になります。
+LP（ランディングページ）は初期フェーズでもっとも多い案件の種類です。商品やサービスを訴求するための縦長のサイトで、通常1ページで構成されます。1ページとはいえデザインや動きが凝っていることが多く、Webサイト制作に必要なスキルがひととおり必要になります。
 
 ### 妥当工数
 
@@ -28,5 +28,4 @@ lp-XXXX（XXXXは自分の名前）として自分のGitLabグループにイン
 
 {% embed url="https://drive.google.com/drive/folders/1cmn5mw5mYDcWOn\_XGr4b1QQcMoW3EfaZ" %}
 
-Font はすべて [Raleway](https://fonts.google.com/specimen/Raleway) を使ってください。\(PSD上でRaleway以外の部分も、RalewayでOKです）
-
+Fontはすべて [Raleway](https://fonts.google.com/specimen/Raleway) を使ってください。\(PSD上でRaleway以外の部分も、RalewayでOKです）

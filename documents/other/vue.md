@@ -12,7 +12,7 @@
 
 ### ESLint
 
-Visual Studio CodeでESLintを \*\*.Vue で適用させるためにはユーザー設定に下記の記載が必要。
+Visual Studio CodeでESLintを \*\*.Vueで適用させるためにはユーザー設定に下記の記載が必要。
 
 ```javascript
 "eslint.validate": [
@@ -28,6 +28,3 @@ Visual Studio CodeでESLintを \*\*.Vue で適用させるためにはユーザ�
 vue-cliがあればコマンドひとつで開発環境を整えることができる。
 
 {% embed url="https://github.com/vuejs/vue-cli" %}
-
-
-

@@ -10,35 +10,35 @@ description: まずは実務に必要な環境を整えてください。
 
 ## PC
 
-Mac or Windows を用意してください。実際の現場ではMacが多いため、これからPCを購入する方はMacをお勧めします。また、各種サービスにログインするので共用PCは使わないでください。
+Mac or Windowsを用意してください。実際の現場ではMacが多いため、これからPCを購入する方はMacをオススメします。また、各種サービスにログインするので共用PCは使わないでください。
 
-* Macであればスペックは不問です。Mac Book Pro の Touch Bar なしのどれかをオススメします。
-* Macの場合**英字キーボード**（Apple Store Onlineから購入可能）がお勧めです。
-* Windows の場合、基本的なPC操作でもたつかない程度の処理能力が推奨されます。
+* Macであればスペックは不問です。MacBook ProのTouch Barなしのどれかをオススメします。
+* Macの場合**英字キーボード**（Apple Store Onlineから購入可能）がオススメです。
+* Windowsの場合、基本的なPC操作でもたつかない程度の処理能力が推奨されます。
 
 ## ツール
 
 以下のツールをそれぞれインストールしてください。すべて無料です。
 
-* [Visual Studio Code](https://code.visualstudio.com/Download) - エディタ
+* [Visual Studio Code](https://code.visualstudio.com/Download) - エディター
 * [git](https://git-scm.com/) - コード管理ツール
 * [node](https://nodejs.org/ja/download/) - JS実行環境
 * [chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=ja) - 主な開発用ブラウザ
 * [slack](https://slack.com/downloads/) - チャットツール（スマホアプリも同様）
 * [Adobe Creative Cloud](https://www.adobe.com/jp/creativecloud/desktop-app.html) - Adobe製品
 
-slackをインストールしたら[Update](https://update-hub.slack.com)のワークスペースにログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールしてください。**稼働中はSlackアプリにログインする**ようにしてください。
+slackをインストールしたら[Update](https://update-hub.slack.com)のワークスペースにログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールしてください。**稼働中はSlackアプリにログイン**してください。
 
 ### node package
 
 windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
 
 {% hint style="info" %}
-コードビューで $ が先頭にある場合、黒い画面（ターミナル、コマンドプロンプト）での操作を意味します。また、コードを貼り付ける際は $ は不要ですのでコピーに含めないよう、注意しましょう。
+コードビューで $ が先頭にある場合、黒い画面（ターミナル、コマンドプロンプト）での操作を意味します。コードを貼り付ける際は $ を含めないよう注意しましょう。
 {% endhint %}
 
 ```bash
-$ npm i -g gulp-cli eslint editorconfig
+npm i -g gulp-cli eslint editorconfig
 ```
 
 ### Visual Studio Code拡張機能

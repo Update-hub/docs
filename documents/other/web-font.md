@@ -1,6 +1,6 @@
 # Webフォント
 
-それぞれ CSS を @import して font-family 指定するだけで使えます。
+それぞれCSSを`@import`してfont-family指定するだけで使えます。
 
 ## Text
 
@@ -14,5 +14,4 @@
 
 ## webフォントの読み込み
 
-フォントは通常 style.css より前で読むか、style.scss の先頭で import します。
-
+フォントは通常style.cssより前で読むか、style.scssの先頭でimportします。

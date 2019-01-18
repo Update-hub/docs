@@ -11,6 +11,7 @@ Pugは非常に簡単です。HTMLとPugの大きな違いはありません。H
 
 {% code-tabs %}
 {% code-tabs-item title="sample.html" %}
+
 ```markup
 <p>パラグラフ</p>
 <ul>
@@ -19,11 +20,13 @@ Pugは非常に簡単です。HTMLとPugの大きな違いはありません。H
   <li>リスト</li>
 </ul>
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 {% code-tabs %}
 {% code-tabs-item title="sample.pug" %}
+
 ```text
 p パラグラフ
 ul
@@ -31,20 +34,21 @@ ul
   li リスト
   li リスト
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
-さらに、If文やeach文、mixinが使えるのでよりプログラマブルにHTMLを記述することができ、大規模サイトの実装を効率化することができます。
+さらに、If文やeach文、mixinが使えるのでよりプログラマブルにHTMLを記述することができ、大規模サイトの実装を効率化できます。
 
 {% hint style="warning" %}
-mixinや条件分岐を多用すると逆に可読性が下がるので、include, extends 以外の多用には注意しましょう。
+mixinや条件分岐を多用すると逆に可読性が下がるので、include, extends以外の多用には注意しましょう。
 {% endhint %}
 
 ### なぜテンプレート言語が必要なのか
 
 たとえばあなたが100ページあるサイトを実装するとします。100ページの中にはヘッダー、フッター、サイドバーなど共通するコンポーネントが必ず存在します。Pugなどのテンプレート言語を使わない場合、100ページすべてのHTMLにそれらのコンポーネントをコピーする必要があります。それだけでなく、もしヘッダーに修正が入った場合、100ページすべてのヘッダーを修正する必要があります。
 
-Pugの場合は、そういった再利用可能なコンポーネントを個別のインクルードファイルとして作成できます。例えば作成したヘッダーコンポーネントは、必要なページでincludeするだけで使いまわせるようになります。
+Pugの場合は、そういった再利用可能なコンポーネントを個別のインクルードファイルとして作成できます。たとえば作成したヘッダーコンポーネントは、必要なページでincludeするだけで使いまわせるようになります。
 
 ## Tips
 
@@ -54,20 +58,24 @@ Pugの場合は、そういった再利用可能なコンポーネントを個�
 
 {% code-tabs %}
 {% code-tabs-item title="sample.pug" %}
+
 ```javascript
 - var pet = 'dog'
 
 if pet === 'dog'
   p 犬
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 {% code-tabs %}
 {% code-tabs-item title="sample.html" %}
+
 ```markup
 <p>犬</p>
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
@@ -77,6 +85,7 @@ if pet === 'dog'
 
 {% code-tabs %}
 {% code-tabs-item title="sample.pug" %}
+
 ```javascript
 - var list = ['cat', 'dog', 'pig']
 
@@ -85,11 +94,13 @@ ul
     li.pet= i
     // li.pet-list #{i}でも可
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 {% code-tabs %}
 {% code-tabs-item title="sample.html" %}
+
 ```markup
 <ul>
   <li class="pet">cat</li>
@@ -97,6 +108,7 @@ ul
   <li class="pet">pig</li>
 </ul>
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
@@ -106,6 +118,7 @@ ul
 
 {% code-tabs %}
 {% code-tabs-item title="sample.pug" %}
+
 ```javascript
 mixin pet(name)
   li.pet= name
@@ -115,6 +128,7 @@ ul
   +pet('dog')
   +pet('pig')
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
@@ -122,6 +136,7 @@ ul
 
 {% code-tabs %}
 {% code-tabs-item title="sample.html" %}
+
 ```markup
 <ul>
   <li class="pet">cat</li>
@@ -129,6 +144,7 @@ ul
   <li class="pet">pig</li>
 </ul>
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
@@ -146,12 +162,12 @@ p 文章の中で<strong>ここだけ文字を大きく<strong>する。
 p
   | 文章の中で
   strong ここだけ文字を大きく
-  | する。 
+  | する。
 ```
 
 ### 軽微なネスト（入れ子）を省略する
 
-`:(半角スペース)` で区切ることでネスト（入れ子）にすることができます。
+`:(半角スペース)` で区切るとネスト（入れ子）にできます。
 
 ```text
 p: a(href='') リンク
@@ -162,16 +178,16 @@ p: a(href='') リンク
 pug-lintをインストール
 
 ```bash
-$ npm i -g pug-lint
+npm i -g pug-lint
 ```
 
-Visual Studio Code に拡張機能追加
+Visual Studio Codeに拡張機能追加
 
 {% embed url="https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug" %}
 
 {% embed url="https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint" %}
 
-Visual Studio Code のユーザー設定に以下の記述を追加。
+Visual Studio Codeのユーザー設定に以下の記述を追加。
 
 ```javascript
 "puglint.enable": true,
@@ -184,6 +200,7 @@ Visual Studio Code のユーザー設定に以下の記述を追加。
 
 {% code-tabs %}
 {% code-tabs-item title=".pug-lintrc.json" %}
+
 ```javascript
 {
   "validateIndentation": 2,
@@ -206,8 +223,8 @@ Visual Studio Code のユーザー設定に以下の記述を追加。
   "disallowClassAttributeWithStaticValue": true
 }
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 
 これでPugLintが有効になります。
-

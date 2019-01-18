@@ -7,6 +7,3 @@ description: モバイルに最適化されたフレームワーク
 ## 公式ドキュメント
 
 {% embed url="https://www.ampproject.org/ja/" %}
-
-
-

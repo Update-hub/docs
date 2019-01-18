@@ -20,11 +20,10 @@ Gulpを使っていない場合、Serveというnpmコマンドをインスト�
 
 {% embed url="https://www.npmjs.com/package/serve" %}
 
-プロジェクトディレクトリで serve コマンドを叩くことでその位置をルートとしてローカルサーバーを立ち上げることができます。起動時に表示される外部向けURLを同一Wifiのスマートフォンで開くことで実機チェックもできます。
+プロジェクトディレクトリで`serve`コマンドを叩くとその位置をルートとしてローカルサーバーが立ち上がります。サーバー起動時に表示される外部向けURLを同一Wifiのスマートフォンで開くと実機チェックもできます。
 
-別のオプションとして、Visual Studio Code の Live Server を使う方法があります。
+別のオプションとして、Visual Studio CodeのLive Serverを使う方法があります。
 
 {% embed url="https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer" %}
 
 この拡張機能場合ファイルの更新がオートリロードで反映されます。
-

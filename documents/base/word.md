@@ -8,13 +8,13 @@
 
 ### プルリク\(PR\)
 
-Pull Requestのこと\(GitHub\) 
+Pull Requestのこと\(GitHub\)
 
 > PRお願いします
 
 ### マジリク\(MR\)
 
-Merge Requestのこと\(GitLab\) 
+Merge Requestのこと\(GitLab\)
 
 > MRお願いします
 
@@ -125,4 +125,3 @@ Continuous Integration。GitHubなどと連携させ、Pushされたファイル
 証拠のこと。クライアントと言った言わないの問題になるのを避けるため、メールやチャット、契約書などで言質を抑える時に使う。
 
 > 揉めそうだからエビデンス残したほうがいい
-

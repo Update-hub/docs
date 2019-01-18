@@ -14,28 +14,33 @@ description: JSの品質チェックツール。必ず入れましょう。
 
 {% tabs %}
 {% tab title="ES5" %}
+
 ```bash
-$ npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
 {% code-tabs %}
 {% code-tabs-item title=".eslintrc.json" %}
+
 ```javascript
 {
   "extends": "standard"
 }
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 {% endtab %}
 
 {% tab title="ES6" %}
+
 ```bash
-$ npm install -D eslint eslint-config-google
+npm install -D eslint eslint-config-google
 ```
 
 {% code-tabs %}
 {% code-tabs-item title=".eslintrc.json" %}
+
 ```javascript
 {
     "extends": "google",
@@ -44,6 +49,7 @@ $ npm install -D eslint eslint-config-google
     }
 }
 ```
+
 {% endcode-tabs-item %}
 {% endcode-tabs %}
 {% endtab %}
@@ -51,7 +57,6 @@ $ npm install -D eslint eslint-config-google
 
 ## Tips
 
-### google や $などが怒られる
+### Googleや $などが怒られる
 
-`/* global google */` や `/* global $ */` をファイル先頭に記述
-
+`/* global google */` や `/* global */` をファイル先頭に記述
