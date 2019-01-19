@@ -6,6 +6,8 @@ description: チュートリアルになります。
 
 ## 概要
 
+動画はシリーズになっています。動画左上のリンクからすべてのシリーズを確認してください。他の動画も同様にシリーズがある場合があるのでご注意ください。
+
 {% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagNWpS8ZhCeRcLP3Vfq\_hPa" %}
 
 プロジェクトを進める際の基本的なフローを説明します。
