@@ -6,7 +6,7 @@ description: 本格的な制作の入門
 
 ## 概要
 
-{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagERb4oKAahzmziVMfHZrPq" %}
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagERb4oKAahzmziVMfHZrPq"　caption="動画はシリーズになっています" %}
 
 LP（ランディングページ）は初期フェーズでもっとも多い案件の種類です。商品やサービスを訴求するための縦長のサイトで、通常1ページで構成されます。1ページとはいえデザインや動きが凝っていることが多く、Webサイト制作に必要なスキルがひととおり必要になります。
 
