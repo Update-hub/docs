@@ -17,7 +17,7 @@ Gitを使えば、ソースコードのバージョン管理を行ったり、�
 ### 代表的なGUI
 
 * [Sourcetree](https://ja.atlassian.com/software/sourcetree) - 汎用性が高く、メジャー
-* [Visual Studio Code ](https://code.visualstudio.com/)- Git管理機能を内臓
+* [Visual Studio Code](https://code.visualstudio.com/)- Git管理機能を内臓
 
 ### 代表的なリポジトリサービス
 
