@@ -26,6 +26,7 @@ Mac or Windowsを用意してください。実際の現場ではMacが多いた
 * [chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&amp;hl=ja) - 主な開発用ブラウザ
 * [slack](https://slack.com/downloads/) - チャットツール（スマホアプリも同様）
 * [Adobe Creative Cloud](https://www.adobe.com/jp/creativecloud/desktop-app.html) - Adobe製品
+* [Adobe XD](https://www.adobe.com/jp/products/xd.html)
 
 slackをインストールしたら[Update](https://update-hub.slack.com)のワークスペースにログインしてください。Slackはスマートフォンアプリもあるのでこちらもインストールしてください。**稼働中はSlackアプリにログイン**してください。
 
@@ -53,9 +54,13 @@ npm i -g gulp-cli eslint editorconfig
 ### GitLab登録
 
 * [GitLab](https://gitlab.com/)アカウント作成後、アイコンを設定してください。その後、GitLabの設定を行ってください。
-* GitLabの設定画面から言語を日本語に設定してください。
+* GitLabのプロフィール設定画面から言語を日本語にしてください。
 
 {% page-ref page="../documents/base/gitlab.md" %}
+
+### GitHub登録
+
+{% embed url="https://github.com/Update-hub" %}
 
 ### Slackの設定
 
