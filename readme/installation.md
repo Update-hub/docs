@@ -34,13 +34,17 @@ slackをインストールしたら[Update](https://update-hub.slack.com)のワ�
 
 windowsの場合コマンドプロンプト、macの場合ターミナルで下記コマンドを打つ
 
-{% hint style="info" %}
-コードビューで $ が先頭にある場合、黒い画面（ターミナル、コマンドプロンプト）での操作を意味します。コードを貼り付ける際は $ を含めないよう注意しましょう。
-{% endhint %}
-
 ```bash
 npm i -g gulp-cli eslint editorconfig
 ```
+
+`permisson denied`的なエラーがでた場合はコマンドの前に`sudo`をつけましょう。つまり以下のようになります。
+
+```bash
+sudo npm i -g gulp-cli eslint editorconfig
+```
+
+この際、`password:`のような表記が出たら、そのままPCのパスワードを入力してエンターしてください。（パスワードの入力中は文字が表示されないので注意してください）
 
 ### Visual Studio Code拡張機能
 
