@@ -183,8 +183,6 @@ npm i -g pug-lint
 
 Visual Studio Codeに拡張機能追加
 
-{% embed url="https://marketplace.visualstudio.com/items?itemName=amandeepmittal.pug" %}
-
 {% embed url="https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-puglint" %}
 
 Visual Studio Codeのユーザー設定に以下の記述を追加。

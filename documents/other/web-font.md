@@ -10,8 +10,8 @@
 ## Icon
 
 * [Material Icons](https://material.io/icons/)
-* [Font Awesome](https://fontawesome.com/)
+* [Font Awesome](https://fontawesome.com/start)
 
 ## webフォントの読み込み
 
-フォントは通常style.cssより前で読むか、style.scssの先頭でimportします。
+通常CDNで呼びます。CDNとは、世界的によく使われるプラグインなどがおかれている高速サーバーみたいなものです。したがってフォントをダウンロードする必要はありません。フォントは通常style.cssより前で読むか、style.scssの先頭でimportします。
