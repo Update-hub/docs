@@ -20,6 +20,38 @@ description: 既存サイトのメンテナンス
 
 {% page-ref page="../documents/base/" %}
 
+### 基礎スキルの習得
+
+以下のサイトで基礎スキルの習得を行ってください。
+
+#### Progate
+
+<https://prog-8.com/languages>
+
+以下のコースをクリアする（無料範囲のみでOK）
+
+* HTML
+* CSS
+* JavaScript
+* jQuery
+* Command Line
+* Git
+* Sass
+* [Develoer Tool の使い方](https://prog-8.com/docs/html-dev)
+
+#### Dotinsall
+
+以下の動画を確認する
+
+* https://dotinstall.com/lessons/basic_html_v4
+* https://dotinstall.com/lessons/basic_css_v4
+* https://dotinstall.com/lessons/website_html_v3
+* https://dotinstall.com/lessons/basic_javascript_v3
+* https://dotinstall.com/lessons/basic_chrome_dev_v2
+* https://dotinstall.com/lessons/basic_emmet_v2
+* https://dotinstall.com/lessons/basic_git
+* https://dotinstall.com/lessons/basic_sass
+
 ## プロジェクトファイル
 
 maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
