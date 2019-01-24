@@ -4,10 +4,6 @@ description: Gulpの操作、NPMインストールなど多くのシーンで必
 
 # コマンドライン
 
-## チュートリアル
-
-{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagWR4SpZQ9PTRr-QqA4b_j9"　caption="動画はシリーズになっています" %}
-
 ## 概要
 
 コマンドラインはコマンドラインツール（Command Line Interface = CLI）と言います。それに対し、マウスクリックで操作するツールをGUI（Graphical User Interface）といいます。
@@ -19,3 +15,42 @@ CLIは多くのシーンで必要なので基本的な使い方を覚えまし�
 ```bash
 $ cd test
 ```
+
+## よく使うコマンド
+
+コマンド|意味
+---|---
+`cd xxx`|xxxに作業ディレクトリを移動する
+`cd ../`|親のディレクトリに移動する
+`mkdir xxx`|xxxというディレクトリを作成する
+`rm -rf xxx`|xxxを削除する
+`rm -rf xxx.png`|.png拡張子のファイルをすべて削除する
+`ls`|作業ディレクトリに存在するファイルを一覧表示する
+`sudo xxx`|管理者権限でxxxコマンドを実行する
+`open .`|現在の作業ディレクトリをFinderで開く
+`open http://xxx`|URLをブラウザで開く
+`diff A.txt B.txt`|AとBの差分を表示する
+`diff A.txt B.txt | pbcopy`|AとBの差分をクリップボードに格納する
+`xxx | pbcopy`|コマンド結果のログをクリップボードにコピーする
+`clear`|ログを消去して画面をまっさらにする
+
+## ショートカット
+
+ショートカット|意味
+---|---
+上矢印キー|直前のコマンドを再度入力状態にする（エンターを押す必要あり）
+Ctrl + c|入力途中のコマンドをキャンセルして新しい入力を開始
+
+## エラー対応
+
+コマンドラインツールでエラーが出た場合はエラーテキストでGoogle検索しましょう。以下よくあるエラーです
+
+### permisson denied
+
+`permisson denied`的なエラーがでた場合はコマンドの前に`sudo`をつけましょう。つまり以下のようになります。
+
+```bash
+sudo npm i -g XXX
+```
+
+この際、`password:`のような表記が出たら、そのままPCのパスワードを入力してエンターしてください。（パスワードの入力中は文字が表示されないので注意してください）
