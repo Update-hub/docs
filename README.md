@@ -6,6 +6,12 @@ description: Updateにようこそ
 
 ## 更新履歴
 
+### 2019-1-24
+
+* [LPトレーニング](update-work/projects/lp.md)に動画追加
+* [Pug](update-work/website/pug.md)に動画追加
+* [Chrome](update-work/base/chrome.md)に動画追加
+
 ### 2018-9-18
 
 * [レジュメページ（テンプレート）](update-work/ses/redume.md)追加

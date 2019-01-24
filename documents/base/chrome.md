@@ -4,6 +4,10 @@ description: 開発で最もよく使われるブラウザ
 
 # Chrome
 
+## チュートリアル
+
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyahE7VFCN1ZocTIfvX0HLNqr"　caption="動画はシリーズになっています" %}
+
 ## 概要
 
 Webサイト制作にもっとも適したブラウザです。拡張機能を追加することで、開発を効率化したり、開発者ツールでサイトの検証を行うことができます。
