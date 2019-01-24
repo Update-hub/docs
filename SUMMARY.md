@@ -18,6 +18,7 @@
     * [Slack](documents/base/slack.md)
     * [Visual Studio Code](documents/base/visual-studio-code.md)
     * [Git](documents/base/git.md)
+    * [コマンドライン](documents/base/terminal.md)
     * [GitLab](documents/base/gitlab.md)
     * [Chrome](documents/base/chrome.md)
     * [ローカルサーバー](documents/base/local-server.md)
