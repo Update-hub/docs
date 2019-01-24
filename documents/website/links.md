@@ -1,8 +1,10 @@
 # 参考リンク
 
-## 推奨アカウント
+## 公式アカウント
 
-* [Twitterアカウント](https://twitter.com/d151005/lists/web/members)
+[Update](https://twitter.com/updateJp_info)
+
+上記アカウントでフォローしている人の多くがリードエンジニアです。
 
 ## 写真素材サイト
 
