@@ -1,5 +1,9 @@
 # Pug
 
+## チュートリアル
+
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyagWR4SpZQ9PTRr-QqA4b_j9"　caption="動画はシリーズになっています" %}
+
 ## 概要
 
 Pugを使うと、HTMLではできなかった以下のようなことができます。
