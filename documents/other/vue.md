@@ -21,6 +21,9 @@ Visual Studio CodeでESLintを \*\*.Vueで適用させるためにはユーザ�
     "autoFix": true
   }
 ]
+"emmet.includeLanguages": {
+    "vue-html": "html"
+},
 ```
 
 ### vue-cli
