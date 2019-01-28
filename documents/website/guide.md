@@ -4,6 +4,10 @@ description: サイト設計の流れ
 
 # 設計ガイド
 
+## チュートリアル
+
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyahUtKEI9eGRSxmypH6bulP2" caption="このリストは順不同の過去動画です（近日更新予定）" %}
+
 ## 概要
 
 サイトデザイン（PSDなど）をHTMLで実装する流れを解説します。

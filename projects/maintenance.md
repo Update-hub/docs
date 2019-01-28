@@ -52,6 +52,11 @@ description: 既存サイトのメンテナンス
 * https://dotinstall.com/lessons/basic_git
 * https://dotinstall.com/lessons/basic_sass
 
+## ポイント
+
+* MR画面でDiffを確認する。その課題に関係ない別の課題の作業が紛れ込んでいない状態にする。
+* レビューで指摘があった場合、そのブランチで再度対応したあとそのままPushすれば良い。MRを出し直す必要はない。
+
 ## プロジェクトファイル
 
 maintenance-XXXX（XXXXは自分の名前）として自分のGitLabグループにインポートして、作業を開始してください。プロジェクトの進めかたは[こちら](flow.md)をご参照ください。
