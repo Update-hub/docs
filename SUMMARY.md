@@ -9,6 +9,7 @@
   * [プロジェクトの進め方](projects/flow.md)
   * [メンテナンス](projects/maintenance.md)
   * [LP](projects/lp.md)
+  * [新規サイト作成](projects/scratch.md)
   * [プロテスト](projects/pro-test.md)
 * [ドキュメント](documents/README.md)
   * [基礎知識](documents/base/README.md)
