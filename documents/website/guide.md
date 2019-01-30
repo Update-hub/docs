@@ -103,3 +103,30 @@ Issueにひもづく質問や指摘はIssueのコメントで行いましょう�
 ### インデントがおかしい
 
 エディターでフォーマットをかける。
+
+### メディアクエリ内で重複した記述がある
+
+```scss
+&:after {
+  content: '';
+  width: 30px;
+  height: 1px;
+  margin: 16px auto 6px;
+  display: block;
+  background-color: #17daa3;
+  @include sp {
+    content: ''; // かぶってる
+    width: 30px; // かぶってる
+    height: 1px; // かぶってる
+    margin: 9px auto 6px; // ここだけでいい
+    display: block; // かぶってる
+    background-color: #17daa3; // かぶってる
+  }
+}
+```
+
+### 不要なものにまで -webkit- をつけてしまう
+
+ほとんどプレフィックスは不要になっている。必要なものだけプレフィックスをつける。
+
+{% embed url="https://caniuse.com/" caption="" %}
