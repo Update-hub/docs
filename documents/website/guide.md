@@ -89,3 +89,17 @@ Issueにひもづく質問や指摘はIssueのコメントで行いましょう�
 必ずコードの中身を理解した上で参照してください。（理解しないまま丸コピはしない）
 
 * [Webサイト設計コレクション](https://codepen.io/collection/DQgZQR/)
+
+## 初心者にありがちなミス
+
+### BEMがおかしい
+
+* `element`がnestしている（`.block__element__element`）
+* `block`がない（`element`しかいない）
+* `modifier`が単体で使われている
+
+{% page-ref page="../documents/website/bem/" %}
+
+### インデントがおかしい
+
+エディターでフォーマットをかける。
