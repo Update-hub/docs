@@ -130,3 +130,7 @@ Issueにひもづく質問や指摘はIssueのコメントで行いましょう�
 ほとんどプレフィックスは不要になっている。必要なものだけプレフィックスをつける。
 
 {% embed url="https://caniuse.com/" caption="" %}
+
+### 存在しないタグを使っている
+
+{% embed url="https://developer.mozilla.org/ja/docs/Web/HTML/Element" caption="HTML要素一覧" %}
