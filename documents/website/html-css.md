@@ -4,6 +4,10 @@ description: Webサイト制作の基本
 
 # HTML
 
+## チュートリアル
+
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyah5ZgebIZ9yUcEDBjUTR040" caption="" %}
+
 ## 概要
 
 HTMLはサイト制作における基本中の基本です。HTMLでサイトを組み立てることを一般的にマークアップと呼びます。マークアップ1つでSEOや検索画面での見え方、メンテナンス性が大きく左右されるため、非常に重要なスキルとなります。
