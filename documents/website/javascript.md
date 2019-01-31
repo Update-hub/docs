@@ -26,6 +26,10 @@ JSにはバージョンがある。ブラウザ対応状況の都合でいまだ
 
 {% embed url="http://kangax.github.io/compat-table/es6/" caption="ブラウザ対応状況" %}
 
+## Ajax
+
+{% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyajtPQv9HZvuNHSKVsdqDXX9" caption="シリーズです" %}
+
 ## Tips
 
 ### ググりにくい記法
