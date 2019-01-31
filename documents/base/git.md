@@ -8,6 +8,10 @@ description: Gitはソースコードの管理に欠かせない必須ツール�
 
 {% embed url="https://www.youtube.com/playlist?list=PLw1QAmLkyyaiklAgOMsVzhh1kWD-mTO_c" caption="シリーズになっています" %}
 
+### 競合の解説
+
+{% embed url="https://youtu.be/pYkJ_34YoVA?t=1234" caption="" %}
+
 ## 概要
 
 {% embed url="https://www.youtube.com/watch?v=sY64kVwQ-bw&index=3&t=278s&list=PLw1QAmLkyyagylcEKmXLzSA6XgaxV4ofL" %}
