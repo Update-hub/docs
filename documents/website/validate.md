@@ -17,7 +17,7 @@ description: プロとして必要なフィルター
 | [HTML Validator](https://validator.w3.org/) | HTML構文チェック | エラーがない状態 |
 | [CSS Validator](https://jigsaw.w3.org/css-validator/) | CSS構文チェック | エラーがない状態 |
 | [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?hl=ja) | パフォーマンス改善 | PC, SPともにレッドスコアがないこと |
-| [モバイルフレンドリー](https://search.google.com/search-console/mobile-friendly?hl=ja) | スマホ対応 | エラーがない状態 |
+| [モバイルフレンドリー](https://search.google.com/test/mobile-friendly?hl=ja) | スマホ対応 | エラーがない状態 |
 
 ### ケースに応じたチェックツール
 
