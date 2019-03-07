@@ -21,7 +21,7 @@ description: 自分のできることや経験をまとめる
 
 ## Update推奨フォーマット
 
-{% page-ref page="https://www.resume.id/trends" %}
+{% embed url="https://www.resume.id/trends" caption="" %}
 
 住所（都道府県まで）を自由記述欄に記入してください。
 
@@ -34,6 +34,10 @@ description: 自分のできることや経験をまとめる
 株式会社Deer
 GitHub Flowによるチーム開発、W3Cに準拠したBEMマークアップ、Gulp、Nuxtの使用、モバイルフレンドーやPageSpeedチェック、最適化などを行いました。
 ```
+
+### Example
+
+{% embed url="https://www.resume.id/dninomiya" caption="" %}
 
 ### Works（実績）
 
