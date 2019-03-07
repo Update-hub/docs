@@ -60,6 +60,7 @@
 
 * [はじめに](update-work/readme/README.md)
   * [Update Workとは](update-work/readme/update-work.md)
+  * [レジュメ](update-work/readme/redume.md)
   * [事前準備](update-work/readme/ready.md)
 * [SES](update-work/ses/README.md)
   * [SESについて](update-work/ses/about.md)
