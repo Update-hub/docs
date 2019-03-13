@@ -19,6 +19,10 @@
 * [illustrations](https://undraw.co/illustrations/) - クレジット表記不要
 * [Vector for Free](https://vectorforfree.com/) - クレジット表記不要
 
+## Web Manifest Generator
+
+* [Web App Manifest Generator](https://app-manifest.firebaseapp.com/)
+
 ## Web Font
 
 * [Google Fonts](https://fonts.google.com/)
